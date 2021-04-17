@@ -1,0 +1,1003 @@
+ID_CLIENTE,region,tenure,age,marital,address,income,ed,employ,retire,gender,reside,tollfree,equip,callcard,wireless,longmon,tollmon,equipmon,cardmon,wiremon,longten,tollten,equipten,cardten,wireten,multline,voice,pager,internet,callid,callwait,forward,confer,ebill,custcat,churn,r_income,ed_mejorada
+1,Zone 2,13,44,Married,9,64,College degree,5,No,Male,2,No,No,Yes,No,3.7,0,0,7.5,0,37.45,0,0,110,0,No,No,No,No,No,No,Yes,No,No,Basic service,Yes,HighZone 2,4. College degree
+2,Zone 3,11,33,Married,7,136,Post-undergraduate degree,5,No,Male,6,Yes,No,Yes,Yes,4.4,20.75,0,15.25,35.7,42,211.45,0,125,380.35,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Total service,Yes,High,5. Post-undergraduate degree
+3,Zone 3,68,52,Married,24,116,Did not complete high school,29,No,Female,2,Yes,No,Yes,No,18.15,18,0,30.25,0,1300.6,1247.2,0,2150,0,No,No,No,No,Yes,Yes,No,Yes,No,Plus service,No,HighZone 2,1. Did not complete high school
+4,Zone 3,11,33,Married,7,136,Post-undergraduate degree,5,No,Male,6,Yes,No,Yes,Yes,4.4,20.75,0,15.25,35.7,42,211.45,0,125,380.35,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Total service,Yes,High,5. Post-undergraduate degree
+5,Zone 3,68,52,Married,24,116,Did not complete high school,29,No,Female,2,Yes,No,Yes,No,18.15,18,0,30.25,0,1300.6,1247.2,0,2150,0,No,No,No,No,Yes,Yes,No,Yes,No,Plus service,No,High,1. Did not complete high school
+6,Zone 2,33,33,Unmarried,12,33,High school degree,0,No,Female,1,No,No,No,No,9.45,0,0,0,0,288.8,0,0,0,0,No,No,No,No,No,No,No,No,No,Basic service,Yes,Medium,2. High school degree
+7,Zone 2,23,30,Married,9,30,Did not complete high school,2,No,Male,4,No,No,No,No,6.3,0,0,0,0,157.05,0,0,0,0,No,No,No,No,Yes,No,Yes,Yes,No,Plus service,No,Medium,1. Did not complete high school
+8,Zone 2,41,39,Unmarried,17,78,High school degree,16,No,Female,1,Yes,No,Yes,No,11.8,19.25,0,13.5,0,487.4,798.4,0,570,0,No,No,No,No,Yes,Yes,No,No,No,Plus service,No,High,2. High school degree
+9,Zone 3,45,22, ,2,19,High school degree,4,No,Female,5,No,No,Yes,No,10.9,0,0,8.75,0,504.5,0,0,415,0,Yes,No,No,Yes,No,Yes,No,No,Yes,E-service,Yes,Low,2. High school degree
+10,Zone 2,38,35,Unmarried,5,76,High school degree,10,No,Male,3,Yes,Yes,Yes,Yes,6.05,45,50.1,23.25,64.9,239.55,1873.05,1820.9,880,2256.7,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Total service,No,High,2. High school degree
+11,Zone 3,45,59,Married,7,166,College degree,31,No,Male,5,Yes,No,Yes,No,9.75,28.5,0,12,0,449.05,1240.15,0,505,0,Yes,No,No,No,Yes,Yes,Yes,Yes,No,Plus service,No,Very High,4. College degree
+12,Zone 1,68,41,Married,21,72,Did not complete high school,22,No,Male,3,No,No,Yes,No,24.15,0,0,16.5,0,1659.7,0,0,1155,0,Yes,No,No,No,No,No,No,No,No,E-service,No,High,1. Did not complete high school
+13,Zone 2,5,33,Unmarried,10,125,College degree,5,No,Female,1,No,Yes,No,No,4.85,0,26.15,0,0,17.25,0,110.1,0,0,No,No,Yes,Yes,No,No,No,No,Yes,Basic service,Yes,High,4. College degree
+14,Zone 3,7,35,Unmarried,14,80,High school degree,15,No,Female,1,Yes,No,Yes,No,7.1,22,0,23.75,0,47.45,166.1,0,145,0,No,Yes,No,No,Yes,Yes,Yes,Yes,No,Plus service,No,High,2. High school degree
+15,Zone 1,41,38,,8,37,High school degree,9,No,Female,3,No,No,Yes,No,8.55,0,0,41.75,0,308.7,0,0,1650,0,No,No,No,No,No,No,No,No,No,Basic service,No,Medium,2. High school degree
+16,Zone 2,57,54,Married,30,115,College degree,23,No,Female,3,Yes,Yes,No,Yes,15.6,46.25,46.7,0,61.05,825.35,2624.25,2591,0,3348.85,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Total service,Yes,High,4. College degree
+17,Zone 2,9,46,Unmarried,3,25,Did not complete high school,8,No,Female,2,No,No,No,No,4.4,0,0,0,0,36.8,0,0,0,0,No,No,No,No,No,No,No,No,No,Basic service,No,Low,1. Did not complete high school
+18,Zone 1,29,38,Married,12,75,Post-undergraduate degree,1,No,Male,4,No,Yes,Yes,No,5.1,0,30.25,11.25,0,146.25,0,780.8,295,0,Yes,No,No,Yes,No,No,No,No,No,E-service,No,High,5. Post-undergraduate degree
+19,Zone 3,60,57,Unmarried,38,162,High school degree,30,No,Male,1,Yes,Yes,Yes,No,16.15,29.75,31.3,30,0,946.9,1767.6,1789,1795,0,Yes,No,No,No,Yes,Yes,Yes,Yes,No,Plus service,No,Very High,2. High school degree
+20,Zone 3,34,48,Unmarried,3,49,High school degree,6,No,Female,3,Yes,No,No,No,6.65,18.5,0,0,0,230.8,614.3,0,0,0,No,No,No,No,No,Yes,Yes,Yes,No,Plus service,No,Medium,2. High school degree
+21,Zone 2,1,24,Unmarried,3,20,Did not complete high school,3,No,Male,1,No,No,No,No,1.05,0,0,0,0,1.05,0,0,0,0,No,No,No,No,No,No,No,No,No,Basic service,No,Low,1. Did not complete high school
+22,Zone 1,26,29,Married,3,77,College degree,2,No,Male,4,No,Yes,Yes,Yes,6.7,0,48.1,24.25,38.3,140.95,0,1132.8,610,910.1,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Total service,Yes,High,4. College degree
+23,Zone 3,6,30,Unmarried,7,16,Some college,1,No,Female,1,No,Yes,No,Yes,3.75,0,33.8,0,18.7,25.65,0,175.3,0,78.2,Yes,No,Yes,Yes,No,Yes,No,No,No,E-service,Yes,Low,3. Some college
+24,Zone 1,68,52,Married,17,120,Did not complete high school,24,No,Male,2,No,No,Yes,No,20.7,0,0,22,0,1391.05,0,0,1505,0,No,No,No,No,No,No,Yes,No,No,Basic service,No,High,1. Did not complete high school
+25,Zone 3,53,33,Unmarried,10,101,Post-undergraduate degree,4,No,Female,2,No,Yes,Yes,Yes,5.3,0,49.6,26.75,51.4,253.35,0,2499.8,1340,2645.15,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Total service,No,High,5. Post-undergraduate degree
+26,Zone 3,55,48,,19,67,Did not complete high school,25,No,Male,3,No,No,Yes,No,15.05,0,0,27.25,0,810.45,0,0,1390,0,No,No,No,No,No,No,No,No,No,Basic service,No,High,1. Did not complete high school
+27,Zone 3,14,43,Married,18,36,Did not complete high school,5,No,Male,5,Yes,No,Yes,No,12.5,19.75,0,18,0,153.75,273.75,0,215,0,No,No,No,No,Yes,Yes,Yes,Yes,No,Plus service,No,Medium,1. Did not complete high school
+28,Zone 2,1,21,Unmarried,0,33,High school degree,0,No,Female,3,Yes,No,Yes,No,2.2,20.75,0,40.5,0,2.2,20.75,0,40.5,0,No,No,No,No,No,Yes,Yes,Yes,No,Plus service,No,Medium,2. High school degree
+29,Zone 2,42,40,Unmarried,7,37,High school degree,8,No,Female,1,Yes,Yes,Yes,Yes,8.25,23.5,36.9,28,37.4,399.15,950.65,1532.9,1190,1562,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Total service,No,Medium,2. High school degree
+30,Zone 3,25,33,Married,11,31,Did not complete high school,5,No,Male,4,No,No,No,No,9.1,0,0,0,0,234.95,0,0,0,0,Yes,No,No,No,Yes,No,Yes,No,No,Plus service,No,Medium,1. Did not complete high school
+31,Zone 1,9,21,Married,1,17,High school degree,2,No,Female,3,No,No,No,No,2.9,0,0,0,0,25.25,0,0,0,0,No,No,No,No,Yes,No,No,No,No,Basic service,No,Low,2. High school degree
+32,Zone 2,13,33,Married,9,19,College degree,0,No,Female,2,No,Yes,No,No,5.55,0,27.35,0,0,75.25,0,330.65,0,0,Yes,No,No,Yes,No,No,No,Yes,Yes,E-service,No,Low,4. College degree
+33,Zone 1,56,37,Married,6,36,Did not complete high school,13,No,Female,2,No,Yes,Yes,No,10.6,0,31.1,18.25,0,582.6,0,1756.4,1005,0,Yes,No,No,Yes,No,No,No,No,Yes,E-service,No,Medium,1. Did not complete high school
+34,Zone 1,71,53,Married,27,155,Post-undergraduate degree,12,No,Male,2,Yes,No,Yes,Yes,21,56,0,34,49.95,1519.2,4064.3,0,2345,3646.9,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,Total service,No,Very High,5. Post-undergraduate degree
+35,Zone 1,35,50,Married,26,140,High school degree,21,No,Female,4,Yes,No,Yes,No,6.5,27.5,0,35,0,247.55,1068.25,0,1215,0,No,No,No,No,No,Yes,Yes,Yes,No,Plus service,No,High,2. High school degree
+36,Zone 1,11,27,Married,8,55,Post-undergraduate degree,0,No,Male,3,No,Yes,No,No,4.8,0,19.55,0,0,54.1,0,220.4,0,0,Yes,No,No,Yes,No,No,No,No,No,E-service,No,High,5. Post-undergraduate degree
+37,Zone 2,60,46,Married,13,163,Some college,24,No,Male,2,Yes,Yes,Yes,Yes,33.9,38.25,44.65,13.75,55.25,1947.95,2326.35,2645.9,840,3125.95,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Total service,No,Very High,3. Some college
+38,Zone 3,20,35,Married,11,52,College degree,0,No,Male,2,No,Yes,No,No,4.25,0,30.55,0,0,82.7,0,547.15,0,0,Yes,No,No,Yes,No,No,No,No,Yes,E-service,Yes,High,4. College degree
+39,Zone 2,54,60,Unmarried,38,211,College degree,25,No,Male,1,Yes,Yes,Yes,Yes,21.15,39.25,46.35,54.25,54.85,1228.7,2102.25,2421.3,2785,2895.85,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Total service,No,Very High,4. College degree
+40,Zone 1,44,57,Married,1,186,High school degree,17,No,Male,2,Yes,No,Yes,Yes,9.8,33.5,0,36,41.65,428.25,1379.55,0,1535,1826.7,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,Plus service,No,Very High,2. High school degree
+41,Zone 1,11,41,,0,39,Did not complete high school,1,No,Female,2,Yes,No,Yes,No,6.55,29.25,0,19.75,0,67.8,303.65,0,200,0,No,Yes,No,No,Yes,Yes,Yes,Yes,No,Plus service,Yes,Medium,1. Did not complete high school
+42,Zone 2,72,57,Unmarried,34,22,High school degree,35,Yes,Female,1,Yes,No,Yes,No,41.75,49,0,18.75,0,3043.05,3581,0,1360,0,Yes,No,No,No,Yes,Yes,Yes,Yes,No,Plus service,No,Low,2. High school degree
+43,Zone 3,10,41,Unmarried,7,30,Did not complete high school,7,No,Male,1,Yes,No,Yes,No,2.5,19.25,0,53.75,0,31.25,178.2,0,490,0,No,No,No,No,Yes,Yes,Yes,Yes,No,Plus service,No,Medium,1. Did not complete high school
+44,Zone 2,15,28,Unmarried,0,29,High school degree,4,No,Female,1,Yes,No,Yes,No,4.25,30,0,17.75,0,78,426.05,0,255,0,No,No,No,No,Yes,Yes,Yes,Yes,No,Plus service,No,Low,2. High school degree
+45,Zone 2,27,28,Married,4,23,High school degree,8,No,Male,5,No,No,No,No,6.2,0,0,0,0,180.15,0,0,0,0,No,No,No,No,Yes,No,No,No,No,Basic service,No,Low,2. High school degree
+46,Zone 1,9,36,Married,14,62,College degree,10,No,Male,6,No,Yes,No,Yes,5.65,0,46.75,0,48.5,43.3,0,386.6,0,364.85,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,Total service,Yes,High,4. College degree
+47,Zone 1,64,43,Married,20,76,College degree,20,No,Female,4,Yes,No,Yes,No,14.7,18.75,0,11,0,897.05,1279.25,0,680,0,Yes,No,No,No,Yes,Yes,No,Yes,No,Plus service,No,High,4. College degree
+48,Zone 1,65,41,Married,3,74,College degree,16,No,Male,2,No,Yes,Yes,No,14.5,0,37,17,0,963.3,0,2263.1,1065,0,Yes,Yes,No,Yes,No,No,No,No,Yes,E-service,No,High,4. College degree
+49,Zone 1,49,51,Married,27,63,College degree,19,No,Male,5,Yes,No,Yes,No,12.85,25.75,0,14.25,0,585.6,1278.45,0,635,0,Yes,No,No,Yes,No,Yes,No,No,Yes,E-service,No,High,4. College degree
+50,Zone 3,47,41,Married,0,36,College degree,8,No,Male,2,No,Yes,Yes,Yes,7.75,0,37.45,18.5,38.8,361,0,1717.8,845,1730.4,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,Total service,Yes,Medium,4. College degree
+51,Zone 3,9,34,Married,9,33,High school degree,8,No,Female,4,No,Yes,No,No,2.95,0,22.95,0,0,18.9,0,208.55,0,0,No,No,No,No,No,No,No,No,No,Basic service,Yes,Medium,2. High school degree
+52,Zone 1,5,36,Unmarried,14,29,High school degree,9,No,Female,1,Yes,No,Yes,Yes,3.25,31.5,0,15.5,26.75,16.8,154.65,0,60,98.6,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Plus service,Yes,Low,2. High school degree
+53,Zone 2,30,34,,4,27,High school degree,1,No,Male,5,No,Yes,No,No,6.3,0,22.5,0,0,150.9,0,690.75,0,0,No,No,No,Yes,No,No,No,No,No,Basic service,Yes,Low,2. High school degree
+54,Zone 1,56,52,Married,28,49,High school degree,12,No,Male,4,No,No,Yes,No,24.75,0,0,22.25,0,1349.05,0,0,1215,0,Yes,No,No,No,No,No,No,No,No,E-service,No,Medium,2. High school degree
+55,Zone 3,10,22,Unmarried,0,24,College degree,0,No,Male,1,Yes,Yes,Yes,Yes,7.8,23.75,37.25,22.5,30.05,63,222.55,330.4,185,306.3,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Total service,No,Low,4. College degree
+56,Zone 1,7,26,Married,3,26,High school degree,2,No,Male,5,Yes,No,No,No,4.85,15.5,0,0,0,33.7,136.55,0,0,0,No,No,No,No,No,Yes,No,No,No,Basic service,No,Low,2. High school degree
+57,Zone 1,52,27,Unmarried,6,47,Some college,5,No,Male,2,Yes,No,Yes,No,6.25,18.5,0,14.25,0,330.4,942.65,0,725,0,No,No,No,No,Yes,No,No,No,Yes,Basic service,No,Medium,3. Some college
+58,Zone 2,36,45,Married,1,94,High school degree,18,No,Female,5,Yes,Yes,No,No,7.2,15.75,28.35,0,0,258.75,553.8,1043.8,0,0,No,No,Yes,Yes,Yes,No,No,Yes,No,Basic service,Yes,High,2. High school degree
+59,Zone 3,27,34,Unmarried,8,21,Some college,4,No,Female,1,No,No,No,No,7.65,0,0,0,0,213.45,0,0,0,0,Yes,No,No,No,No,No,No,No,No,E-service,No,Low,3. Some college
+60,Zone 1,58,62,Married,36,27,Did not complete high school,0,No,Male,2,No,No,Yes,No,15.5,0,0,34.5,0,967.1,0,0,1910,0,No,No,No,No,No,No,No,No,No,Basic service,No,Low,1. Did not complete high school
+61,Zone 2,41,52,Unmarried,27,30,High school degree,2,No,Female,1,Yes,No,Yes,Yes,10.4,28,0,19,27.5,447.85,1152,0,800,1036.65,No,No,No,No,Yes,Yes,Yes,Yes,No,Plus service,No,Medium,2. High school degree
+62,Zone 2,47,40,Married,16,127,College degree,12,No,Female,4,No,Yes,Yes,No,19.7,0,28.15,14.75,0,909.9,0,1319.7,680,0,Yes,No,No,Yes,No,No,No,No,Yes,E-service,No,High,4. College degree
+63,Zone 2,55,39,Married,15,137,High school degree,20,No,Female,2,Yes,No,Yes,No,12.7,27.5,0,11.5,0,676.9,1505.2,0,620,0,No,Yes,No,No,Yes,Yes,Yes,Yes,No,Plus service,Yes,High,2. High school degree
+64,Zone 2,56,50,Married,1,80,High school degree,24,No,Female,4,Yes,No,Yes,Yes,28.8,55.5,0,21.25,61.1,1558.1,3119.45,0,1065,3268.05,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Total service,No,High,2. High school degree
+65,Zone 3,35,55,Unmarried,24,30,High school degree,2,No,Male,1,No,No,Yes,No,10.25,0,0,15.75,0,395.85,0,0,550,0,No,No,No,No,No,No,No,No,No,Basic service,No,Medium,2. High school degree
+66,Zone 2,69,51,Married,11,438,College degree,23,No,Female,2,No,Yes,Yes,No,29,0,47.05,24.75,0,1815.4,0,3064.2,1655,0,Yes,No,Yes,Yes,Yes,No,No,Yes,No,Total service,No,Very High,4. College degree
+67,Zone 2,44,39,Unmarried,16,79,High school degree,16,No,Male,1,Yes,Yes,Yes,Yes,15.25,24.5,37.45,27.25,30.05,653.7,1037.45,1610.1,1110,1280,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Total service,Yes,High,2. High school degree
+68,Zone 3,36,47,Married,16,63,Did not complete high school,23,No,Male,2,No,No,Yes,No,9.05,0,0,6.75,0,373.65,0,0,220,0,No,No,No,No,No,No,No,No,No,Basic service,No,High,1. Did not complete high school
+69,Zone 3,28,51,Married,22,40,Some college,10,No,Female,6,Yes,No,No,No,8.95,21.25,0,0,0,253.55,586.95,0,0,0,No,No,No,No,Yes,Yes,Yes,Yes,No,Plus service,No,Medium,3. Some college
+70,Zone 1,72,67,Married,44,51,Did not complete high school,34,Yes,Male,2,Yes,No,Yes,No,57.05,51.5,0,19.25,0,4168.25,3657.9,0,1345,0,Yes,No,No,No,Yes,Yes,Yes,Yes,No,Plus service,No,High,1. Did not complete high school
+71,Zone 1,16,27,Unmarried,5,37,Some college,5,No,Male,4,No,No,No,No,6,0,0,0,0,80.7,0,0,0,0,No,No,No,No,No,No,No,No,No,Basic service,No,Medium,3. Some college
+72,Zone 3,3,43,Unmarried,19,61,College degree,11,No,Female,1,No,Yes,Yes,Yes,3.15,0,27.25,16.25,17.95,7.9,0,53.25,20,38.2,No,No,No,Yes,Yes,No,No,Yes,Yes,Basic service,Yes,High,4. College degree
+73,Zone 1,40,57,Married,15,22,High school degree,9,No,Male,2,No,No,Yes,No,8.55,0,0,19.75,0,381.5,0,0,710,0,No,No,No,No,No,No,No,No,No,Basic service,No,Low,2. High school degree
+74,Zone 3,16,39,Unmarried,6,44,College degree,3,No,Female,1,No,Yes,No,No,6.6,0,23.3,0,0,96.3,0,350.15,0,0,Yes,No,No,Yes,No,No,No,No,Yes,E-service,No,Medium,4. College degree
+75,Zone 1,20,42,Unmarried,4,17,Some college,5,No,Male,1,No,No,No,No,7.8,0,0,0,0,175.85,0,0,0,0,No,No,No,No,No,No,No,No,No,Basic service,No,Low,3. Some college
+76,Zone 2,48,43,Unmarried,13,110,Post-undergraduate degree,15,No,Female,3,No,Yes,No,Yes,7.25,0,33.5,0,20.65,359.35,0,1572.7,0,1010.4,Yes,Yes,No,Yes,No,No,No,No,Yes,E-service,No,High,5. Post-undergraduate degree
+77,Zone 2,64,48,Married,13,91,High school degree,24,No,Male,2,Yes,No,Yes,Yes,24.5,24.75,0,12.5,29.65,1531.9,1569.25,0,780,1875.95,Yes,No,No,No,Yes,Yes,Yes,Yes,No,Plus service,No,High,2. High school degree
+78,Zone 1,8,46,Unmarried,3,46,High school degree,8,No,Male,1,No,Yes,No,No,3.15,0,25.05,0,0,16.65,0,172.05,0,0,No,No,Yes,Yes,No,No,No,No,Yes,Basic service,No,Medium,2. High school degree
+79,Zone 1,40,38,Married,10,85,Some college,12,No,Male,2,No,No,No,No,10.6,0,0,0,0,384.8,0,0,0,0,No,No,No,No,Yes,Yes,Yes,Yes,No,Plus service,Yes,High,3. Some college
+80,Zone 2,38,71,Unmarried,27,10,High school degree,12,Yes,Male,1,No,No,No,No,11.2,0,0,0,0,429.85,0,0,0,0,No,No,No,No,No,No,No,Yes,No,Basic service,No,Low,2. High school degree
+81,Zone 1,67,68,Unmarried,28,244,Did not complete high school,47,No,Female,1,Yes,No,Yes,No,30.25,30.25,0,30.75,0,2186.2,2036.15,0,2105,0,No,Yes,No,No,Yes,Yes,Yes,Yes,No,Plus service,No,Very High,1. Did not complete high school
+82,Zone 1,26,42,Unmarried,0,80,College degree,15,No,Female,1,Yes,Yes,Yes,Yes,7.85,44,49.6,10.5,43.75,196.65,1123.25,1159.4,250,1176.55,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Total service,No,High,4. College degree
+83,Zone 3,41,34,Married,15,83,Post-undergraduate degree,1,No,Female,2,Yes,No,Yes,No,8.9,33.75,0,5.75,0,379.55,1404.45,0,220,0,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Total service,No,High,5. Post-undergraduate degree
+84,Zone 2,2,31,Unmarried,2,21,Did not complete high school,6,No,Male,1,No,Yes,No,No,1.65,0,21.6,0,0,3.2,0,17.25,0,0,No,No,No,No,No,No,No,Yes,No,Basic service,Yes,Low,1. Did not complete high school
+85,Zone 3,20,48,Married,29,24,High school degree,3,No,Male,2,Yes,No,Yes,No,11.85,22.5,0,35,0,230.7,452.75,0,675,0,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Total service,Yes,Low,2. High school degree
+86,Zone 2,31,53,Unmarried,2,351,Some college,31,No,Female,1,Yes,No,Yes,No,5.5,31.5,0,19.25,0,185.3,1009.9,0,585,0,No,No,Yes,No,Yes,Yes,Yes,Yes,No,Plus service,No,Very High,3. Some college
+87,Zone 2,45,52,Married,4,169,College degree,29,No,Female,4,No,Yes,Yes,No,14.65,0,40.45,14.25,0,618.15,0,1820.4,690,0,Yes,No,No,Yes,No,No,No,No,No,E-service,No,Very High,4. College degree
+88,Zone 2,33,27,Married,7,46,High school degree,7,No,Male,4,No,Yes,No,No,7.25,0,29.15,0,0,243.35,0,923.85,0,0,No,No,No,No,No,No,No,No,Yes,Basic service,No,Medium,2. High school degree
+89,Zone 1,10,26,Unmarried,6,34,Some college,3,No,Male,1,No,Yes,No,No,4.85,0,27.7,0,0,41.85,0,223.05,0,0,Yes,No,No,No,No,No,No,No,No,E-service,No,Medium,3. Some college
+90,Zone 2,62,54,Married,2,50,College degree,3,No,Male,2,No,Yes,Yes,Yes,17.25,0,48,87.5,33.25,1067.8,0,2864.2,5455,2022.55,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Total service,Yes,Medium,4. College degree
+91,Zone 2,4,35,Unmarried,16,161,Post-undergraduate degree,6,No,Female,1,Yes,Yes,No,Yes,3.4,23.75,49.8,0,35.75,10.35,103.1,126.95,0,135.25,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Total service,Yes,Very High,5. Post-undergraduate degree
+92,Zone 1,42,47,Married,17,212,College degree,17,No,Male,2,Yes,No,Yes,No,7.45,26.75,0,24.75,0,320.9,1163.55,0,1035,0,No,No,No,No,Yes,Yes,Yes,No,No,Plus service,No,Very High,4. College degree
+93,Zone 3,27,51,Married,3,80,Post-undergraduate degree,11,No,Male,3,No,Yes,No,No,7.1,0,39.4,0,0,176.2,0,1086.7,0,0,Yes,No,Yes,Yes,No,No,No,No,Yes,E-service,No,High,5. Post-undergraduate degree
+94,Zone 2,38,42,Unmarried,1,30,College degree,7,No,Female,1,Yes,No,No,No,13.2,27.5,0,0,0,495.85,1087.9,0,0,0,No,No,No,No,No,Yes,No,No,No,Basic service,No,Medium,4. College degree
+95,Zone 3,52,61,Married,3,53,Post-undergraduate degree,1,No,Female,2,No,Yes,Yes,Yes,12.25,0,38.4,8.75,35.95,631.7,0,1884.1,465,1971.35,Yes,Yes,No,Yes,No,No,No,Yes,Yes,E-service,No,High,5. Post-undergraduate degree
+96,Zone 3,35,33,Unmarried,9,73,Post-undergraduate degree,4,No,Female,1,Yes,No,Yes,Yes,5.85,38.25,0,22.25,40.35,216.6,1337.6,0,700,1423.8,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Total service,No,High,5. Post-undergraduate degree
+97,Zone 3,3,20,Married,1,17,High school degree,0,No,Female,4,No,No,No,No,3.75,0,0,0,0,12.3,0,0,0,0,No,No,No,No,No,No,No,No,Yes,Basic service,Yes,Low,2. High school degree
+98,Zone 2,17,33,Unmarried,9,23,Post-undergraduate degree,3,No,Male,1,No,Yes,Yes,Yes,10.2,0,36.4,14.5,30.9,196.3,0,570.9,220,529.25,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,Total service,Yes,Low,5. Post-undergraduate degree
+99,Zone 1,55,53,Married,21,34,Did not complete high school,8,No,Male,2,No,No,No,No,5.7,0,0,0,0,304.4,0,0,0,0,No,No,No,No,No,Yes,Yes,Yes,No,Plus service,No,Medium,1. Did not complete high school
+100,Zone 3,43,36,Married,5,107,Did not complete high school,19,No,Female,3,Yes,No,Yes,No,11.55,12.75,0,21.5,0,491.55,583.75,0,910,0,Yes,No,No,No,No,No,No,No,No,E-service,Yes,High,1. Did not complete high school
+101,Zone 2,47,25,Married,5,21,Did not complete high school,1,No,Female,2,Yes,No,Yes,No,8.65,30.5,0,9,0,426.6,1465.45,0,405,0,No,No,No,No,No,Yes,Yes,Yes,No,Plus service,Yes,Low,1. Did not complete high school
+102,Zone 3,65,58,Unmarried,30,83,High school degree,16,No,Female,1,No,No,Yes,No,19.3,0,0,22.75,0,1323.2,0,0,1370,0,Yes,No,No,No,No,Yes,No,No,No,E-service,No,High,2. High school degree
+103,Zone 1,13,20,Unmarried,1,17,Some college,0,No,Male,5,No,Yes,Yes,No,3.05,0,31.3,14,0,40.3,0,390.6,155,0,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Total service,No,Low,3. Some college
+104,Zone 3,64,25,Married,4,76,Some college,2,No,Female,6,No,Yes,Yes,No,24.05,0,35.4,21.25,0,1536.55,0,2288.5,1400,0,Yes,No,No,No,Yes,No,Yes,Yes,Yes,Plus service,No,High,3. Some college
+105,Zone 2,12,24,Unmarried,2,19,Did not complete high school,0,No,Male,1,Yes,No,Yes,No,4,24.75,0,27.25,0,46,299,0,295,0,No,No,No,No,Yes,Yes,Yes,Yes,No,Plus service,Yes,Low,1. Did not complete high school
+106,Zone 1,29,32,Married,0,49,College degree,3,No,Female,3,No,Yes,No,No,6.7,0,33,0,0,187,0,918.25,0,0,Yes,No,Yes,Yes,No,No,No,No,Yes,E-service,Yes,Medium,4. College degree
+107,Zone 2,23,47,Unmarried,21,173,Some college,22,No,Female,1,No,No,No,No,7.6,0,0,0,0,145.9,0,0,0,0,Yes,No,No,No,Yes,No,No,Yes,Yes,E-service,No,Very High,3. Some college
+108,Zone 2,14,35,Unmarried,4,47,Some college,10,No,Female,1,Yes,No,No,Yes,5,21.75,0,0,24.15,76.2,318.2,0,0,274,Yes,No,No,No,No,No,Yes,Yes,Yes,E-service,Yes,Medium,3. Some college
+109,Zone 1,35,61,Unmarried,23,41,High school degree,11,No,Male,1,No,No,Yes,No,9.6,0,0,9.5,0,353.55,0,0,295,0,No,No,No,No,No,No,No,No,No,Basic service,No,Medium,2. High school degree
+110,Zone 3,26,39,Unmarried,8,105,Some college,13,No,Female,1,Yes,No,Yes,Yes,6.6,39.75,0,37.25,38.25,159.7,1022.45,0,1005,885.1,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Total service,No,High,3. Some college
+111,Zone 1,13,54,Unmarried,2,31,College degree,2,No,Male,1,No,No,No,No,5.85,0,0,0,0,97,0,0,0,0,No,Yes,No,Yes,No,No,No,No,Yes,Basic service,No,Medium,4. College degree
+112,Zone 2,69,40,Married,13,41,High school degree,17,No,Male,3,No,No,Yes,No,25.25,0,0,33,0,1725.1,0,0,2320,0,Yes,No,No,No,No,No,No,No,No,E-service,No,Medium,2. High school degree
+113,Zone 3,61,50,Married,30,102,College degree,9,No,Female,3,No,No,Yes,No,12.6,0,0,12.5,0,760.3,0,0,745,0,Yes,No,No,Yes,No,No,No,No,Yes,E-service,No,High,4. College degree
+114,Zone 2,45,22,Married,2,36,College degree,0,No,Female,5,Yes,Yes,No,No,9.95,14.75,26.15,0,0,412.1,663.1,1180.5,0,0,Yes,No,No,No,No,No,No,No,No,E-service,Yes,Medium,4. College degree
+115,Zone 2,3,37,Unmarried,13,24,Did not complete high school,3,No,Female,1,No,No,No,No,2,0,0,0,0,3.05,0,0,0,0,No,Yes,No,No,No,No,No,Yes,Yes,Basic service,No,Low,1. Did not complete high school
+116,Zone 2,53,22,Unmarried,1,25,College degree,0,No,Male,2,No,Yes,Yes,No,12.05,0,27.15,6.5,0,666,0,1469.3,335,0,Yes,No,No,Yes,No,No,No,No,Yes,E-service,No,Low,4. College degree
+117,Zone 1,59,42,Unmarried,1,68,High school degree,21,No,Female,1,Yes,No,Yes,No,17.3,21.25,0,19.25,0,997.85,1183.55,0,1160,0,Yes,No,No,No,Yes,Yes,Yes,Yes,No,Plus service,No,High,2. High school degree
+118,Zone 1,13,34,Unmarried,11,20,Some college,0,No,Female,1,No,No,No,No,4.8,0,0,0,0,71.05,0,0,0,0,No,No,No,Yes,No,No,No,No,No,Basic service,No,Low,3. Some college
+119,Zone 3,31,31,Unmarried,4,48,Did not complete high school,15,No,Male,1,No,No,No,No,3.8,0,0,0,0,127.7,0,0,0,0,No,No,No,No,No,Yes,Yes,Yes,No,Plus service,No,Medium,1. Did not complete high school
+120,Zone 1,40,29,Married,6,40,High school degree,8,No,Female,5,No,No,No,No,13,0,0,0,0,502.95,0,0,0,0,No,No,No,No,No,Yes,Yes,Yes,No,Plus service,No,Medium,2. High school degree
+121,Zone 1,48,55,Unmarried,15,79,Did not complete high school,25,No,Male,1,No,No,Yes,No,13.8,0,0,25.5,0,668.65,0,0,1140,0,No,No,No,No,Yes,Yes,Yes,Yes,No,Plus service,No,High,1. Did not complete high school
+122,Zone 3,3,31,Unmarried,1,28,Did not complete high school,0,No,Male,1,Yes,Yes,Yes,No,3.45,15.5,23.3,23.5,0,13.3,48.75,62.95,45,0,No,No,No,Yes,No,No,Yes,No,No,Basic service,Yes,Low,1. Did not complete high school
+123,Zone 2,51,48,Unmarried,12,64,High school degree,22,No,Female,1,No,No,Yes,No,14.8,0,0,17,0,708.45,0,0,820,0,No,No,No,No,No,No,No,No,No,Basic service,No,High,2. High school degree
+124,Zone 3,33,41,Unmarried,15,37,High school degree,11,No,Male,1,No,No,No,No,12.2,0,0,0,0,415.05,0,0,0,0,No,No,No,No,No,No,No,No,No,Basic service,No,Medium,2. High school degree
+125,Zone 3,14,47,Married,7,48,Did not complete high school,13,No,Male,2,Yes,No,No,No,4.25,11,0,0,0,55.5,126.45,0,0,0,No,No,No,No,No,No,No,Yes,No,Basic service,No,Medium,1. Did not complete high school
+126,Zone 1,17,42,Married,6,131,Post-undergraduate degree,6,No,Male,3,No,Yes,No,Yes,5.8,0,35.35,0,21.65,103.1,0,527.8,0,331.4,Yes,No,No,Yes,No,No,No,No,Yes,E-service,Yes,High,5. Post-undergraduate degree
+127,Zone 3,19,29,Married,9,18,High school degree,2,No,Male,3,No,No,No,No,5.4,0,0,0,0,108.5,0,0,0,0,No,No,No,Yes,No,No,Yes,No,Yes,Basic service,Yes,Low,2. High school degree
+128,Zone 2,58,36,Unmarried,10,38,High school degree,14,No,Female,1,No,No,Yes,No,10.15,0,0,17.75,0,538.65,0,0,1030,0,Yes,No,No,No,No,No,No,No,No,E-service,No,Medium,2. High school degree
+129,Zone 3,22,23,Unmarried,3,37,High school degree,4,No,Female,3,No,Yes,Yes,Yes,5.35,0,28.1,9,24.7,144.05,0,602.2,200,503.5,No,Yes,No,Yes,Yes,No,No,Yes,Yes,Total service,No,Medium,2. High school degree
+130,Zone 2,29,31,Married,1,60,College degree,6,No,Male,5,No,Yes,No,No,9.6,0,26.75,0,0,243.9,0,730.8,0,0,Yes,No,No,Yes,No,No,No,No,Yes,E-service,Yes,High,4. College degree
+131,Zone 3,14,22,Married,2,13,Some college,0,No,Female,4,No,Yes,No,No,9.45,0,26.85,0,0,117.55,0,364.1,0,0,Yes,No,No,Yes,No,No,No,No,No,E-service,Yes,Low,3. Some college
+132,Zone 2,70,64,Married,18,98,Did not complete high school,31,No,Female,2,Yes,No,Yes,Yes,26.15,84,0,11.25,45.45,1805.1,5850.25,0,720,3243.25,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Total service,No,High,1. Did not complete high school
+133,Zone 1,62,52,Married,2,195,Did not complete high school,23,No,Male,2,Yes,No,Yes,Yes,23.15,36.75,0,36,34.3,1420.95,2308.25,0,2205,2082.8,Yes,No,No,No,No,No,Yes,Yes,No,Plus service,Yes,Very High,1. Did not complete high school
+134,Zone 2,7,35,Married,0,47,Did not complete high school,14,No,Male,5,No,No,No,No,5.2,0,0,0,0,46.9,0,0,0,0,No,No,No,No,No,No,No,No,No,Basic service,Yes,Medium,1. Did not complete high school
+135,Zone 1,56,47,Married,19,65,High school degree,22,No,Male,3,Yes,No,Yes,Yes,12.4,48.75,0,36.5,58.4,744.45,2695.95,0,2070,3084.2,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Total service,No,High,2. High school degree
+136,Zone 1,50,50,Married,22,150,Post-undergraduate degree,5,No,Female,4,No,Yes,Yes,No,19.3,0,33.4,50.75,0,930.8,0,1719.4,2585,0,Yes,Yes,No,Yes,No,No,Yes,No,Yes,E-service,Yes,High,5. Post-undergraduate degree
+137,Zone 2,57,39,Unmarried,6,106,Post-undergraduate degree,8,No,Male,1,Yes,Yes,Yes,Yes,9.05,24.25,41.85,12.25,39.6,568.15,1486.35,2291.4,740,2183.95,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,Plus service,No,High,5. Post-undergraduate degree
+138,Zone 3,2,40,Unmarried,19,51,College degree,14,No,Female,1,No,No,No,No,4.25,0,0,0,0,6.8,0,0,0,0,No,Yes,No,Yes,No,No,No,No,Yes,Basic service,No,High,4. College degree
+139,Zone 2,40,38,Unmarried,17,96,College degree,0,No,Female,1,No,No,No,No,9.3,0,0,0,0,316.05,0,0,0,0,No,No,No,No,No,No,No,No,No,Basic service,No,High,4. College degree
+140,Zone 2,6,43,Unmarried,4,33,Post-undergraduate degree,7,No,Male,2,No,No,Yes,Yes,4.25,0,0,16.25,26.75,30,0,0,85,146.55,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,Plus service,No,Medium,5. Post-undergraduate degree
+141,Zone 3,23,25,Married,6,38,High school degree,1,No,Female,3,Yes,Yes,Yes,No,13.9,23.25,28.5,3.75,0,255,574.85,621.25,65,0,Yes,No,Yes,No,No,Yes,Yes,No,No,Plus service,No,Medium,2. High school degree
+142,Zone 3,11,32,Unmarried,6,125,College degree,5,No,Male,1,Yes,Yes,Yes,Yes,3.8,19.25,61.45,19,58.25,31.75,233.4,578.6,200,577.7,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Total service,Yes,High,4. College degree
+143,Zone 1,29,37,Married,13,145,Post-undergraduate degree,0,No,Female,4,Yes,Yes,Yes,Yes,8.6,24,41.15,17.75,28,241.45,713.45,1201.4,495,722.8,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Total service,No,High,5. Post-undergraduate degree
+144,Zone 1,42,44,Married,2,99,High school degree,21,No,Male,3,Yes,No,Yes,No,22.05,34.75,0,9.75,0,841.55,1501.55,0,395,0,Yes,No,No,No,No,Yes,No,Yes,No,Plus service,No,High,2. High school degree
+145,Zone 1,20,34,Married,2,22,College degree,0,No,Female,3,Yes,Yes,Yes,Yes,4.85,18.25,35.05,34.75,31.65,75.45,338.55,731.05,635,570.65,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Total service,No,Low,4. College degree
+146,Zone 2,72,60,Married,21,31,Did not complete high school,38,Yes,Male,2,No,No,Yes,No,32.25,0,0,33.5,0,2349.25,0,0,2385,0,Yes,No,No,No,No,No,No,No,No,E-service,No,Medium,1. Did not complete high school
+147,Zone 1,2,36,Unmarried,3,25,Did not complete high school,6,No,Female,1,Yes,Yes,Yes,Yes,1.9,15.75,28.7,5,24.15,3.6,23.05,29.05,5,20.95,No,No,Yes,No,Yes,Yes,Yes,Yes,No,Plus service,No,Low,1. Did not complete high school
+148,Zone 3,46,25,Unmarried,5,57,Post-undergraduate degree,0,No,Female,2,Yes,Yes,Yes,Yes,20.25,21.25,39.4,9.75,28.35,923.95,968.95,1748.6,445,1246.45,No,No,No,Yes,No,No,Yes,Yes,Yes,Basic service,No,High,5. Post-undergraduate degree
+149,Zone 2,39,51,Married,21,41,Post-undergraduate degree,20,No,Male,6,Yes,Yes,Yes,Yes,12.1,20.5,54.3,9.75,35.35,492.8,910.25,2059.7,330,1301.1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Total service,No,Medium,5. Post-undergraduate degree
+150,Zone 3,24,25,Married,1,20,Some college,1,No,Female,2,No,Yes,No,No,8.15,0,27.95,0,0,209.35,0,615.8,0,0,Yes,No,No,Yes,Yes,No,Yes,No,No,E-service,Yes,Low,3. Some college
+151,Zone 3,59,43,Married,4,101,High school degree,22,No,Female,5,No,No,Yes,No,13.65,0,0,20.75,0,817.65,0,0,1195,0,Yes,No,No,No,No,No,No,Yes,No,E-service,No,High,2. High school degree
+152,Zone 1,65,37,Unmarried,8,56,High school degree,15,No,Male,1,No,No,Yes,No,10.25,0,0,10.75,0,681.95,0,0,655,0,Yes,No,No,No,No,No,No,No,No,E-service,No,High,2. High school degree
+153,Zone 2,50,27,Married,5,22,High school degree,5,No,Female,3,No,No,Yes,No,17.2,0,0,13.25,0,893.3,0,0,750,0,No,No,No,No,No,No,No,No,No,Basic service,No,Low,2. High school degree
+154,Zone 1,57,37,Unmarried,11,108,College degree,9,No,Female,1,Yes,Yes,Yes,No,21.8,27.25,42,8,0,1292,1492.1,2394.8,425,0,Yes,No,No,Yes,Yes,Yes,No,Yes,No,Plus service,No,High,4. College degree
+155,Zone 3,61,48,Unmarried,14,115,College degree,20,No,Female,1,Yes,Yes,Yes,Yes,12.8,16,39.2,17.25,31,785.7,953.95,2410.1,1015,1799.15,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Total service,No,High,4. College degree
+156,Zone 3,34,54,Unmarried,31,53,College degree,22,No,Male,1,Yes,Yes,Yes,Yes,8.1,18,45.6,56.5,66.9,225.4,588.4,1463.8,1880,2304.8,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,Total service,No,High,4. College degree
+157,Zone 3,38,53,Unmarried,13,242,College degree,12,No,Male,1,Yes,Yes,Yes,Yes,8.95,37.75,54.1,28.5,50.75,396.35,1556.4,1979.1,1020,1934.9,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Total service,No,Very High,4. College degree
+158,Zone 1,3,24,Married,2,20,High school degree,3,No,Female,5,Yes,No,Yes,No,3.35,22.5,0,9.25,0,7.55,49.55,0,15,0,No,Yes,No,Yes,Yes,Yes,No,Yes,No,Plus service,No,Low,2. High school degree
+159,Zone 2,4,47,Unmarried,5,123,College degree,11,No,Male,1,No,Yes,Yes,No,2.5,0,25.3,13.75,0,9.25,0,99.5,40,0,No,No,No,Yes,No,No,Yes,No,Yes,Basic service,No,High,4. College degree
+160,Zone 2,15,35,Unmarried,0,34,Did not complete high school,12,No,Male,1,No,No,No,No,3.95,0,0,0,0,47.95,0,0,0,0,No,No,No,No,No,No,No,No,No,Basic service,No,Medium,1. Did not complete high school
+161,Zone 1,25,29,Married,8,31,College degree,3,No,Female,5,No,Yes,No,No,12.95,0,33.05,0,0,348.9,0,832.85,0,0,Yes,No,No,Yes,No,No,No,No,Yes,E-service,Yes,Medium,4. College degree
+162,Zone 3,21,44,Unmarried,25,47,Did not complete high school,12,No,Female,2,No,No,Yes,No,7.05,0,0,14.5,0,182.3,0,0,285,0,No,No,No,No,Yes,Yes,Yes,Yes,No,Plus service,No,Medium,1. Did not complete high school
+163,Zone 3,50,37,Married,11,48,Some college,8,No,Female,2,Yes,No,Yes,No,12.9,27.75,0,8.75,0,669.75,1445.15,0,445,0,No,No,No,No,Yes,Yes,Yes,Yes,No,Plus service,No,Medium,3. Some college
+164,Zone 2,65,64,Married,22,13,High school degree,5,Yes,Female,3,Yes,No,Yes,No,14.6,33,0,15.75,0,921.7,1990.2,0,930,0,No,No,No,No,Yes,Yes,Yes,Yes,No,Plus service,No,Low,2. High school degree
+165,Zone 2,59,52,Married,18,78,Did not complete high school,25,No,Male,2,No,No,No,No,18.6,0,0,0,0,1179.05,0,0,0,0,No,No,No,No,No,No,No,No,No,Basic service,No,High,1. Did not complete high school
+166,Zone 3,29,26,Unmarried,7,34,Did not complete high school,7,No,Female,2,No,No,Yes,No,6.5,0,0,16,0,198.7,0,0,490,0,No,No,No,No,Yes,Yes,No,No,No,Plus service,No,Medium,1. Did not complete high school
+167,Zone 1,60,46,Unmarried,17,81,Post-undergraduate degree,9,No,Female,1,No,Yes,Yes,No,17.45,0,39.25,10.25,0,1067,0,2331.7,610,0,Yes,No,No,Yes,No,No,No,No,Yes,E-service,No,High,5. Post-undergraduate degree
+168,Zone 1,71,45,Married,14,86,High school degree,25,No,Male,2,No,Yes,Yes,No,45.05,0,33,35,0,3235.9,0,2386.5,2495,0,Yes,No,No,Yes,No,No,No,No,No,E-service,No,High,2. High school degree
+169,Zone 3,38,27,Married,0,26,College degree,2,No,Male,4,No,Yes,Yes,Yes,12.2,0,38.75,9.25,28.05,477.5,0,1430,365,1111,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Total service,Yes,Low,4. College degree
+170,Zone 3,16,34,Married,5,51,High school degree,8,No,Female,5,No,No,Yes,No,4.7,0,0,16.5,0,61.5,0,0,260,0,No,No,No,No,No,No,No,No,No,Basic service,No,High,2. High school degree
+171,Zone 3,7,31,Unmarried,10,59,Some college,10,No,Male,1,No,Yes,No,No,2.45,0,29.8,0,0,16.35,0,170.2,0,0,No,Yes,No,No,No,Yes,No,No,Yes,Basic service,No,High,3. Some college
+172,Zone 1,59,53,Unmarried,21,112,College degree,16,No,Male,1,No,Yes,No,Yes,21.1,0,38.55,0,25.3,1236.3,0,2190.1,0,1465.35,Yes,No,No,Yes,No,No,No,No,Yes,E-service,Yes,High,4. College degree
+173,Zone 2,22,56,Married,14,57,College degree,28,No,Male,2,Yes,Yes,Yes,Yes,6.2,18.25,36.65,10.5,28.8,135.2,417.55,748.3,250,649.6,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Total service,No,High,4. College degree
+174,Zone 1,18,48,Married,20,41,Did not complete high school,2,No,Female,2,Yes,No,Yes,No,4.35,13,0,8,0,59.15,220.95,0,135,0,No,No,No,No,Yes,Yes,No,No,No,Basic service,No,Medium,1. Did not complete high school
+175,Zone 2,64,46,Married,19,168,High school degree,26,No,Female,2,Yes,Yes,Yes,Yes,14.2,71,73.8,38.75,62.45,928.8,4667.75,4758.1,2460,3704.05,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Total service,No,Very High,2. High school degree
+176,Zone 2,7,33,Unmarried,4,29,College degree,4,No,Female,3,No,Yes,No,No,4.65,0,28.35,0,0,35.45,0,166.5,0,0,No,No,No,Yes,No,No,No,No,Yes,Basic service,Yes,Low,4. College degree
+177,Zone 3,65,58,Unmarried,13,167,High school degree,14,No,Female,2,No,No,Yes,No,24.3,0,0,17.25,0,1642.35,0,0,1110,0,Yes,No,No,No,No,No,No,No,No,E-service,No,Very High,2. High school degree
+178,Zone 3,7,24,Unmarried,5,29,High school degree,3,No,Male,3,Yes,No,No,No,4.45,13.5,0,0,0,43.7,109.5,0,0,0,No,No,Yes,Yes,No,No,No,Yes,No,Basic service,Yes,Low,2. High school degree
+179,Zone 1,64,55,Unmarried,28,104,Did not complete high school,26,No,Female,1,No,No,Yes,No,15,0,0,39.25,0,960.95,0,0,2360,0,No,No,No,No,Yes,No,No,Yes,No,Plus service,No,High,1. Did not complete high school
+180,Zone 3,42,22,Married,0,46,College degree,0,No,Male,2,Yes,Yes,Yes,Yes,9.35,20.25,51.35,6,36,311.85,850.65,2099.6,270,1503.65,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Total service,Yes,Medium,4. College degree
+181,Zone 3,33,26,Unmarried,5,46,College degree,1,No,Female,3,Yes,Yes,Yes,Yes,11,17.5,40.9,6,32.05,350.05,593.1,1347.7,185,1009.5,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Total service,No,Medium,4. College degree
+182,Zone 1,3,33,Unmarried,8,51,College degree,0,No,Female,1,No,Yes,No,No,2.9,0,19.9,0,0,12.05,0,40.15,0,0,No,No,No,No,No,No,No,No,No,Basic service,Yes,High,4. College degree
+183,Zone 2,69,42,Married,11,65,High school degree,18,No,Male,2,Yes,Yes,Yes,Yes,14.2,30.5,64.2,31.5,66.55,1007.5,2082.75,4167.7,2125,4399.6,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Total service,No,High,2. High school degree
+184,Zone 2,9,33,Unmarried,1,48,High school degree,13,No,Male,2,Yes,No,Yes,No,3.15,13.25,0,30.5,0,39.75,110.05,0,275,0,No,No,No,No,Yes,Yes,No,No,No,Basic service,No,Medium,2. High school degree
+185,Zone 3,22,34,Married,1,46,Some college,1,No,Male,4,No,Yes,No,No,7.1,0,23.4,0,0,125.05,0,484.1,0,0,Yes,No,No,Yes,No,No,No,No,No,E-service,No,Medium,3. Some college
+186,Zone 2,53,63,Married,15,43,High school degree,18,No,Male,2,No,Yes,Yes,No,14.85,0,37,11,0,808.95,0,2012.6,535,0,Yes,No,No,Yes,No,No,No,No,Yes,E-service,No,Medium,2. High school degree
+187,Zone 3,71,53,Unmarried,30,110,Did not complete high school,34,No,Male,1,No,No,Yes,No,17.45,0,0,14.75,0,1249.8,0,0,1100,0,Yes,No,No,No,No,No,No,No,No,E-service,No,High,1. Did not complete high school
+188,Zone 3,24,26,Unmarried,2,32,Some college,2,No,Male,3,No,No,No,No,4.25,0,0,0,0,97.35,0,0,0,0,No,No,No,No,No,No,No,No,Yes,Basic service,No,Medium,3. Some college
+189,Zone 3,12,22,Married,1,18,Some college,0,No,Female,2,No,No,No,No,4.65,0,0,0,0,57.7,0,0,0,0,No,No,No,Yes,No,No,No,No,Yes,Basic service,No,Low,3. Some college
+190,Zone 1,25,39,Married,1,26,College degree,0,No,Male,4,No,Yes,Yes,Yes,14.45,0,35.95,23,24.75,349.9,0,895.05,515,640.8,Yes,Yes,Yes,Yes,No,No,No,No,Yes,E-service,Yes,Low,4. College degree
+191,Zone 3,63,28,Married,9,34,High school degree,10,No,Female,6,Yes,No,Yes,Yes,15,40,0,17.5,45.1,934.05,2465.4,0,1120,2770.35,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,Plus service,No,Medium,2. High school degree
+192,Zone 1,33,54,Married,18,57,College degree,4,No,Female,3,Yes,Yes,No,No,7.5,30.25,33.9,0,0,226.25,1105.75,1108.5,0,0,Yes,No,No,Yes,Yes,Yes,Yes,No,No,Plus service,Yes,High,4. College degree
+193,Zone 2,57,54,Married,20,21,High school degree,0,No,Female,3,No,No,Yes,No,10.6,0,0,17,0,565.55,0,0,930,0,No,No,No,No,No,No,No,No,No,Basic service,No,Low,2. High school degree
+194,Zone 3,13,33,Unmarried,7,38,Some college,10,No,Female,1,Yes,Yes,Yes,Yes,5.05,18.5,40.8,12.5,28.85,48.6,199.5,480.85,155,318.9,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Total service,No,Medium,3. Some college
+195,Zone 1,13,21,Unmarried,2,19,Some college,0,No,Female,1,No,Yes,Yes,No,7.9,0,25.2,5,0,98.35,0,311.65,40,0,Yes,No,No,Yes,No,No,No,No,No,E-service,Yes,Low,3. Some college
+196,Zone 1,71,39,Unmarried,2,40,Some college,17,No,Male,1,Yes,No,Yes,No,36.25,27.75,0,38.5,0,2553.7,1916.25,0,2620,0,Yes,Yes,No,No,No,Yes,No,Yes,No,Plus service,No,Medium,3. Some college
+197,Zone 3,18,69,Married,11,58,Some college,8,No,Male,2,Yes,Yes,Yes,Yes,6.35,27.25,53.95,11.75,63,118.05,454.05,896.8,175,1049.95,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Total service,No,High,3. Some college
+198,Zone 1,17,51,Married,10,95,High school degree,15,No,Female,2,No,No,No,No,7.45,0,0,0,0,132.9,0,0,0,0,No,No,No,No,No,No,No,No,No,Basic service,Yes,High,2. High school degree
+199,Zone 2,22,43,Unmarried,4,114,High school degree,19,No,Male,1,No,Yes,No,No,9.25,0,22.7,0,0,202.8,0,428.7,0,0,No,No,No,No,No,No,No,No,No,Basic service,No,High,2. High school degree
+200,Zone 2,65,65,Married,27,128,Some college,24,No,Male,2,Yes,No,Yes,No,21.2,24,0,14.5,0,1325.05,1483.55,0,940,0,Yes,No,No,No,Yes,Yes,Yes,Yes,No,Plus service,No,High,3. Some college
+201,Zone 3,7,40,Unmarried,9,33,College degree,2,No,Female,1,No,No,No,No,2.8,0,0,0,0,16.85,0,0,0,0,No,No,No,Yes,No,No,No,No,Yes,Basic service,No,Medium,4. College degree
+202,Zone 3,72,66,Unmarried,30,460,College degree,41,No,Female,1,No,Yes,Yes,No,89.4,0,46.55,18.75,0,6353.9,0,3411.2,1245,0,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,Total service,No,Very High,4. College degree
+203,Zone 1,35,43,Unmarried,12,224,Some college,17,No,Male,1,No,No,Yes,No,7.7,0,0,9.5,0,271.55,0,0,330,0,No,No,No,No,No,No,No,No,No,Basic service,No,Very High,3. Some college
+204,Zone 1,24,39,Unmarried,2,122,College degree,12,No,Male,3,Yes,No,Yes,Yes,4.45,26.25,0,9.75,35.9,98.35,625.95,0,210,844.95,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Total service,No,High,4. College degree
+205,Zone 1,64,24,Married,0,23,Some college,1,No,Female,5,No,Yes,No,No,7,0,35.55,0,0,394.6,0,2182.4,0,0,Yes,No,No,Yes,No,Yes,No,Yes,No,E-service,No,Low,3. Some college
+206,Zone 2,63,63,Married,19,191,Some college,27,No,Male,2,No,No,Yes,No,12.7,0,0,7,0,782.45,0,0,435,0,Yes,No,No,No,No,No,No,No,No,E-service,No,Very High,3. Some college
+207,Zone 1,38,31,Married,7,187,College degree,6,No,Male,3,Yes,No,Yes,Yes,12.65,21.25,0,34,47.85,448.75,834,0,1165,1801.75,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Total service,Yes,Very High,4. College degree
+208,Zone 2,29,37,Married,9,119,Some college,12,No,Male,3,No,No,No,No,4.6,0,0,0,0,138.7,0,0,0,0,No,No,No,No,No,No,No,No,No,Basic service,No,High,3. Some college
+209,Zone 1,72,69,Married,49,44,High school degree,44,Yes,Female,2,No,No,Yes,No,99.95,0,0,12.5,0,7257.6,0,0,875,0,Yes,No,No,No,No,Yes,No,Yes,No,Plus service,No,Medium,2. High school degree
+210,Zone 1,10,27,Married,2,15,Some college,2,No,Female,2,Yes,Yes,Yes,Yes,7.5,12.75,48.65,7.5,39.5,66.45,154.9,442.15,60,377.35,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Total service,Yes,Low,3. Some college
+211,Zone 3,72,64,Unmarried,41,674,College degree,37,No,Female,1,Yes,No,Yes,Yes,49.6,32.75,0,48.75,60.15,3535.8,2378.15,0,3465,4366.2,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,Plus service,No,Very High,4. College degree
+212,Zone 3,52,23,Married,4,33,College degree,0,No,Female,2,Yes,No,Yes,No,13.1,18.25,0,18.75,0,757.8,945.15,0,920,0,Yes,No,No,No,Yes,Yes,Yes,Yes,No,Plus service,No,Medium,4. College degree
+213,Zone 3,13,55,Unmarried,3,250,High school degree,35,No,Female,2,No,No,No,No,4.1,0,0,0,0,50.1,0,0,0,0,No,No,No,No,No,No,No,No,No,Basic service,No,Very High,2. High school degree
+214,Zone 1,3,33,Unmarried,6,64,College degree,0,No,Male,2,No,Yes,No,No,2.15,0,20.75,0,0,6,0,53.1,0,0,No,No,No,No,No,No,No,No,Yes,Basic service,Yes,High,4. College degree
+215,Zone 3,39,24,Married,2,26,High school degree,4,No,Male,4,No,No,Yes,No,10.4,0,0,12.5,0,403.5,0,0,480,0,No,No,No,No,No,No,No,No,Yes,Basic service,Yes,Low,2. High school degree
+216,Zone 2,28,29,Unmarried,4,23,Some college,5,No,Male,2,No,No,No,No,3.7,0,0,0,0,91.95,0,0,0,0,Yes,No,No,Yes,No,No,Yes,Yes,Yes,E-service,No,Low,3. Some college
+217,Zone 2,46,42,Unmarried,9,52,College degree,7,No,Male,3,No,No,Yes,No,14.25,0,0,21,0,611.65,0,0,985,0,Yes,No,No,No,No,No,No,No,No,E-service,No,High,4. College degree
+218,Zone 2,62,46,Unmarried,27,200,Some college,9,No,Female,1,No,No,Yes,No,26.25,0,0,74,0,1625.35,0,0,4590,0,No,No,No,No,No,No,No,No,No,Basic service,No,Very High,3. Some college
+219,Zone 2,23,33,Married,7,28,Did not complete high school,4,No,Male,2,No,No,Yes,No,6.9,0,0,14,0,177.4,0,0,340,0,No,No,No,No,Yes,Yes,Yes,No,No,Plus service,No,Low,1. Did not complete high school
+220,Zone 3,23,25,Married,5,19,Post-undergraduate degree,0,No,Male,3,Yes,Yes,No,No,6.95,25,36.7,0,0,157.1,562.2,829.1,0,0,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,Total service,Yes,Low,5. Post-undergraduate degree
+221,Zone 2,72,61,Married,39,76,Some college,21,No,Male,2,Yes,Yes,Yes,Yes,54.8,67.25,51.35,69.5,55.5,3983.6,4905.85,3761.8,4975,4097.7,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Total service,No,High,3. Some college
+222,Zone 3,56,60,Unmarried,26,70,High school degree,20,No,Male,1,No,Yes,No,Yes,7.75,0,29.3,0,26.15,397.15,0,1638.2,0,1340.75,No,No,No,No,No,No,No,No,Yes,Basic service,No,High,2. High school degree
+223,Zone 1,8,30,Unmarried,1,34,High school degree,9,No,Female,1,No,No,Yes,No,4.25,0,0,13.25,0,28.65,0,0,75,0,No,No,No,No,Yes,No,Yes,Yes,No,Plus service,No,Medium,2. High school degree
+224,Zone 3,3,36,Unmarried,7,34,Post-undergraduate degree,3,No,Female,3,Yes,Yes,No,No,2.7,13,24,0,0,7,35.65,55.9,0,0,Yes,Yes,Yes,No,No,No,Yes,No,Yes,Total service,No,Medium,5. Post-undergraduate degree
+225,Zone 3,37,37,Unmarried,7,172,Some college,13,No,Male,1,No,No,No,No,6.85,0,0,0,0,258.5,0,0,0,0,No,No,No,No,No,No,No,No,Yes,Basic service,No,Very High,3. Some college
+226,Zone 3,37,53,Married,13,48,Did not complete high school,10,No,Male,3,Yes,No,Yes,No,12.55,23.5,0,10.25,0,439.55,876.05,0,350,0,No,No,No,No,Yes,Yes,Yes,Yes,No,Plus service,No,Medium,1. Did not complete high school
+227,Zone 2,6,30,Unmarried,9,45,High school degree,2,No,Female,1,No,No,No,No,1.35,0,0,0,0,9.95,0,0,0,0,No,No,No,No,No,No,No,No,No,Basic service,Yes,Medium,2. High school degree
+228,Zone 1,48,47,Unmarried,9,72,Some college,13,No,Male,5,Yes,No,Yes,Yes,15.3,28.5,0,16,32.55,732.35,1352.1,0,790,1559.1,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Total service,Yes,High,3. Some college
+229,Zone 2,43,43,Married,3,55,College degree,18,No,Female,4,Yes,Yes,Yes,Yes,9.1,40.75,48.4,16,50.6,422.7,1802.5,1976.7,675,2244.8,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Total service,No,High,4. College degree
+230,Zone 2,21,29,Unmarried,7,40,College degree,2,No,Female,4,Yes,Yes,Yes,Yes,4.5,17,36.2,19.25,33.4,89.1,386.8,772.3,395,653.9,No,No,No,Yes,No,Yes,Yes,No,No,Basic service,No,Medium,4. College degree
+231,Zone 3,6,33,Unmarried,12,26,Some college,0,No,Male,1,Yes,No,Yes,Yes,6.1,18.75,0,24.25,22.8,35.1,131.1,0,125,121.75,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Plus service,Yes,Low,3. Some college
+232,Zone 2,69,51,Unmarried,18,96,Did not complete high school,33,No,Male,4,Yes,No,Yes,No,33.95,87,0,33.5,0,2338.8,5916,0,2180,0,Yes,No,No,No,Yes,Yes,Yes,Yes,No,Plus service,No,High,1. Did not complete high school
+233,Zone 1,22,33,Unmarried,9,54,Did not complete high school,10,No,Male,1,Yes,No,Yes,No,11.05,22.25,0,18.75,0,246.7,504.4,0,370,0,No,No,No,No,Yes,Yes,Yes,Yes,No,Plus service,No,High,1. Did not complete high school
+234,Zone 1,28,40,Married,1,47,High school degree,9,No,Female,3,Yes,No,Yes,No,8.1,29.5,0,28.5,0,224.25,774.75,0,730,0,No,No,No,No,Yes,Yes,Yes,Yes,No,Plus service,No,Medium,2. High school degree
+235,Zone 1,71,47,Married,23,142,Did not complete high school,30,No,Male,2,No,No,Yes,No,32.2,0,0,82.25,0,2237.35,0,0,5520,0,Yes,No,No,No,No,No,No,No,No,E-service,No,High,1. Did not complete high school
+236,Zone 2,7,37,Unmarried,5,57,College degree,1,No,Male,1,No,No,No,No,3.8,0,0,0,0,23.9,0,0,0,0,No,No,No,No,No,No,No,Yes,No,Basic service,No,High,4. College degree
+237,Zone 1,63,29,Unmarried,10,20,Some college,7,No,Male,2,Yes,Yes,Yes,Yes,13.3,31,62.35,10,96.25,867.9,1944.45,3778.8,640,6132.2,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Total service,No,Low,3. Some college
+238,Zone 2,53,57,Unmarried,25,37,Did not complete high school,7,No,Male,1,No,No,Yes,No,7.7,0,0,9.25,0,363.95,0,0,465,0,Yes,No,No,No,No,No,Yes,No,No,E-service,No,Medium,1. Did not complete high school
+239,Zone 2,50,52,Married,17,36,College degree,16,No,Male,4,Yes,No,Yes,Yes,11.95,55,0,48,85.85,616.25,2662.1,0,2330,4118.6,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Total service,No,Medium,4. College degree
+240,Zone 2,39,31,Married,6,24,College degree,2,No,Male,2,No,Yes,Yes,No,13.9,0,33.3,16.5,0,505.55,0,1213.5,600,0,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Total service,No,Low,4. College degree
+241,Zone 3,16,19,Unmarried,0,21,High school degree,0,No,Female,1,No,No,No,No,5.25,0,0,0,0,70.25,0,0,0,0,No,No,No,No,No,Yes,No,No,No,Basic service,No,Low,2. High school degree
+242,Zone 3,43,51,Married,15,186,Some college,25,No,Male,2,Yes,No,Yes,Yes,18.9,59.75,0,20.25,59.15,856.3,2522.95,0,885,2525.1,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Total service,No,Very High,3. Some college
+243,Zone 3,44,31,Unmarried,12,30,Did not complete high school,7,No,Female,3,No,No,Yes,No,8,0,0,13,0,317.9,0,0,530,0,No,No,No,No,No,No,No,No,No,Basic service,No,Medium,1. Did not complete high school
+244,Zone 2,72,66,Married,43,96,High school degree,16,No,Female,2,Yes,No,Yes,Yes,35.15,34.75,0,21.5,50.7,2537.65,2557.75,0,1440,3571.45,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Total service,No,High,2. High school degree
+245,Zone 3,61,76,Unmarried,39,15,Did not complete high school,29,Yes,Male,1,Yes,No,Yes,No,18.6,52.75,0,24,0,1168.45,3257.7,0,1415,0,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,Plus service,No,Low,1. Did not complete high school
+246,Zone 3,43,21,Married,1,25,Did not complete high school,4,No,Male,4,No,No,No,No,7.6,0,0,0,0,334.45,0,0,0,0,Yes,No,No,Yes,No,No,Yes,Yes,No,E-service,Yes,Low,1. Did not complete high school
+247,Zone 3,24,39,Unmarried,11,49,Some college,7,No,Female,1,No,Yes,No,No,7.45,0,30.9,0,0,177.2,0,657.25,0,0,No,No,No,Yes,No,No,No,No,No,Basic service,No,Medium,3. Some college
+248,Zone 3,64,45,Unmarried,4,38,High school degree,7,No,Female,1,Yes,No,Yes,No,13.75,22.75,0,10.25,0,918,1447.4,0,610,0,Yes,Yes,No,No,Yes,No,Yes,Yes,No,Plus service,Yes,Medium,2. High school degree
+249,Zone 2,64,38,Unmarried,0,29,High school degree,2,No,Male,2,Yes,No,Yes,No,17.5,15.5,0,16.75,0,1114.45,1141.55,0,1010,0,Yes,No,No,No,No,No,No,No,No,E-service,No,Low,2. High school degree
+250,Zone 1,24,26,Unmarried,7,55,High school degree,7,No,Female,1,No,No,No,No,7.6,0,0,0,0,175.8,0,0,0,0,No,No,No,No,No,Yes,No,No,No,Basic service,No,High,2. High school degree
+251,Zone 3,33,55,Married,21,64,Some college,10,No,Female,3,Yes,No,Yes,No,5.15,14.5,0,24.75,0,163.05,494.55,0,775,0,No,No,No,No,No,No,Yes,Yes,No,Basic service,No,High,3. Some college
+252,Zone 2,33,33,Married,12,42,College degree,7,No,Female,5,No,Yes,Yes,Yes,8.8,0,30.95,23,23.35,305.75,0,1019.2,730,665.35,Yes,Yes,No,No,No,No,No,No,No,E-service,No,Medium,4. College degree
+253,Zone 1,2,40,Unmarried,9,134,College degree,2,No,Male,1,No,Yes,No,No,3.9,0,23.8,0,0,4.6,0,26.45,0,0,No,No,No,Yes,No,No,No,No,Yes,Basic service,No,High,4. College degree
+254,Zone 2,42,48,Married,22,82,Did not complete high school,21,No,Female,5,Yes,No,Yes,No,9.3,25,0,17,0,459,1006.9,0,750,0,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,Total service,No,High,1. Did not complete high school
+255,Zone 1,52,54,Married,5,153,Post-undergraduate degree,10,No,Male,2,No,Yes,No,Yes,11.05,0,36.3,0,30.15,555.85,0,1816.7,0,1525.15,Yes,Yes,No,Yes,Yes,No,No,No,Yes,E-service,Yes,Very High,5. Post-undergraduate degree
+256,Zone 1,45,66,Unmarried,43,144,High school degree,13,No,Female,1,No,No,Yes,No,7.75,0,0,13,0,338.8,0,0,565,0,Yes,No,No,Yes,No,No,No,No,No,E-service,No,High,2. High school degree
+257,Zone 3,3,25,Unmarried,4,22,College degree,0,No,Male,2,No,Yes,Yes,No,2.85,0,28.25,19.5,0,7.5,0,48,30,0,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Total service,Yes,Low,4. College degree
+258,Zone 2,37,53,Married,16,35,Did not complete high school,16,No,Female,4,No,No,No,No,21.3,0,0,0,0,788.25,0,0,0,0,No,No,No,No,No,Yes,Yes,No,No,Plus service,No,Medium,1. Did not complete high school
+259,Zone 2,28,57,Unmarried,33,82,College degree,22,No,Female,1,No,Yes,No,No,4.05,0,31.45,0,0,71.5,0,858.15,0,0,Yes,Yes,No,Yes,No,No,Yes,No,Yes,E-service,Yes,High,4. College degree
+260,Zone 3,40,63,Married,9,61,Did not complete high school,22,No,Male,2,No,No,Yes,No,10.9,0,0,41,0,470.9,0,0,1635,0,No,No,No,No,No,No,No,No,No,Basic service,No,High,1. Did not complete high school
+261,Zone 2,37,33,Unmarried,1,102,High school degree,12,No,Male,1,No,Yes,Yes,Yes,16.3,0,33.35,10.25,37.9,646.7,0,1108.1,360,1330.6,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,Total service,No,High,2. High school degree
+262,Zone 3,7,27,Unmarried,5,31,Some college,4,No,Male,5,Yes,Yes,No,Yes,4.15,15,46.05,0,41.85,30.8,96.6,271.75,0,235.55,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Total service,Yes,Medium,3. Some college
+263,Zone 1,71,56,Unmarried,23,170,Did not complete high school,30,No,Female,1,Yes,No,Yes,No,14.2,27,0,30,0,1001.2,1840.65,0,2140,0,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,Total service,No,Very High,1. Did not complete high school
+264,Zone 2,19,46,Unmarried,11,26,High school degree,0,No,Female,1,No,No,Yes,No,6.05,0,0,5,0,121.7,0,0,90,0,No,No,No,Yes,No,Yes,No,Yes,Yes,Basic service,No,Low,2. High school degree
+265,Zone 2,61,40,Unmarried,15,85,Some college,15,No,Female,1,Yes,No,Yes,No,13.65,29.25,0,22.75,0,831.15,1823.6,0,1310,0,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Plus service,No,High,3. Some college
+266,Zone 3,70,53,Married,16,183,High school degree,35,No,Female,2,No,No,Yes,No,32.9,0,0,15,0,2234.9,0,0,1085,0,Yes,No,No,No,No,No,No,No,No,E-service,No,Very High,2. High school degree
+267,Zone 2,60,55,Married,13,67,Did not complete high school,18,No,Female,2,No,No,Yes,No,10.75,0,0,14.75,0,697.7,0,0,925,0,No,No,No,No,No,No,No,No,No,Basic service,No,High,1. Did not complete high school
+268,Zone 3,48,45,Married,5,42,Did not complete high school,11,No,Female,2,No,No,No,No,9.25,0,0,0,0,435.6,0,0,0,0,No,No,No,No,No,Yes,No,No,No,Basic service,No,Medium,1. Did not complete high school
+269,Zone 1,8,63,Married,1,31,Did not complete high school,9,No,Male,2,Yes,No,Yes,No,2.25,13.75,0,11.25,0,16.8,102.55,0,80,0,No,No,No,No,Yes,No,Yes,Yes,No,Plus service,No,Medium,1. Did not complete high school
+270,Zone 2,58,58,Married,10,96,High school degree,17,No,Male,4,Yes,No,No,No,12.5,23,0,0,0,710.8,1345.95,0,0,0,Yes,No,No,No,Yes,Yes,No,Yes,No,Plus service,No,High,2. High school degree
+271,Zone 1,16,24,Married,5,24,Some college,2,No,Male,5,No,No,Yes,No,9.4,0,0,14.75,0,124.2,0,0,215,0,No,No,No,No,Yes,Yes,Yes,No,No,Plus service,No,Low,3. Some college
+272,Zone 2,33,33,Unmarried,4,53,High school degree,14,No,Female,1,No,No,No,No,5.05,0,0,0,0,145.85,0,0,0,0,No,No,No,No,Yes,No,No,No,No,Basic service,No,High,2. High school degree
+273,Zone 2,39,25,Unmarried,4,18,Did not complete high school,0,No,Female,1,No,No,No,No,6.75,0,0,0,0,242.7,0,0,0,0,Yes,No,No,No,Yes,Yes,No,Yes,No,Plus service,No,Low,1. Did not complete high school
+274,Zone 1,62,51,Unmarried,10,43,College degree,19,No,Male,2,No,Yes,Yes,Yes,27.15,0,42.7,17,41.15,1632.4,0,2583.9,1015,2521.05,Yes,No,Yes,Yes,Yes,No,No,No,Yes,E-service,No,Medium,4. College degree
+275,Zone 1,50,34,Unmarried,10,104,Some college,9,No,Male,1,Yes,Yes,Yes,Yes,27.5,21.75,52.1,20.25,47.9,1444.45,1219.55,2568.4,960,2368.4,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Total service,No,High,3. Some college
+276,Zone 2,48,55,Unmarried,31,26,Did not complete high school,1,No,Male,1,No,No,No,No,12.15,0,0,0,0,606.1,0,0,0,0,No,No,No,No,No,No,No,No,No,Basic service,No,Low,1. Did not complete high school
+277,Zone 3,31,62,Unmarried,5,56,High school degree,26,No,Female,1,Yes,No,Yes,No,4.3,22.25,0,13.75,0,123.5,744.45,0,435,0,No,Yes,No,No,Yes,Yes,Yes,Yes,No,Plus service,No,High,2. High school degree
+278,Zone 2,65,33,Married,9,49,High school degree,6,No,Male,5,Yes,No,Yes,No,42.9,17.25,0,17.5,0,2706.8,1094.1,0,1190,0,Yes,No,No,No,No,No,Yes,No,No,E-service,No,Medium,2. High school degree
+279,Zone 1,36,58,Unmarried,34,80,Did not complete high school,21,No,Female,1,No,No,Yes,No,8.5,0,0,8.5,0,298.25,0,0,260,0,Yes,No,No,No,No,Yes,No,No,No,E-service,No,High,1. Did not complete high school
+280,Zone 1,61,46,Unmarried,5,318,Some college,18,No,Female,1,Yes,No,Yes,No,28.9,39.25,0,84.75,0,1796.7,2442.75,0,5115,0,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,Plus service,No,Very High,3. Some college
+281,Zone 2,48,42,Unmarried,21,35,College degree,5,No,Male,1,No,No,No,No,12.9,0,0,0,0,589.35,0,0,0,0,Yes,No,No,No,No,Yes,Yes,No,No,Plus service,No,Medium,4. College degree
+282,Zone 3,35,45,Unmarried,17,29,Did not complete high school,6,No,Male,1,No,No,No,No,8.4,0,0,0,0,300.35,0,0,0,0,No,No,No,No,No,No,Yes,No,No,Basic service,No,Low,1. Did not complete high school
+283,Zone 1,51,28,Unmarried,8,43,Post-undergraduate degree,1,No,Male,5,Yes,Yes,Yes,Yes,11.15,35,77.7,20,80.35,623,1920.5,3925.5,955,4059.9,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Total service,No,Medium,5. Post-undergraduate degree
+284,Zone 2,49,51,Married,5,80,Post-undergraduate degree,3,No,Male,2,No,Yes,Yes,Yes,5.75,0,51.75,36,36.7,285.4,0,2435.4,1810,1679.45,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Total service,Yes,High,5. Post-undergraduate degree
+285,Zone 1,35,39,Married,11,30,Some college,2,No,Female,3,Yes,No,No,No,6.85,27.75,0,0,0,224.85,929.95,0,0,0,No,No,Yes,No,No,No,Yes,Yes,No,Plus service,Yes,Medium,3. Some college
+286,Zone 1,58,70,Unmarried,2,9,Some college,24,Yes,Female,1,No,Yes,Yes,Yes,23.3,0,48.35,29.75,35.15,1384.45,0,2632.4,1730,1975.7,Yes,No,No,Yes,No,No,No,Yes,No,E-service,No,Low,3. Some college
+287,Zone 1,23,35,Married,0,23,High school degree,1,No,Male,5,No,No,No,No,6.7,0,0,0,0,153.9,0,0,0,0,No,No,No,No,Yes,No,Yes,Yes,No,Plus service,No,Low,2. High school degree
+288,Zone 2,26,39,Married,15,58,College degree,9,No,Female,2,Yes,No,Yes,Yes,8.65,21.25,0,6.5,19.65,210.6,567.55,0,145,493.85,No,No,No,Yes,Yes,No,Yes,Yes,No,Plus service,No,High,4. College degree
+289,Zone 1,38,37,Married,1,52,Did not complete high school,20,No,Female,4,Yes,No,Yes,Yes,12.2,41.5,0,18.75,54.4,532.55,1686.3,0,705,2051.1,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Total service,No,High,1. Did not complete high school
+290,Zone 1,35,66,Married,44,14,Some college,12,Yes,Female,2,Yes,No,No,No,4.7,31,0,0,0,202.5,1135,0,0,0,No,No,No,No,Yes,Yes,Yes,Yes,No,Plus service,No,Low,3. Some college
+291,Zone 2,37,50,Unmarried,9,110,High school degree,21,No,Female,1,Yes,No,Yes,No,9.65,28.5,0,11.25,0,364.05,992.4,0,375,0,No,No,No,No,Yes,Yes,Yes,Yes,No,Plus service,No,High,2. High school degree
+292,Zone 2,48,43,Married,1,60,High school degree,12,No,Male,2,Yes,Yes,Yes,No,15.5,19.25,29.6,31.5,0,719.7,905.15,1500.8,1495,0,Yes,No,No,No,No,Yes,No,No,No,E-service,No,High,2. High school degree
+293,Zone 3,13,43,Married,1,123,Some college,21,No,Male,5,Yes,Yes,Yes,No,3.85,23,33.05,6.75,0,55.05,317.5,439.3,75,0,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Total service,No,High,3. Some college
+294,Zone 1,72,63,Married,29,15,Post-undergraduate degree,31,Yes,Male,2,No,No,Yes,No,20.6,0,0,31.25,0,1547.45,0,0,2180,0,Yes,No,No,No,No,No,Yes,Yes,No,Plus service,No,Low,5. Post-undergraduate degree
+295,Zone 1,30,27,Unmarried,4,47,College degree,2,No,Female,2,No,No,Yes,No,10.75,0,0,21.25,0,296.9,0,0,600,0,Yes,No,No,Yes,No,No,No,No,No,E-service,Yes,Medium,4. College degree
+296,Zone 1,24,43,Unmarried,14,138,College degree,11,No,Female,1,Yes,No,Yes,Yes,6.65,20.25,0,8,24.65,130.6,445.6,0,180,551.15,Yes,No,No,Yes,Yes,Yes,No,Yes,No,Plus service,No,High,4. College degree
+297,Zone 2,25,51,Married,20,359,Some college,29,No,Male,2,Yes,Yes,Yes,Yes,5.75,27.5,39.2,40.5,21.4,163.75,676.15,881.45,975,475.55,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Total service,No,Very High,3. Some college
+298,Zone 2,50,52,Unmarried,30,214,Some college,22,No,Male,1,Yes,Yes,Yes,Yes,11.5,26.25,40.7,12,48.3,610.35,1287.7,1943,530,2412.75,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Total service,No,Very High,3. Some college
+299,Zone 2,28,40,Unmarried,7,64,Did not complete high school,19,No,Male,1,Yes,No,No,No,6,27.5,0,0,0,167.65,722.5,0,0,0,No,No,No,No,Yes,No,No,Yes,No,Plus service,No,High,1. Did not complete high school
+300,Zone 3,34,51,Unmarried,8,50,College degree,14,No,Male,1,No,No,Yes,No,16.15,0,0,15.75,0,531.35,0,0,480,0,No,Yes,No,No,No,No,No,No,Yes,Basic service,No,Medium,4. College degree
+301,Zone 1,48,32,Unmarried,2,88,Some college,9,No,Male,1,Yes,No,Yes,Yes,6.15,33.75,0,29.75,44.75,307.65,1603.8,0,1390,2119.35,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Total service,No,High,3. Some college
+302,Zone 2,42,36,Married,8,86,High school degree,15,No,Female,2,No,Yes,No,No,9.8,0,30.6,0,0,436.45,0,1222.3,0,0,Yes,No,No,No,No,No,No,No,No,E-service,No,High,2. High school degree
+303,Zone 3,67,65,Married,30,17,Did not complete high school,29,Yes,Female,2,Yes,No,Yes,No,21.7,26.25,0,12,0,1384.05,1721.25,0,785,0,Yes,No,No,No,Yes,No,Yes,No,No,Plus service,No,Low,1. Did not complete high school
+304,Zone 1,17,41,Married,7,25,High school degree,17,No,Male,3,No,Yes,No,No,6.45,0,29,0,0,114.3,0,449.95,0,0,No,No,No,Yes,Yes,Yes,Yes,No,Yes,Plus service,No,Low,2. High school degree
+305,Zone 1,29,38,Married,19,46,High school degree,6,No,Male,2,No,Yes,No,No,8.35,0,22.95,0,0,248.6,0,584.9,0,0,Yes,No,No,No,No,No,No,No,Yes,E-service,No,Medium,2. High school degree
+306,Zone 3,66,61,Unmarried,26,361,Did not complete high school,40,No,Female,1,No,No,Yes,No,12.75,0,0,38.5,0,782,0,0,2615,0,Yes,No,No,No,No,No,No,Yes,No,E-service,No,Very High,1. Did not complete high school
+307,Zone 2,1,21,Unmarried,1,18,Some college,0,No,Female,1,No,Yes,No,No,2.7,0,32.7,0,0,2.7,0,32.7,0,0,No,No,No,Yes,No,No,No,Yes,Yes,Basic service,Yes,Low,3. Some college
+308,Zone 1,28,33,Married,3,14,College degree,1,No,Male,3,Yes,Yes,No,Yes,4.55,15.75,33,0,23.95,145.95,504.9,869.85,0,618.65,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,Total service,Yes,Low,4. College degree
+309,Zone 1,15,35,Married,5,34,Some college,8,No,Male,2,No,Yes,No,No,5.15,0,25.55,0,0,110.55,0,350.25,0,0,Yes,No,No,Yes,No,No,No,No,Yes,E-service,Yes,Medium,3. Some college
+310,Zone 2,12,64,Unmarried,13,9,High school degree,6,Yes,Female,1,Yes,Yes,Yes,No,3.8,30,32.8,8.5,0,52.85,317.75,376.6,95,0,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Plus service,No,Low,2. High school degree
+311,Zone 3,48,49,Unmarried,18,39,High school degree,5,No,Female,1,Yes,Yes,Yes,Yes,7,24.5,42.8,23.5,30.75,399.75,1229.6,2099.4,1140,1394.5,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Total service,Yes,Medium,2. High school degree
+312,Zone 2,59,25,Married,4,18,Some college,2,No,Male,4,No,Yes,Yes,No,20.1,0,32.55,22.75,0,1251.4,0,1882.7,1415,0,No,No,No,No,No,No,No,No,No,Basic service,No,Low,3. Some college
+313,Zone 3,8,26,Married,1,25,College degree,1,No,Male,2,No,Yes,No,No,3.15,0,20.05,0,0,29.9,0,138.4,0,0,No,No,No,Yes,No,No,No,No,Yes,Basic service,Yes,Low,4. College degree
+314,Zone 1,45,52,Unmarried,15,46,Post-undergraduate degree,8,No,Female,1,No,No,Yes,No,9.4,0,0,8.75,0,402.1,0,0,395,0,Yes,No,No,No,No,No,No,No,Yes,E-service,Yes,Medium,5. Post-undergraduate degree
+315,Zone 1,25,39,Married,8,94,College degree,11,No,Female,4,No,Yes,No,No,3.95,0,30.75,0,0,95.2,0,681.2,0,0,Yes,No,No,No,No,No,No,No,No,E-service,Yes,High,4. College degree
+316,Zone 1,21,44,Married,4,26,Some college,2,No,Male,2,Yes,Yes,Yes,Yes,7.55,41,42.35,23.5,35.75,160.65,863.3,890.75,485,702.95,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Total service,No,Low,3. Some college
+317,Zone 2,17,68,Married,1,335,Did not complete high school,35,No,Female,3,Yes,No,Yes,Yes,3.55,18.75,0,29.25,27.9,70.25,285.9,0,525,422.85,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Total service,No,Very High,1. Did not complete high school
+318,Zone 2,41,45,Unmarried,14,25,Some college,6,No,Male,1,No,Yes,Yes,Yes,7.8,0,42.4,14,23.2,370.8,0,1675.7,535,945.3,No,No,No,Yes,No,No,Yes,Yes,Yes,Basic service,Yes,Low,3. Some college
+319,Zone 1,13,45,Married,3,99,Some college,8,No,Female,2,No,No,Yes,No,8.7,0,0,23.75,0,103.4,0,0,240,0,No,Yes,No,Yes,Yes,No,Yes,No,No,Plus service,Yes,High,3. Some college
+320,Zone 2,1,26,Married,3,30,High school degree,7,No,Female,5,No,Yes,No,No,1.05,0,15.4,0,0,1.05,0,15.4,0,0,No,No,No,No,No,No,No,No,Yes,Basic service,Yes,Medium,2. High school degree
+321,Zone 3,3,31,Married,4,35,High school degree,2,No,Female,3,Yes,Yes,No,Yes,4.35,12.75,34.05,0,21.5,11,30.2,75.3,0,28.5,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Total service,Yes,Medium,2. High school degree
+322,Zone 1,23,27,Married,2,51,Post-undergraduate degree,1,No,Female,2,No,Yes,No,No,3.9,0,24.15,0,0,94.95,0,574.35,0,0,No,Yes,No,No,No,No,No,No,No,Basic service,Yes,High,5. Post-undergraduate degree
+323,Zone 3,26,42,Unmarried,20,49,Some college,13,No,Male,1,Yes,Yes,Yes,Yes,3.5,25,43.65,24.5,27.7,82.3,638.1,1054.4,625,633.4,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Total service,Yes,Medium,3. Some college
+324,Zone 1,37,51,Married,15,54,Did not complete high school,15,No,Male,3,Yes,No,Yes,No,9.55,16.5,0,8.25,0,323.65,614.15,0,225,0,Yes,No,No,No,No,Yes,No,Yes,No,Plus service,No,High,1. Did not complete high school
+325,Zone 3,5,30,Unmarried,3,46,College degree,7,No,Male,1,No,Yes,No,No,4.3,0,32.1,0,0,17.55,0,121.55,0,0,Yes,No,No,Yes,No,No,No,No,Yes,E-service,Yes,Medium,4. College degree
+326,Zone 1,32,27,Married,3,91,College degree,1,No,Female,3,Yes,Yes,Yes,Yes,5.5,16,42.65,3.75,41.3,189.05,543.15,1247.3,100,1269.1,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Total service,Yes,High,4. College degree
+327,Zone 3,12,22,Unmarried,1,23,College degree,0,No,Male,2,No,No,No,No,4.05,0,0,0,0,33.75,0,0,0,0,No,No,No,No,No,No,Yes,No,No,Basic service,No,Low,4. College degree
+328,Zone 1,72,54,Married,6,345,Did not complete high school,32,No,Male,2,No,No,Yes,No,75.45,0,0,18.25,0,5464.6,0,0,1305,0,Yes,No,No,No,No,Yes,No,Yes,No,Plus service,No,Very High,1. Did not complete high school
+329,Zone 3,3,25,Married,2,45,College degree,0,No,Female,2,Yes,Yes,No,No,3,15.75,31.15,0,0,9.15,53.05,87.6,0,0,No,No,No,Yes,No,No,No,No,Yes,Basic service,Yes,Medium,4. College degree
+330,Zone 1,54,43,Unmarried,12,53,High school degree,12,No,Male,1,Yes,No,Yes,No,14.35,32.25,0,16.75,0,775.9,1749.4,0,845,0,Yes,No,No,No,Yes,Yes,Yes,Yes,No,Plus service,No,High,2. High school degree
+331,Zone 2,26,26,Unmarried,2,14,High school degree,6,No,Female,1,Yes,Yes,No,Yes,7.8,36.5,38.7,0,27.9,204.25,884.2,914.5,0,764.55,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Total service,Yes,Low,2. High school degree
+332,Zone 3,14,36,Unmarried,13,67,Post-undergraduate degree,4,No,Female,1,No,Yes,No,No,14.05,0,25.1,0,0,187.4,0,303.6,0,0,No,No,No,Yes,No,Yes,No,No,No,Basic service,No,High,5. Post-undergraduate degree
+333,Zone 3,22,51,Unmarried,27,49,Some college,1,No,Male,1,No,Yes,Yes,No,9,0,30.45,17.5,0,150.7,0,649.1,370,0,No,No,Yes,No,No,No,Yes,No,Yes,Basic service,No,Medium,3. Some college
+334,Zone 3,65,47,Married,18,37,Did not complete high school,15,No,Female,4,No,No,Yes,No,19.05,0,0,14,0,1174.6,0,0,900,0,No,No,No,No,No,No,No,No,No,Basic service,No,Medium,1. Did not complete high school
+335,Zone 3,26,45,Unmarried,18,33,Did not complete high school,9,No,Male,1,Yes,No,Yes,No,9.6,24.25,0,11.25,0,285.35,563.5,0,295,0,No,No,No,No,No,No,No,Yes,No,Basic service,No,Medium,1. Did not complete high school
+336,Zone 1,20,37,Unmarried,5,46,Some college,10,No,Female,4,No,Yes,Yes,Yes,4.9,0,44.6,6.25,41.35,91.55,0,878,90,815.8,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Total service,No,Medium,3. Some college
+337,Zone 2,67,60,Married,32,93,Did not complete high school,21,No,Male,4,No,Yes,Yes,No,18.85,0,32,42.75,0,1200.7,0,2189.8,2665,0,Yes,No,No,No,No,No,No,No,Yes,E-service,No,High,1. Did not complete high school
+338,Zone 1,34,55,Unmarried,2,48,High school degree,11,No,Male,1,No,No,No,No,4.25,0,0,0,0,143.35,0,0,0,0,No,No,No,No,No,No,No,No,No,Basic service,No,Medium,2. High school degree
+339,Zone 1,37,54,Married,35,183,High school degree,22,No,Male,3,Yes,No,Yes,No,7.3,20.5,0,7.5,0,257.6,769.4,0,260,0,No,No,No,No,Yes,Yes,No,Yes,No,Plus service,No,Very High,2. High school degree
+340,Zone 2,22,23,Married,3,16,Did not complete high school,5,No,Male,4,No,No,Yes,No,5.4,0,0,8.5,0,120.4,0,0,205,0,No,No,No,No,No,No,No,No,No,Basic service,No,Low,1. Did not complete high school
+341,Zone 2,5,69,Unmarried,0,11,High school degree,14,Yes,Male,1,Yes,No,Yes,No,6.65,9.75,0,8,0,35.2,44.8,0,30,0,No,No,No,No,No,No,No,No,No,Basic service,No,Low,2. High school degree
+342,Zone 1,28,31,Married,0,42,College degree,5,No,Female,3,Yes,No,No,No,12.25,23.75,0,0,0,373.8,674.5,0,0,0,Yes,No,No,No,Yes,No,No,Yes,No,Plus service,No,Medium,4. College degree
+343,Zone 1,20,41,Married,7,67,College degree,14,No,Female,4,No,No,No,No,7.25,0,0,0,0,149.1,0,0,0,0,No,No,No,No,No,No,No,No,No,Basic service,No,High,4. College degree
+344,Zone 3,72,41,Unmarried,20,181,College degree,12,No,Male,1,Yes,Yes,Yes,Yes,27.3,23.25,69.4,7.75,52.4,1963.95,1645.8,4980.8,520,3790.55,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Total service,No,Very High,4. College degree
+345,Zone 2,30,43,Unmarried,18,53,College degree,6,No,Male,1,No,Yes,No,No,7,0,26.8,0,0,232.9,0,738.9,0,0,No,No,No,Yes,No,No,No,Yes,Yes,Basic service,No,High,4. College degree
+346,Zone 3,71,52,Unmarried,17,172,High school degree,32,No,Male,1,Yes,Yes,Yes,Yes,49.25,41.5,50.9,27.25,68.1,3599.3,3015.6,3469.2,1850,4828.2,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Total service,No,Very High,2. High school degree
+347,Zone 2,56,44,Unmarried,24,87,High school degree,19,No,Male,1,Yes,No,Yes,No,14.75,42.25,0,16.25,0,822.25,2396.65,0,830,0,No,No,No,No,Yes,Yes,Yes,Yes,No,Plus service,No,High,2. High school degree
+348,Zone 1,8,29,Married,2,21,Post-undergraduate degree,0,No,Male,2,No,Yes,No,No,4.15,0,24.3,0,0,39.7,0,167.05,0,0,No,No,No,No,No,No,No,No,No,Basic service,Yes,Low,5. Post-undergraduate degree
+349,Zone 2,32,65,Unmarried,6,9,High school degree,30,Yes,Female,1,No,No,No,No,6.25,0,0,0,0,201.35,0,0,0,0,Yes,No,No,Yes,No,No,No,No,Yes,E-service,No,Low,2. High school degree
+350,Zone 2,46,47,Unmarried,22,144,Some college,22,No,Female,2,Yes,No,No,No,3.5,28.25,0,0,0,179.95,1284.55,0,0,0,No,No,No,No,No,Yes,Yes,Yes,No,Plus service,Yes,High,3. Some college
+351,Zone 3,60,45,Married,23,117,College degree,11,No,Male,3,Yes,Yes,Yes,Yes,12.4,28,51.7,19.5,52.9,755.7,1721.25,3035.8,1135,3094.65,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Total service,No,High,4. College degree
+352,Zone 2,42,32,Married,0,59,College degree,4,No,Female,6,Yes,Yes,Yes,Yes,16.7,38.25,53.45,22.75,72.6,681.5,1676.2,2254,880,2805.75,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Total service,No,High,4. College degree
+353,Zone 3,71,60,Married,39,508,College degree,35,No,Male,4,Yes,No,Yes,No,23.55,48.25,0,21,0,1665.6,3474.05,0,1465,0,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Total service,No,Very High,4. College degree
+354,Zone 2,72,63,Married,40,222,High school degree,43,Yes,Female,2,Yes,No,Yes,No,81.55,62.25,0,15.5,0,5988.5,4439.25,0,1150,0,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,Plus service,No,Very High,2. High school degree
+355,Zone 3,45,66,Unmarried,11,87,Some college,25,Yes,Female,1,No,No,Yes,No,6.05,0,0,21.25,0,306.9,0,0,880,0,No,No,No,No,Yes,No,No,No,No,Basic service,No,High,3. Some college
+356,Zone 3,5,31,Unmarried,4,34,Did not complete high school,9,No,Male,1,Yes,Yes,Yes,Yes,1.6,17.25,31.1,12.75,19.85,6.15,78.85,128.95,60,69.9,No,Yes,No,No,Yes,Yes,Yes,Yes,No,Plus service,Yes,Medium,1. Did not complete high school
+357,Zone 2,17,38,Married,19,18,College degree,0,No,Female,4,No,No,No,No,8.55,0,0,0,0,162.25,0,0,0,0,Yes,No,No,No,No,No,No,No,No,E-service,No,Low,4. College degree
+358,Zone 2,70,55,Unmarried,12,65,Some college,24,No,Male,1,Yes,No,Yes,No,26.7,42.75,0,20.5,0,1874.25,2921.35,0,1465,0,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,Plus service,No,High,3. Some college
+359,Zone 3,57,57,Married,19,130,Some college,27,No,Female,2,No,Yes,Yes,No,13.55,0,30.65,12.75,0,849,0,1761.4,685,0,Yes,No,No,Yes,No,No,No,No,Yes,E-service,No,High,3. Some college
+360,Zone 1,20,33,Unmarried,13,44,Some college,8,No,Female,1,No,Yes,No,No,6.4,0,29.05,0,0,124.45,0,550.75,0,0,Yes,No,No,No,No,No,Yes,Yes,Yes,E-service,No,Medium,3. Some college
+361,Zone 1,72,52,Married,21,63,Did not complete high school,24,No,Male,3,Yes,No,Yes,No,41.95,25.75,0,33.25,0,3114.75,1871.95,0,2305,0,Yes,No,No,No,Yes,Yes,Yes,Yes,No,Plus service,No,High,1. Did not complete high school
+362,Zone 3,32,50,Unmarried,28,57,College degree,20,No,Male,1,Yes,No,Yes,Yes,4.6,38.5,0,37.75,23.5,123,1267.1,0,1205,707.4,No,No,No,No,Yes,Yes,Yes,Yes,No,Plus service,No,High,4. College degree
+363,Zone 3,22,57,Married,7,264,Did not complete high school,35,No,Female,2,No,No,Yes,No,3,0,0,6,0,68.35,0,0,105,0,No,No,No,No,Yes,No,Yes,Yes,No,Plus service,No,Very High,1. Did not complete high school
+364,Zone 2,6,24,Unmarried,2,28,Did not complete high school,5,No,Male,2,Yes,No,Yes,No,4.4,9,0,28.25,0,35.1,57.8,0,155,0,No,No,No,No,Yes,Yes,Yes,Yes,No,Plus service,Yes,Low,1. Did not complete high school
+365,Zone 3,32,23,Married,2,26,Some college,1,No,Female,6,Yes,Yes,Yes,No,11,24,31.1,28.25,0,325,796.95,856.2,880,0,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Total service,No,Low,3. Some college
+366,Zone 1,38,33,Unmarried,3,38,College degree,0,No,Male,1,No,Yes,Yes,No,10.95,0,27.2,12.25,0,412.8,0,958.85,465,0,Yes,No,No,Yes,No,No,No,No,Yes,E-service,No,Medium,4. College degree
+367,Zone 1,53,35,Unmarried,15,59,Some college,5,No,Female,1,Yes,No,Yes,No,16.85,23.25,0,18.5,0,888.45,1250.7,0,995,0,No,No,Yes,No,No,Yes,Yes,No,No,Plus service,No,High,3. Some college
+368,Zone 3,37,76,Unmarried,38,117,College degree,21,No,Female,1,No,No,Yes,No,7.5,0,0,6.25,0,273.7,0,0,230,0,No,No,No,No,No,No,No,No,No,Basic service,No,High,4. College degree
+369,Zone 1,47,35,Married,13,70,College degree,9,No,Female,2,Yes,Yes,No,Yes,10.75,33,47.4,0,45.85,551,1556.2,2138.3,0,2168.4,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Total service,Yes,High,4. College degree
+370,Zone 3,69,59,Unmarried,37,104,High school degree,13,No,Male,1,Yes,No,Yes,No,16,30.5,0,13.75,0,1120.75,2104.65,0,925,0,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,Plus service,No,High,2. High school degree
+371,Zone 3,63,56,Unmarried,17,71,Some college,18,No,Female,1,No,No,Yes,No,18.4,0,0,24.75,0,1162.9,0,0,1510,0,No,No,No,No,No,No,No,Yes,No,Basic service,No,High,3. Some college
+372,Zone 1,61,34,Married,0,70,Some college,7,No,Female,3,Yes,Yes,Yes,Yes,18.85,30,51.95,18.75,47.3,1230.7,1820.3,3045.8,1095,2840.2,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Total service,Yes,High,3. Some college
+373,Zone 1,56,38,Married,8,56,College degree,10,No,Male,2,Yes,Yes,Yes,Yes,25.1,26.75,44.95,11.5,27.4,1418.35,1435.25,2451.9,645,1553.5,No,No,Yes,Yes,Yes,Yes,No,No,Yes,Total service,No,High,4. College degree
+374,Zone 3,40,57,Married,18,68,Did not complete high school,23,No,Male,2,Yes,No,No,No,13.35,25.75,0,0,0,572.4,987.7,0,0,0,No,No,No,No,No,Yes,No,Yes,No,Plus service,No,High,1. Did not complete high school
+375,Zone 2,61,45,Unmarried,21,80,High school degree,13,No,Female,1,No,No,Yes,No,18.1,0,0,35.25,0,1114.75,0,0,2200,0,Yes,No,No,No,No,No,No,No,No,E-service,No,High,2. High school degree
+376,Zone 2,16,26,Unmarried,7,21,College degree,1,No,Male,6,Yes,Yes,No,Yes,3.55,11,44.75,0,30.8,56.85,182.25,638.55,0,438.4,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,Total service,No,Low,4. College degree
+377,Zone 2,7,43,Unmarried,4,69,Some college,5,No,Female,1,No,No,No,No,4.45,0,0,0,0,36.85,0,0,0,0,No,No,No,No,No,No,No,No,No,Basic service,No,High,3. Some college
+378,Zone 3,20,31,Married,10,39,High school degree,3,No,Female,2,No,No,No,No,7.75,0,0,0,0,148.75,0,0,0,0,No,No,No,No,No,No,No,No,No,Basic service,No,Medium,2. High school degree
+379,Zone 2,35,38,Unmarried,7,90,High school degree,18,No,Male,4,Yes,No,Yes,No,6.8,17.75,0,14,0,245.95,558.35,0,425,0,Yes,No,Yes,Yes,No,Yes,No,No,Yes,E-service,No,High,2. High school degree
+380,Zone 1,60,37,Married,12,64,Post-undergraduate degree,1,No,Female,2,No,No,Yes,No,14.85,0,0,17.5,0,978.35,0,0,970,0,Yes,No,No,No,No,No,No,No,No,E-service,No,High,5. Post-undergraduate degree
+381,Zone 2,47,25,Unmarried,2,28,High school degree,6,No,Male,1,Yes,Yes,Yes,Yes,7.75,19.75,35.15,17,31.15,315.9,859.6,1535.1,770,1448.4,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Total service,No,Low,2. High school degree
+382,Zone 2,33,28,Married,3,24,High school degree,0,No,Female,6,No,No,Yes,No,7.5,0,0,15.75,0,224.25,0,0,485,0,No,No,No,No,No,No,No,No,Yes,Basic service,No,Low,2. High school degree
+383,Zone 3,12,34,Unmarried,2,44,High school degree,7,No,Male,1,No,No,No,No,4.05,0,0,0,0,48.85,0,0,0,0,No,No,No,No,No,No,No,No,No,Basic service,No,Medium,2. High school degree
+384,Zone 1,10,31,Unmarried,0,32,College degree,7,No,Female,2,No,Yes,No,No,5.4,0,28.35,0,0,60.15,0,253.35,0,0,Yes,No,Yes,Yes,No,No,No,No,Yes,E-service,Yes,Medium,4. College degree
+385,Zone 2,69,33,Married,9,52,College degree,9,No,Female,3,No,No,Yes,No,29.95,0,0,29,0,2142.8,0,0,1915,0,Yes,No,No,No,No,No,Yes,Yes,No,Plus service,No,High,4. College degree
+386,Zone 1,23,20,Unmarried,1,15,Some college,0,No,Female,1,No,No,No,No,7.5,0,0,0,0,199.65,0,0,0,0,Yes,No,No,No,No,No,No,No,No,E-service,No,Low,3. Some college
+387,Zone 1,53,31,Unmarried,10,46,Some college,6,No,Male,2,Yes,Yes,Yes,No,27.1,18.5,42.5,37.5,0,1408.35,935,2297.9,2015,0,Yes,No,Yes,Yes,No,No,No,No,No,E-service,No,Medium,3. Some college
+388,Zone 2,60,57,Married,14,107,High school degree,33,No,Female,2,Yes,No,Yes,Yes,17.55,30.75,0,21.25,46.7,1035.2,1863.15,0,1245,2640,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,Plus service,No,High,2. High school degree
+389,Zone 2,33,33,Unmarried,7,56,High school degree,11,No,Male,1,No,No,Yes,No,13.45,0,0,16,0,470.9,0,0,470,0,No,No,No,No,No,Yes,No,No,No,Basic service,No,High,2. High school degree
+390,Zone 3,67,40,Married,21,40,College degree,7,No,Female,4,No,Yes,Yes,Yes,24.35,0,46.6,15.25,37.45,1585.85,0,3013.3,1015,2396.15,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Total service,No,Medium,4. College degree
+391,Zone 3,15,38,Married,5,56,Some college,13,No,Male,3,Yes,No,Yes,No,5.4,18,0,15,0,76.75,274.95,0,225,0,No,No,No,No,Yes,Yes,Yes,No,No,Plus service,No,High,3. Some college
+392,Zone 3,64,31,Married,5,46,High school degree,7,No,Female,4,No,Yes,Yes,Yes,24.15,0,34.8,17.75,33.2,1546.55,0,2214.1,1115,2148.15,Yes,Yes,No,Yes,No,No,Yes,No,Yes,E-service,No,Medium,2. High school degree
+393,Zone 2,46,49,Married,13,51,High school degree,21,No,Male,2,No,No,Yes,No,7.25,0,0,21.75,0,329.95,0,0,945,0,No,No,No,No,No,No,No,No,No,Basic service,Yes,High,2. High school degree
+394,Zone 2,72,60,Married,33,12,Did not complete high school,20,Yes,Male,3,Yes,No,Yes,Yes,53.75,68.5,0,10.25,43.95,3776.1,4938.6,0,780,3102.2,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Total service,No,Low,1. Did not complete high school
+395,Zone 1,61,43,Married,6,34,Post-undergraduate degree,6,No,Male,3,Yes,Yes,Yes,Yes,25.05,39,56.8,32.75,51,1541.9,2536.1,3279.9,1980,3182.65,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Total service,Yes,Medium,5. Post-undergraduate degree
+396,Zone 3,54,27,Unmarried,3,27,High school degree,6,No,Female,5,Yes,Yes,Yes,Yes,12.4,35,48.3,5.75,43.5,660.85,1919.75,2484.3,315,2259.8,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Total service,No,Low,2. High school degree
+397,Zone 3,28,36,Unmarried,3,42,Some college,7,No,Female,1,Yes,No,Yes,No,12.9,28.25,0,14,0,363.65,820.15,0,370,0,No,No,No,Yes,Yes,Yes,Yes,Yes,No,Plus service,No,Medium,3. Some college
+398,Zone 2,28,38,Unmarried,8,119,Post-undergraduate degree,2,No,Male,3,No,Yes,No,Yes,5.05,0,46.9,0,42.65,141.95,0,1262.7,0,1189.9,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,Total service,Yes,High,5. Post-undergraduate degree
+399,Zone 2,32,43,Unmarried,13,146,Did not complete high school,27,No,Female,1,Yes,No,Yes,Yes,18.3,33.5,0,15.5,17.45,546.35,1090.65,0,510,559.45,No,No,No,No,Yes,Yes,Yes,Yes,No,Plus service,No,High,1. Did not complete high school
+400,Zone 2,52,46,Unmarried,17,51,High school degree,13,No,Female,3,No,No,Yes,No,12.5,0,0,15,0,638.7,0,0,755,0,Yes,No,No,No,No,No,No,No,No,E-service,No,High,2. High school degree
+401,Zone 1,48,62,Unmarried,33,86,Did not complete high school,22,Yes,Female,1,Yes,Yes,Yes,Yes,16.35,33.5,38.95,18.75,30.6,729.3,1613.6,1763.1,920,1408.5,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Plus service,No,High,1. Did not complete high school
+402,Zone 3,52,42,Married,17,27,Some college,8,No,Female,2,Yes,No,Yes,No,19.65,31,0,19.75,0,1008.8,1661.3,0,1050,0,No,No,No,Yes,Yes,Yes,Yes,Yes,No,Plus service,No,Low,3. Some college
+403,Zone 1,37,43,Unmarried,8,38,Some college,9,No,Male,1,No,No,No,No,8.1,0,0,0,0,289.75,0,0,0,0,Yes,No,No,No,No,No,No,No,No,E-service,No,Medium,3. Some college
+404,Zone 1,41,52,Unmarried,26,928,Some college,29,No,Male,3,Yes,No,Yes,No,7.65,25,0,13.5,0,344,1060.65,0,465,0,No,Yes,No,No,Yes,Yes,Yes,Yes,No,Plus service,No,Very High,3. Some college
+405,Zone 2,43,27,Married,3,21,High school degree,1,No,Female,3,No,No,Yes,No,12.65,0,0,16.5,0,558.85,0,0,760,0,Yes,No,No,No,No,No,No,No,No,E-service,No,Low,2. High school degree
+406,Zone 3,67,60,Unmarried,24,24,Did not complete high school,6,No,Female,1,No,No,Yes,No,25.1,0,0,21.5,0,1659.1,0,0,1530,0,Yes,Yes,No,No,No,No,Yes,Yes,No,Plus service,No,Low,1. Did not complete high school
+407,Zone 3,61,52,Married,30,91,Did not complete high school,25,No,Female,2,No,No,Yes,No,13.8,0,0,47,0,840.15,0,0,2790,0,No,No,No,No,No,No,No,No,No,Basic service,No,High,1. Did not complete high school
+408,Zone 3,70,39,Married,20,38,High school degree,8,No,Female,4,Yes,No,Yes,No,30.3,26.5,0,51.25,0,2201,1981.65,0,3450,0,Yes,No,No,No,Yes,No,No,Yes,No,Plus service,No,Medium,2. High school degree
+409,Zone 3,44,32,Married,1,96,College degree,5,No,Female,4,Yes,Yes,Yes,Yes,5.25,22,61.95,8.75,57.8,213.45,951.95,2803.5,360,2451.6,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Total service,No,High,4. College degree
+410,Zone 3,46,45,Unmarried,12,96,Some college,17,No,Male,1,No,Yes,Yes,No,10.95,0,24.5,9.75,0,504.3,0,1032.8,410,0,Yes,No,No,Yes,No,No,No,No,Yes,E-service,No,High,3. Some college
+411,Zone 3,39,34,Unmarried,2,54,Some college,5,No,Male,1,No,No,Yes,No,6.5,0,0,13.25,0,265.45,0,0,460,0,No,No,No,No,No,No,No,No,No,Basic service,No,High,3. Some college
+412,Zone 2,39,59,Unmarried,20,1668,College degree,27,No,Female,1,Yes,No,No,No,8.2,15,0,0,0,303.95,595.6,0,0,0,Yes,Yes,No,Yes,Yes,Yes,No,No,No,E-service,No,Very High,4. College degree
+413,Zone 2,50,29,Married,10,53,College degree,0,No,Female,4,Yes,Yes,Yes,Yes,13.2,46,53.15,11.5,46.4,593.35,2412.65,2499,540,2280,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Total service,No,High,4. College degree
+414,Zone 3,5,31,Unmarried,1,21,Some college,1,No,Female,2,No,No,No,No,2.6,0,0,0,0,16.1,0,0,0,0,No,No,No,No,No,No,No,No,Yes,Basic service,Yes,Low,3. Some college
+415,Zone 2,10,34,Unmarried,1,52,Post-undergraduate degree,3,No,Female,1,No,Yes,No,Yes,4.3,0,32.55,0,25.4,47.45,0,332,0,255.7,Yes,No,No,Yes,No,No,No,No,Yes,E-service,Yes,High,5. Post-undergraduate degree
+416,Zone 1,72,69,Unmarried,45,17,Some college,36,Yes,Female,1,No,No,Yes,No,38.2,0,0,28.25,0,2751.65,0,0,2005,0,Yes,No,No,No,No,No,No,No,No,E-service,No,Low,3. Some college
+417,Zone 2,68,60,Unmarried,40,262,High school degree,39,No,Female,1,No,No,Yes,No,31.6,0,0,26,0,2112.25,0,0,1690,0,Yes,No,No,No,Yes,Yes,Yes,No,No,Plus service,No,Very High,2. High school degree
+418,Zone 3,58,28,Unmarried,5,34,Post-undergraduate degree,1,No,Female,1,No,Yes,Yes,No,19.9,0,41.7,23.75,0,1144.6,0,2275.7,1335,0,Yes,Yes,Yes,Yes,No,No,No,No,Yes,E-service,No,Medium,5. Post-undergraduate degree
+419,Zone 3,18,44,Married,10,107,Did not complete high school,19,No,Female,7,No,No,No,No,2.25,0,0,0,0,41.8,0,0,0,0,No,No,No,No,No,No,No,No,No,Basic service,No,High,1. Did not complete high school
+420,Zone 1,65,45,Married,25,67,Post-undergraduate degree,13,No,Female,2,Yes,Yes,Yes,No,9.85,20.75,27.65,36,0,671.2,1391.85,1729.2,2305,0,Yes,No,No,No,No,Yes,No,Yes,No,Plus service,No,High,5. Post-undergraduate degree
+421,Zone 3,8,45,Unmarried,1,37,College degree,0,No,Male,1,No,Yes,No,No,4.65,0,32.05,0,0,64.45,0,207.85,0,0,Yes,No,No,Yes,No,No,No,No,Yes,E-service,Yes,Medium,4. College degree
+422,Zone 2,1,20,Unmarried,1,21,High school degree,0,No,Female,2,No,Yes,No,No,0.9,0,23.85,0,0,0.9,0,23.85,0,0,No,Yes,Yes,No,Yes,No,No,No,Yes,Basic service,Yes,Low,2. High school degree
+423,Zone 3,42,58,Unmarried,7,22,Did not complete high school,4,No,Female,1,No,No,No,No,3.6,0,0,0,0,166.75,0,0,0,0,Yes,No,No,No,No,No,No,No,No,E-service,No,Low,1. Did not complete high school
+424,Zone 1,4,25,Married,3,71,Some college,3,No,Female,5,No,Yes,No,No,3.6,0,28.7,0,0,14.95,0,110.15,0,0,No,Yes,No,Yes,No,No,No,No,Yes,Basic service,No,High,3. Some college
+425,Zone 3,17,35,Unmarried,4,77,Some college,8,No,Female,1,Yes,No,No,No,8.1,15,0,0,0,144.4,251.1,0,0,0,No,No,No,No,Yes,Yes,Yes,No,No,Plus service,No,High,3. Some college
+426,Zone 2,8,24,Married,1,18,College degree,0,No,Female,5,Yes,Yes,Yes,Yes,2.95,17,39.3,20,34.3,16.8,134.25,296.7,165,260.8,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Total service,Yes,Low,4. College degree
+427,Zone 1,49,37,Married,17,50,High school degree,12,No,Female,2,No,No,Yes,No,4.2,0,0,16.5,0,243.1,0,0,800,0,Yes,No,No,No,No,No,No,No,No,E-service,No,Medium,2. High school degree
+428,Zone 1,56,46,Married,21,33,College degree,7,No,Male,2,No,Yes,Yes,No,22.7,0,32.9,8.5,0,1257.4,0,1846.9,525,0,Yes,No,No,Yes,No,No,No,No,Yes,E-service,No,Medium,4. College degree
+429,Zone 1,62,57,Married,21,94,Did not complete high school,22,No,Male,2,Yes,No,Yes,No,11.95,32,0,53,0,757.6,1999.95,0,3250,0,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Total service,No,High,1. Did not complete high school
+430,Zone 2,42,57,Married,25,209,Did not complete high school,40,No,Female,4,No,No,Yes,No,9.45,0,0,11,0,383.45,0,0,475,0,No,No,No,No,No,No,No,No,No,Basic service,No,Very High,1. Did not complete high school
+431,Zone 1,13,32,Unmarried,7,31,College degree,5,No,Male,2,Yes,No,Yes,Yes,5.05,35.5,0,10.5,23.3,64.85,452.3,0,115,244.3,No,Yes,No,No,Yes,Yes,Yes,Yes,No,Plus service,No,Medium,4. College degree
+432,Zone 1,69,46,Married,18,66,High school degree,19,No,Male,4,No,No,Yes,No,21.85,0,0,46.5,0,1589.1,0,0,3265,0,Yes,No,No,No,No,No,No,No,No,E-service,No,High,2. High school degree
+433,Zone 2,45,59,Unmarried,14,51,Did not complete high school,15,No,Male,2,No,No,Yes,No,5.95,0,0,5.25,0,236.3,0,0,175,0,No,No,No,No,No,No,No,No,No,Basic service,No,High,1. Did not complete high school
+434,Zone 2,66,42,Married,18,118,High school degree,20,No,Male,2,No,No,Yes,No,26.8,0,0,21.75,0,1774.75,0,0,1480,0,Yes,No,No,No,No,No,No,No,No,E-service,No,High,2. High school degree
+435,Zone 2,15,35,Unmarried,10,25,High school degree,3,No,Male,1,No,Yes,No,No,4.75,0,21.4,0,0,41.4,0,291.4,0,0,No,No,No,Yes,No,No,No,No,Yes,Basic service,Yes,Low,2. High school degree
+436,Zone 1,41,44,Married,1,59,Some college,21,No,Female,3,No,Yes,Yes,No,12.1,0,44.9,24.5,0,479.95,0,1853.3,1005,0,Yes,Yes,No,Yes,No,Yes,No,No,Yes,E-service,No,High,3. Some college
+437,Zone 2,11,20,Unmarried,1,20,High school degree,0,No,Female,1,Yes,Yes,Yes,Yes,4.75,23,38.55,13.5,42.7,48,221.35,427.65,155,387.95,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Total service,Yes,Low,2. High school degree
+438,Zone 3,45,30,Married,0,63,Post-undergraduate degree,4,No,Male,4,Yes,Yes,Yes,Yes,7.1,40.75,39.75,16.5,50.85,314.8,1849.5,1717.2,775,2239.65,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Total service,Yes,High,5. Post-undergraduate degree
+439,Zone 1,52,62,Unmarried,23,36,College degree,17,No,Male,1,Yes,No,Yes,No,13.35,18.5,0,18.5,0,709.25,978.85,0,915,0,No,No,No,No,No,No,No,Yes,No,Basic service,No,Medium,4. College degree
+440,Zone 1,42,56,Unmarried,24,72,College degree,18,No,Female,1,No,Yes,Yes,Yes,8,0,38.5,20.5,40.05,336.9,0,1573.9,770,1713.3,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Total service,No,High,4. College degree
+441,Zone 2,48,35,Unmarried,11,50,Did not complete high school,16,No,Male,3,Yes,No,Yes,No,12.85,21.75,0,17,0,622.75,1018.55,0,790,0,No,Yes,No,No,Yes,Yes,No,No,No,Plus service,No,Medium,1. Did not complete high school
+442,Zone 3,4,31,Unmarried,5,39,High school degree,5,No,Male,2,Yes,Yes,Yes,Yes,4.9,26,41.55,10,36.4,19.65,95.95,111.7,25,142.9,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Total service,Yes,Medium,2. High school degree
+443,Zone 3,53,64,Married,10,54,High school degree,20,No,Female,2,Yes,Yes,Yes,Yes,9.65,39.25,51.15,53.5,74.8,483.55,2053.2,2658.1,2675,3817.55,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Total service,No,High,2. High school degree
+444,Zone 3,1,59,Unmarried,4,9,Did not complete high school,4,Yes,Male,1,Yes,No,Yes,No,3.8,26.5,0,20.5,0,3.8,26.5,0,20.5,0,No,No,No,No,Yes,Yes,Yes,No,No,Plus service,No,Low,1. Did not complete high school
+445,Zone 3,19,30,Married,10,33,College degree,1,No,Male,3,Yes,Yes,No,No,4.05,22.25,31.8,0,0,79.45,396.35,543.85,0,0,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Total service,No,Medium,4. College degree
+446,Zone 2,33,30,Unmarried,11,28,Did not complete high school,9,No,Male,1,No,No,No,No,7.4,0,0,0,0,246.55,0,0,0,0,No,No,No,No,No,No,Yes,No,No,Basic service,No,Low,1. Did not complete high school
+447,Zone 3,42,36,Married,14,44,High school degree,11,No,Male,3,Yes,No,No,Yes,7,26.5,0,0,26.1,321.95,1161.3,0,0,1173.45,No,No,Yes,No,Yes,Yes,Yes,Yes,No,Plus service,No,Medium,2. High school degree
+448,Zone 1,60,32,Unmarried,12,34,College degree,4,No,Female,2,No,No,Yes,No,23.95,0,0,10,0,1513,0,0,615,0,Yes,No,No,No,No,No,No,No,No,E-service,No,Medium,4. College degree
+449,Zone 2,57,51,Married,7,68,College degree,18,No,Female,3,Yes,No,Yes,No,16.05,18.75,0,8.25,0,930.4,1096,0,365,0,Yes,No,No,No,Yes,Yes,Yes,Yes,No,Plus service,No,High,4. College degree
+450,Zone 1,64,39,Unmarried,5,37,Did not complete high school,9,No,Male,1,No,No,Yes,No,10.2,0,0,17.5,0,640.75,0,0,1020,0,No,No,No,No,No,No,No,No,No,Basic service,No,Medium,1. Did not complete high school
+451,Zone 2,28,20,Married,1,18,Some college,0,No,Male,3,No,Yes,No,Yes,7.7,0,38.9,0,32,190.05,0,1041.1,0,873.3,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Total service,No,Low,3. Some college
+452,Zone 1,29,35,Married,10,55,High school degree,7,No,Male,4,Yes,No,Yes,No,15.65,21.75,0,30.75,0,477.95,612.55,0,855,0,No,No,No,No,No,Yes,Yes,Yes,No,Plus service,Yes,High,2. High school degree
+453,Zone 1,46,31,Married,12,21,Did not complete high school,5,No,Male,5,No,No,Yes,No,8.95,0,0,9.25,0,369.95,0,0,415,0,No,No,No,No,No,Yes,Yes,Yes,No,Plus service,No,Low,1. Did not complete high school
+454,Zone 1,22,41,Married,9,29,Some college,11,No,Male,4,No,No,No,No,12.75,0,0,0,0,274.85,0,0,0,0,No,No,No,No,No,No,No,No,No,Basic service,Yes,Low,3. Some college
+455,Zone 2,10,56,Unmarried,26,9,High school degree,6,Yes,Male,2,No,No,No,No,3.2,0,0,0,0,36.9,0,0,0,0,No,No,No,No,No,No,No,Yes,No,Basic service,No,Low,2. High school degree
+456,Zone 3,50,41,Unmarried,16,138,High school degree,18,No,Female,1,Yes,Yes,Yes,No,12.35,19.75,27.85,14.5,0,585.05,937.85,1359.1,690,0,Yes,No,No,No,No,No,No,No,Yes,E-service,Yes,High,2. High school degree
+457,Zone 1,55,65,Unmarried,34,28,College degree,12,Yes,Female,1,Yes,No,Yes,Yes,18.6,46.25,0,14.75,41.2,1007.3,2610.55,0,835,2163.5,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Total service,No,Low,4. College degree
+458,Zone 2,15,54,Unmarried,7,62,Did not complete high school,11,No,Male,1,No,No,No,No,3.15,0,0,0,0,54.25,0,0,0,0,No,No,No,No,Yes,No,No,No,No,Basic service,No,High,1. Did not complete high school
+459,Zone 1,31,32,Married,13,37,Some college,8,No,Female,3,Yes,No,Yes,Yes,4.6,19.75,0,8.75,56.45,140.55,593.75,0,290,1771.1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Total service,No,Medium,3. Some college
+460,Zone 3,5,44,Unmarried,5,83,Did not complete high school,16,No,Female,1,No,Yes,No,No,4.65,0,25.25,0,0,12.3,0,90.5,0,0,Yes,No,No,No,No,Yes,No,No,No,E-service,Yes,High,1. Did not complete high school
+461,Zone 2,69,63,Unmarried,28,168,Did not complete high school,43,No,Female,2,Yes,No,Yes,No,14.5,44.25,0,18.25,0,1020.3,3097.25,0,1230,0,No,No,No,No,Yes,Yes,Yes,Yes,No,Plus service,No,Very High,1. Did not complete high school
+462,Zone 2,26,27,Married,4,33,College degree,1,No,Male,6,Yes,Yes,Yes,Yes,5.85,25.5,42.45,13.25,34.15,114.55,656.85,1089.7,310,810.2,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Total service,Yes,Medium,4. College degree
+463,Zone 3,10,33,Married,2,66,Some college,9,No,Female,4,Yes,No,Yes,No,7.1,21.25,0,25.25,0,59.3,241.8,0,220,0,No,No,No,Yes,Yes,No,Yes,No,No,Basic service,Yes,High,3. Some college
+464,Zone 1,26,30,Unmarried,9,18,College degree,1,No,Male,3,Yes,No,Yes,No,7.25,25.5,0,32.5,0,171.85,688.35,0,840,0,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Total service,Yes,Low,4. College degree
+465,Zone 3,25,30,Unmarried,0,20,Did not complete high school,4,No,Female,1,Yes,No,Yes,No,8.55,21.75,0,15.5,0,215.95,522.15,0,370,0,No,No,No,No,Yes,Yes,No,Yes,No,Plus service,No,Low,1. Did not complete high school
+466,Zone 3,30,23,Married,4,19,Some college,1,No,Male,4,No,Yes,Yes,No,7.9,0,35.2,27.5,0,253.05,0,1087.6,840,0,Yes,No,No,Yes,No,No,No,No,Yes,E-service,No,Low,3. Some college
+467,Zone 1,21,39,Married,7,25,High school degree,1,No,Male,4,Yes,No,Yes,Yes,8.5,27,0,20,31.25,175.3,582,0,440,646.9,No,No,No,No,Yes,Yes,Yes,Yes,No,Plus service,No,Low,2. High school degree
+468,Zone 1,71,46,Unmarried,27,119,Post-undergraduate degree,7,No,Female,1,No,Yes,Yes,Yes,42.85,0,70.05,15,111.95,3080.85,0,5028.7,1020,7856.85,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Total service,No,High,5. Post-undergraduate degree
+469,Zone 3,11,48,Married,5,323,College degree,25,No,Male,4,Yes,No,Yes,Yes,5.25,30,0,21.75,25.75,48.5,293.85,0,205,223.25,No,No,No,Yes,Yes,Yes,Yes,Yes,No,Plus service,Yes,Very High,4. College degree
+470,Zone 1,24,30,Married,7,45,Did not complete high school,11,No,Female,2,No,No,No,No,6,0,0,0,0,134.7,0,0,0,0,No,No,No,No,No,No,Yes,No,No,Basic service,No,Medium,1. Did not complete high school
+471,Zone 1,65,59,Married,27,197,College degree,26,No,Male,2,No,Yes,Yes,No,45.4,0,25.75,46.75,0,2973.55,0,1699.9,3065,0,Yes,No,Yes,No,No,No,No,No,Yes,E-service,No,Very High,4. College degree
+472,Zone 1,16,34,Married,13,56,Some college,10,No,Female,3,No,No,No,No,9.35,0,0,0,0,157,0,0,0,0,No,No,No,No,No,No,No,No,No,Basic service,Yes,High,3. Some college
+473,Zone 3,37,51,Married,26,24,College degree,4,No,Male,2,No,No,Yes,No,8.2,0,0,13.75,0,288.4,0,0,480,0,Yes,No,No,No,No,No,No,No,Yes,E-service,No,Low,4. College degree
+474,Zone 1,5,30,Unmarried,4,25,Some college,6,No,Male,1,Yes,Yes,No,No,2.4,14.75,27.5,0,0,25.45,72.45,147.4,0,0,No,No,No,No,Yes,Yes,Yes,No,No,Plus service,Yes,Low,3. Some college
+475,Zone 1,3,55,Married,9,26,Post-undergraduate degree,0,No,Female,2,No,Yes,No,No,6.4,0,31.2,0,0,22.4,0,49.55,0,0,Yes,Yes,No,Yes,No,No,No,No,Yes,E-service,Yes,Low,5. Post-undergraduate degree
+476,Zone 1,5,32,Unmarried,6,33,College degree,3,No,Male,2,No,Yes,No,No,3.2,0,21.6,0,0,24.55,0,98.4,0,0,No,No,No,Yes,No,No,No,No,Yes,Basic service,Yes,Medium,4. College degree
+477,Zone 1,60,44,Married,4,150,High school degree,24,No,Male,2,Yes,No,Yes,Yes,20,63.5,0,15,36.8,1207.3,3907.8,0,870,2163.75,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Total service,No,High,2. High school degree
+478,Zone 2,19,37,Married,4,99,High school degree,15,No,Female,3,No,No,No,No,8,0,0,0,0,142.05,0,0,0,0,Yes,No,No,Yes,Yes,No,No,No,Yes,E-service,Yes,High,2. High school degree
+479,Zone 3,54,40,Unmarried,19,50,College degree,12,No,Female,2,No,No,Yes,Yes,22.8,0,0,5,33.05,1266.1,0,0,310,1746.9,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Total service,No,Medium,4. College degree
+480,Zone 2,25,41,Unmarried,3,81,Some college,20,No,Female,4,No,No,Yes,No,7.4,0,0,11,0,193.65,0,0,290,0,No,No,No,No,No,Yes,Yes,Yes,No,Plus service,No,High,3. Some college
+481,Zone 2,1,36,Unmarried,6,21,Did not complete high school,1,No,Male,2,No,Yes,No,No,1.35,0,22.6,0,0,1.35,0,22.6,0,0,Yes,No,No,No,Yes,No,No,No,Yes,E-service,Yes,Low,1. Did not complete high school
+482,Zone 3,54,68,Unmarried,7,273,Some college,27,No,Female,1,No,No,Yes,No,18.35,0,0,6,0,1003.2,0,0,325,0,No,No,No,Yes,No,No,No,No,Yes,Basic service,No,Very High,3. Some college
+483,Zone 1,14,31,Married,9,39,Some college,4,No,Female,7,No,No,No,No,4.4,0,0,0,0,60.65,0,0,0,0,No,No,No,No,No,No,No,No,No,Basic service,No,Medium,3. Some college
+484,Zone 3,14,28,Married,7,17,High school degree,3,No,Male,4,No,Yes,No,No,5.8,0,20.85,0,0,86.75,0,288.05,0,0,No,No,No,No,No,No,No,No,Yes,Basic service,Yes,Low,2. High school degree
+485,Zone 2,10,45,Married,8,115,Some college,17,No,Female,4,No,Yes,No,No,5.7,0,28.05,0,0,52.95,0,238.9,0,0,Yes,No,No,Yes,No,No,No,No,Yes,E-service,Yes,High,3. Some college
+486,Zone 1,7,23,Unmarried,3,27,High school degree,1,No,Female,3,Yes,No,Yes,No,3.65,9.5,0,7,0,21,76.05,0,55,0,No,No,No,No,No,Yes,Yes,No,No,Basic service,No,Low,2. High school degree
+487,Zone 2,33,45,Unmarried,24,35,Did not complete high school,6,No,Male,1,Yes,No,Yes,No,5.65,24,0,25.5,0,205.75,860.95,0,780,0,No,No,Yes,No,Yes,Yes,Yes,Yes,No,Plus service,Yes,Medium,1. Did not complete high school
+488,Zone 1,3,23,Unmarried,2,20,High school degree,4,No,Male,1,No,Yes,No,No,4.65,0,30,0,0,11.2,0,68.8,0,0,No,Yes,No,Yes,No,No,No,Yes,Yes,Basic service,No,Low,2. High school degree
+489,Zone 2,56,58,Married,3,92,Did not complete high school,25,No,Male,3,No,No,Yes,No,8.25,0,0,19.75,0,476.7,0,0,1075,0,No,No,No,No,No,No,No,Yes,No,Basic service,No,High,1. Did not complete high school
+490,Zone 2,54,56,Unmarried,8,207,High school degree,35,No,Female,1,Yes,No,Yes,No,9,25.25,0,9,0,464.65,1352.25,0,455,0,No,No,No,No,Yes,Yes,Yes,Yes,No,Plus service,No,Very High,2. High school degree
+491,Zone 1,72,55,Married,28,40,Did not complete high school,11,No,Male,5,No,No,Yes,No,34.25,0,0,35.75,0,2472.65,0,0,2770,0,Yes,No,No,No,No,No,No,No,No,E-service,No,Medium,1. Did not complete high school
+492,Zone 1,18,29,Unmarried,4,40,High school degree,1,No,Male,1,No,Yes,No,No,9.5,0,27.35,0,0,196.2,0,401.65,0,0,No,No,No,Yes,Yes,Yes,Yes,No,No,Plus service,No,Medium,2. High school degree
+493,Zone 3,25,29,Unmarried,9,55,College degree,1,No,Male,1,Yes,No,No,No,5.25,24.75,0,0,0,147.95,612.45,0,0,0,No,No,No,No,Yes,No,No,No,Yes,Basic service,Yes,High,4. College degree
+494,Zone 1,42,62,Unmarried,26,26,Did not complete high school,35,Yes,Female,1,No,No,Yes,No,8.75,0,0,27,0,337.75,0,0,1070,0,No,No,No,No,No,No,No,No,Yes,Basic service,No,Low,1. Did not complete high school
+495,Zone 3,4,37,Unmarried,2,41,High school degree,8,No,Male,1,Yes,Yes,Yes,No,2.8,13.5,29.9,16.5,0,5.3,45.75,83.55,60,0,No,No,Yes,Yes,No,Yes,No,No,No,Basic service,No,Medium,2. High school degree
+496,Zone 2,12,50,Married,16,203,College degree,25,No,Male,2,Yes,No,Yes,Yes,4.95,22,0,11.25,28.3,71.5,284.7,0,120,315.7,No,No,Yes,No,No,Yes,No,No,Yes,Basic service,Yes,Very High,4. College degree
+497,Zone 2,53,64,Married,17,380,High school degree,36,No,Female,2,Yes,No,Yes,No,12.85,40.25,0,15,0,687.9,2104.3,0,825,0,No,No,No,No,Yes,Yes,Yes,Yes,No,Plus service,No,Very High,2. High school degree
+498,Zone 2,13,38,Married,8,104,College degree,6,No,Male,7,Yes,No,Yes,Yes,10.25,21.5,0,25.75,58.85,160.4,274,0,325,723.35,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Total service,Yes,High,4. College degree
+499,Zone 3,18,31,Married,12,24,Some college,4,No,Male,4,No,No,No,No,12.15,0,0,0,0,202.2,0,0,0,0,Yes,No,No,No,No,No,No,No,Yes,E-service,No,Low,3. Some college
+500,Zone 3,67,42,Married,20,81,Some college,20,No,Female,5,Yes,No,Yes,Yes,24.4,41.25,0,9.5,36.7,1701,2799.45,0,615,2481.65,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Total service,No,High,3. Some college
+501,Zone 2,6,24,Unmarried,2,17,Did not complete high school,1,No,Male,1,Yes,No,Yes,No,3.25,21,0,15.25,0,29.25,132.2,0,45,0,No,No,No,No,Yes,Yes,No,Yes,No,Plus service,No,Low,1. Did not complete high school
+502,Zone 1,25,46,Unmarried,13,45,Did not complete high school,12,No,Female,1,Yes,No,No,No,5.4,16,0,0,0,155,408.05,0,0,0,No,Yes,No,No,No,Yes,Yes,No,No,Plus service,No,Medium,1. Did not complete high school
+503,Zone 2,15,39,Unmarried,19,32,High school degree,2,No,Male,1,No,Yes,No,No,3.45,0,31.85,0,0,44.45,0,462.75,0,0,Yes,Yes,No,No,No,No,No,No,Yes,E-service,Yes,Medium,2. High school degree
+504,Zone 3,32,35,Unmarried,12,57,College degree,5,No,Male,1,Yes,Yes,No,No,8.6,11,30.05,0,0,259.3,335.15,975.8,0,0,Yes,No,No,No,No,No,No,No,No,E-service,No,High,4. College degree
+505,Zone 2,22,39,Unmarried,0,63,College degree,9,No,Male,1,No,Yes,No,No,6.2,0,21.35,0,0,121.7,0,425.25,0,0,Yes,No,No,Yes,No,No,No,No,Yes,E-service,Yes,High,4. College degree
+506,Zone 2,8,22,Unmarried,3,25,College degree,0,No,Male,1,Yes,No,Yes,Yes,8,32.25,0,18.25,19.45,61.55,264,0,155,153.7,No,Yes,No,No,Yes,Yes,Yes,Yes,No,Plus service,No,Low,4. College degree
+507,Zone 1,3,31,Married,4,22,Did not complete high school,1,No,Male,2,No,Yes,No,No,3.4,0,22.7,0,0,7.6,0,35.45,0,0,No,No,No,Yes,No,Yes,No,No,Yes,Basic service,Yes,Low,1. Did not complete high school
+508,Zone 2,32,54,Unmarried,6,155,High school degree,20,No,Male,1,No,No,No,No,16.35,0,0,0,0,528.5,0,0,0,0,No,No,No,No,No,No,No,No,No,Basic service,No,Very High,2. High school degree
+509,Zone 1,49,54,Unmarried,24,30,High school degree,5,No,Male,1,No,No,Yes,No,15.5,0,0,14.25,0,754.8,0,0,625,0,Yes,No,No,No,No,No,Yes,No,No,E-service,No,Medium,2. High school degree
+510,Zone 2,2,28,Unmarried,7,46,Some college,0,No,Female,1,No,No,No,Yes,3.45,0,0,0,15.1,6.55,0,0,0,10.45,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,Total service,No,Medium,3. Some college
+511,Zone 1,39,47,Unmarried,1,68,College degree,10,No,Female,2,No,No,No,No,8.3,0,0,0,0,308.55,0,0,0,0,Yes,No,No,Yes,No,No,No,No,Yes,E-service,Yes,High,4. College degree
+512,Zone 1,42,33,Unmarried,2,67,High school degree,5,No,Male,2,No,No,Yes,No,6.7,0,0,25.25,0,270.2,0,0,1075,0,Yes,No,No,No,No,No,No,Yes,No,E-service,No,High,2. High school degree
+513,Zone 1,28,36,Unmarried,3,69,Some college,2,No,Male,1,Yes,Yes,Yes,Yes,6.05,25.25,41.55,31.75,36.6,153.05,697.05,1117.2,835,1020.95,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Total service,No,High,3. Some college
+514,Zone 2,41,46,Married,14,47,High school degree,11,No,Male,5,Yes,Yes,Yes,Yes,6.3,41.25,55.8,20,50.95,279.7,1665,2197.6,830,1956.7,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Total service,No,Medium,2. High school degree
+515,Zone 3,67,50,Married,31,83,High school degree,12,No,Male,2,No,Yes,Yes,No,29.45,0,22.65,19,0,1921.55,0,1515.4,1240,0,Yes,No,No,No,No,No,No,No,Yes,E-service,No,High,2. High school degree
+516,Zone 1,38,40,Unmarried,15,34,High school degree,11,No,Female,1,No,Yes,Yes,No,4.25,0,19.8,7,0,157.6,0,779.65,275,0,Yes,No,No,Yes,No,No,No,No,No,E-service,No,Medium,2. High school degree
+517,Zone 2,18,38,Unmarried,8,45,High school degree,2,No,Female,4,Yes,Yes,Yes,Yes,2.7,31.5,36.25,15,23.4,45.6,609.2,654.75,270,422.5,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Total service,Yes,Medium,2. High school degree
+518,Zone 2,6,42,Married,17,29,High school degree,2,No,Female,2,Yes,No,Yes,Yes,4.3,25.75,0,29,31.9,13.4,159.15,0,165,162,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Total service,No,Low,2. High school degree
+519,Zone 2,4,36,Unmarried,0,21,High school degree,1,No,Female,3,No,No,No,No,3.3,0,0,0,0,22.1,0,0,0,0,No,No,No,No,No,No,No,Yes,No,Basic service,No,Low,2. High school degree
+520,Zone 1,13,23,Married,3,30,Some college,0,No,Female,4,Yes,Yes,No,No,5.15,24.25,28.85,0,0,53.5,294.55,294.35,0,0,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Total service,No,Medium,3. Some college
+521,Zone 1,20,35,Unmarried,0,78,College degree,7,No,Male,1,No,Yes,No,Yes,5.5,0,46.1,0,35.25,97.15,0,825.45,0,701.05,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Total service,Yes,High,4. College degree
+522,Zone 1,34,49,Married,27,61,Some college,15,No,Female,2,Yes,No,No,No,12.65,34.25,0,0,0,414.9,1119.35,0,0,0,No,No,No,No,Yes,Yes,Yes,Yes,No,Plus service,No,High,3. Some college
+523,Zone 1,46,29,Married,4,90,Post-undergraduate degree,3,No,Male,4,Yes,No,Yes,Yes,16.85,40.5,0,34.5,39.8,736.45,1817.75,0,1480,1783.15,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Total service,No,High,5. Post-undergraduate degree
+524,Zone 1,48,41,Unmarried,21,43,High school degree,7,No,Male,1,No,No,Yes,No,19.5,0,0,11.75,0,887.7,0,0,530,0,Yes,No,No,No,No,No,No,No,No,E-service,No,Medium,2. High school degree
+525,Zone 3,69,61,Married,12,301,High school degree,37,No,Male,2,Yes,Yes,Yes,Yes,26.05,36.75,41.85,16.25,38.45,1738.15,2589.3,2768.9,1110,2590.2,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,Plus service,No,Very High,2. High school degree
+526,Zone 1,32,34,Married,7,32,High school degree,15,No,Male,4,No,No,No,No,9.25,0,0,0,0,285.75,0,0,0,0,No,No,No,No,No,No,No,Yes,No,Basic service,No,Medium,2. High school degree
+527,Zone 1,29,29,Unmarried,9,41,High school degree,9,No,Male,2,Yes,Yes,No,No,4.75,23,37.45,0,0,112,626.6,1010.1,0,0,Yes,No,No,No,No,No,Yes,Yes,Yes,E-service,No,Medium,2. High school degree
+528,Zone 3,55,52,Unmarried,22,127,Did not complete high school,28,No,Female,3,No,No,Yes,No,7.05,0,0,20.25,0,400.55,0,0,1150,0,Yes,Yes,No,No,No,No,No,No,Yes,E-service,No,High,1. Did not complete high school
+529,Zone 3,72,60,Married,36,271,Did not complete high school,43,No,Female,2,No,No,Yes,No,21.7,0,0,52.25,0,1580.4,0,0,3665,0,Yes,No,No,No,Yes,Yes,Yes,Yes,No,Plus service,No,Very High,1. Did not complete high school
+530,Zone 3,29,26,Unmarried,1,32,Some college,2,No,Female,1,No,No,Yes,No,3.4,0,0,15.75,0,111.5,0,0,440,0,No,Yes,No,No,No,No,No,Yes,No,Basic service,Yes,Medium,3. Some college
+531,Zone 2,50,25,Married,1,36,College degree,2,No,Female,5,No,Yes,Yes,Yes,13.05,0,40.6,10.25,40.85,682.2,0,1928.2,545,1964.2,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Total service,No,Medium,4. College degree
+532,Zone 3,35,50,Married,11,293,Some college,21,No,Male,2,No,Yes,No,No,12.25,0,23.9,0,0,416.4,0,793.4,0,0,No,No,No,No,No,No,No,No,Yes,Basic service,Yes,Very High,3. Some college
+533,Zone 3,11,63,Unmarried,9,41,Some college,3,No,Male,1,No,Yes,No,No,4.15,0,29.9,0,0,46.35,0,299.65,0,0,No,No,No,Yes,No,No,No,No,Yes,Basic service,Yes,Medium,3. Some college
+534,Zone 1,9,29,Unmarried,9,39,Some college,5,No,Female,1,No,No,No,No,4.2,0,0,0,0,22,0,0,0,0,No,No,No,No,No,No,No,No,Yes,Basic service,No,Medium,3. Some college
+535,Zone 2,51,48,Unmarried,27,58,Did not complete high school,18,No,Male,1,Yes,No,Yes,No,19.2,25.75,0,9.25,0,964.85,1320.05,0,390,0,No,No,No,No,Yes,No,Yes,Yes,No,Plus service,Yes,High,1. Did not complete high school
+536,Zone 1,33,34,Married,2,28,Did not complete high school,3,No,Female,3,No,No,No,No,13.4,0,0,0,0,438.9,0,0,0,0,Yes,No,No,Yes,Yes,No,No,No,No,E-service,No,Low,1. Did not complete high school
+537,Zone 1,25,20,Unmarried,0,15,High school degree,0,No,Male,2,Yes,No,Yes,No,10.7,23,0,18.75,0,296.75,572.25,0,405,0,No,No,No,No,Yes,Yes,Yes,Yes,No,Plus service,No,Low,2. High school degree
+538,Zone 3,31,34,Unmarried,9,105,College degree,7,No,Female,4,No,No,Yes,No,6.45,0,0,5.75,0,182.35,0,0,170,0,No,No,No,No,No,Yes,No,Yes,No,Plus service,No,High,4. College degree
+539,Zone 2,67,40,Married,10,80,College degree,8,No,Female,2,Yes,Yes,Yes,Yes,33.05,21.75,53.55,18.75,48.05,2225.15,1391.6,3532.1,1215,3185.35,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Total service,No,High,4. College degree
+540,Zone 3,55,45,Unmarried,8,36,High school degree,9,No,Male,3,Yes,No,Yes,No,25.65,41.75,0,11.75,0,1423,2294.75,0,630,0,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,Plus service,No,Medium,2. High school degree
+541,Zone 3,19,50,Unmarried,7,112,College degree,3,No,Female,1,No,Yes,Yes,Yes,7.15,0,44.8,14.25,46.55,160.2,0,817.25,265,893.75,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Total service,No,High,4. College degree
+542,Zone 1,39,34,Married,11,55,College degree,10,No,Female,4,Yes,Yes,Yes,Yes,18.45,33.75,56.95,35.5,47.85,742.5,1307.8,2171.7,1385,1867.5,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Total service,No,High,4. College degree
+543,Zone 2,52,35,Married,8,40,College degree,1,No,Male,2,Yes,Yes,Yes,Yes,10.75,33.5,35.3,11,44.6,546.65,1772.35,1726.5,615,2407.15,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,Plus service,No,Medium,4. College degree
+544,Zone 3,55,37,Married,15,23,High school degree,0,No,Female,5,Yes,No,Yes,No,12.95,32.5,0,26.25,0,716.25,1783.55,0,1355,0,Yes,No,No,No,Yes,Yes,Yes,Yes,No,Plus service,No,Low,2. High school degree
+545,Zone 2,25,62,Unmarried,27,28,College degree,33,Yes,Female,1,Yes,Yes,Yes,Yes,8.3,14.75,52,18,47,160.4,359.25,1183.7,430,1117.55,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Total service,Yes,Low,4. College degree
+546,Zone 3,33,58,Unmarried,12,21,High school degree,23,Yes,Female,1,No,No,Yes,No,8.8,0,0,20.75,0,264.05,0,0,690,0,No,No,No,No,No,No,No,No,No,Basic service,No,Low,2. High school degree
+547,Zone 2,48,35,Unmarried,5,63,College degree,12,No,Male,2,No,No,Yes,No,13.4,0,0,27.5,0,560.55,0,0,1315,0,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,Plus service,Yes,High,4. College degree
+548,Zone 2,48,31,Married,12,52,College degree,3,No,Male,3,Yes,Yes,Yes,Yes,8.15,26.5,50.95,31.75,55.55,364.8,1323.5,2289.7,1410,2725.3,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Total service,No,High,4. College degree
+549,Zone 2,49,57,Unmarried,3,189,Did not complete high school,31,No,Female,3,No,No,Yes,No,11,0,0,8.75,0,476.15,0,0,405,0,No,No,No,No,No,No,No,No,No,Basic service,No,Very High,1. Did not complete high school
+550,Zone 3,54,32,Married,0,50,Did not complete high school,15,No,Male,3,Yes,Yes,Yes,No,18.15,46.25,49.2,21.25,0,958.7,2530.9,2610.6,1105,0,No,No,No,No,Yes,Yes,Yes,Yes,No,Plus service,Yes,Medium,1. Did not complete high school
+551,Zone 1,45,32,Married,9,23,Did not complete high school,15,No,Male,4,No,No,No,No,9.85,0,0,0,0,469.1,0,0,0,0,No,No,No,No,No,No,No,No,No,Basic service,No,Low,1. Did not complete high school
+552,Zone 3,4,37,Married,1,33,High school degree,15,No,Female,5,No,Yes,No,No,2.45,0,21.9,0,0,19.25,0,65.1,0,0,No,No,No,Yes,No,No,No,No,Yes,Basic service,Yes,Medium,2. High school degree
+553,Zone 3,49,27,Married,3,29,Some college,6,No,Female,3,No,Yes,No,No,10.4,0,44,0,0,476.45,0,2096.8,0,0,Yes,Yes,No,Yes,No,No,No,No,Yes,E-service,Yes,Low,3. Some college
+554,Zone 2,23,35,Unmarried,2,96,Some college,4,No,Male,1,No,Yes,Yes,Yes,6.4,0,37.6,22.75,46.2,160.3,0,788.4,450,979.25,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Total service,Yes,High,3. Some college
+555,Zone 2,31,44,Unmarried,23,80,Post-undergraduate degree,15,No,Male,1,Yes,Yes,No,No,14.05,9.25,30.35,0,0,465.2,306.05,916.5,0,0,Yes,No,No,Yes,No,No,No,No,Yes,E-service,Yes,High,5. Post-undergraduate degree
+556,Zone 2,55,44,Married,2,68,High school degree,15,No,Male,5,Yes,No,Yes,No,6.6,43.5,0,29.5,0,350.85,2423.3,0,1685,0,No,No,No,No,Yes,Yes,Yes,Yes,No,Plus service,No,High,2. High school degree
+557,Zone 1,9,28,Unmarried,7,30,Did not complete high school,4,No,Female,6,No,No,No,No,4.2,0,0,0,0,47.45,0,0,0,0,No,No,No,No,No,No,No,No,No,Basic service,No,Medium,1. Did not complete high school
+558,Zone 2,55,57,Married,25,34,High school degree,12,No,Male,3,No,No,Yes,No,14.6,0,0,29.5,0,785.4,0,0,1600,0,No,No,No,No,No,No,No,No,No,Basic service,No,Medium,2. High school degree
+559,Zone 1,34,30,Unmarried,3,35,High school degree,2,No,Female,3,Yes,No,Yes,No,9.05,21.5,0,8,0,333,695.95,0,275,0,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Plus service,No,Medium,2. High school degree
+560,Zone 1,10,23,Unmarried,4,36,High school degree,1,No,Male,3,Yes,No,Yes,No,8.55,14.75,0,22,0,86.05,142.05,0,200,0,No,No,No,No,Yes,Yes,Yes,Yes,No,Plus service,No,Medium,2. High school degree
+561,Zone 2,62,76,Unmarried,20,35,Some college,18,Yes,Female,1,No,No,Yes,No,17.25,0,0,17.75,0,1045.7,0,0,1085,0,Yes,No,No,No,Yes,No,No,No,Yes,E-service,No,Medium,3. Some college
+562,Zone 2,51,36,Unmarried,13,62,Some college,9,No,Male,2,Yes,No,Yes,Yes,5.65,36.25,0,19.75,40.4,305.75,1872.75,0,995,2005.45,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Total service,No,High,3. Some college
+563,Zone 1,65,48,Unmarried,28,94,Did not complete high school,25,No,Male,1,No,No,Yes,No,10.4,0,0,22.5,0,664.65,0,0,1470,0,Yes,No,No,No,No,No,No,No,No,E-service,No,High,1. Did not complete high school
+564,Zone 3,53,33,Unmarried,1,60,Did not complete high school,6,No,Male,2,Yes,No,Yes,Yes,17.65,28.5,0,41,28.55,950.7,1502.2,0,2170,1524.6,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Total service,No,High,1. Did not complete high school
+565,Zone 1,23,35,Unmarried,4,118,High school degree,11,No,Male,1,No,Yes,No,No,7.9,0,30.15,0,0,196.95,0,672.4,0,0,No,Yes,No,Yes,No,No,No,No,Yes,Basic service,Yes,High,2. High school degree
+566,Zone 3,1,30,Unmarried,3,135,College degree,3,No,Male,3,Yes,Yes,Yes,No,1.1,5.75,22.8,2.75,0,1.1,5.75,22.8,2.75,0,No,No,No,Yes,Yes,No,No,No,Yes,Basic service,Yes,High,4. College degree
+567,Zone 3,66,55,Unmarried,20,80,High school degree,24,No,Female,1,Yes,No,Yes,No,14,30.75,0,14.75,0,938.35,2128.2,0,965,0,Yes,No,No,No,Yes,Yes,Yes,Yes,No,Plus service,No,High,2. High school degree
+568,Zone 3,8,27,Married,0,21,Some college,3,No,Female,2,No,Yes,No,No,3.65,0,36.45,0,0,38.05,0,235.75,0,0,Yes,No,No,Yes,No,No,No,No,Yes,E-service,No,Low,3. Some college
+569,Zone 3,18,28,Married,3,22,Did not complete high school,2,No,Female,5,No,No,Yes,No,3.15,173,0,9.5,0,55.55,0,0,175,0,No,No,No,No,No,No,No,No,No,Basic service,No,Low,1. Did not complete high school
+570,Zone 3,36,32,Married,3,63,College degree,7,No,Male,4,No,Yes,Yes,No,6.2,0,29.55,12.75,0,229.5,0,991.35,415,0,Yes,No,No,Yes,No,No,No,Yes,No,E-service,No,High,4. College degree
+571,Zone 1,13,40,Unmarried,16,142,High school degree,18,No,Female,1,No,No,No,No,8.45,0,0,0,0,109.85,0,0,0,0,No,No,No,No,No,No,No,No,No,Basic service,Yes,High,2. High school degree
+572,Zone 3,4,44,Unmarried,15,32,Some college,0,No,Female,1,Yes,Yes,Yes,No,2.1,13.75,25.95,8.75,0,6.9,44.95,82.25,25,0,No,Yes,No,Yes,Yes,No,Yes,Yes,No,Plus service,Yes,Medium,3. Some college
+573,Zone 3,20,32,Unmarried,10,19,Some college,5,No,Male,1,No,Yes,No,No,6.85,0,36.05,0,0,106.5,0,701.5,0,0,Yes,No,No,Yes,No,No,No,No,Yes,E-service,No,Low,3. Some college
+574,Zone 1,66,39,Married,12,60,College degree,10,No,Male,3,Yes,Yes,Yes,Yes,20.15,39.25,46.3,17.25,36.4,1443.75,2490.65,2895.3,1055,2322.2,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Total service,No,High,4. College degree
+575,Zone 3,67,47,Married,7,97,Did not complete high school,23,No,Male,4,No,No,Yes,No,22.4,0,0,18.5,0,1464.9,0,0,1225,0,No,No,No,No,Yes,Yes,Yes,Yes,No,Plus service,No,High,1. Did not complete high school
+576,Zone 1,11,24,Married,0,31,High school degree,3,No,Female,4,Yes,Yes,Yes,Yes,5.4,16,39.2,13.75,33.55,83.15,189.45,422.8,140,331.65,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Total service,Yes,Medium,2. High school degree
+577,Zone 1,6,26,Unmarried,7,30,Some college,1,No,Female,2,No,Yes,No,No,6.35,0,19.75,0,0,30.8,0,109.25,0,0,No,No,No,Yes,No,No,No,No,No,Basic service,Yes,Medium,3. Some college
+578,Zone 2,13,23,Married,4,31,Did not complete high school,5,No,Female,4,No,Yes,No,Yes,4.6,0,35.45,0,27.7,54.85,0,398.95,0,339.75,No,Yes,Yes,Yes,No,No,No,No,Yes,Basic service,No,Medium,1. Did not complete high school
+579,Zone 2,2,29,Married,3,44,High school degree,9,No,Female,6,Yes,Yes,Yes,Yes,2.1,16.25,43.2,12.25,33.6,5.1,31.3,47.05,5,24.2,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Total service,Yes,Medium,2. High school degree
+580,Zone 1,4,40,Unmarried,12,38,High school degree,5,No,Male,1,No,No,Yes,No,8.15,0,0,12,0,32.25,0,0,25,0,No,No,No,No,No,No,No,No,No,Basic service,No,Medium,2. High school degree
+581,Zone 1,34,63,Married,10,23,High school degree,0,No,Female,2,Yes,Yes,Yes,Yes,14.3,19.5,39.6,15.25,28.95,459.05,616.5,1396.3,495,984.1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Total service,No,Low,2. High school degree
+582,Zone 1,13,34,Married,6,37,Some college,6,No,Male,4,No,No,No,No,6.85,0,0,0,0,102.5,0,0,0,0,No,No,No,No,No,Yes,No,Yes,No,Plus service,No,Medium,3. Some college
+583,Zone 2,37,40,Married,14,26,High school degree,0,No,Male,5,No,No,Yes,No,18.9,0,0,12,0,653.15,0,0,470,0,Yes,No,No,No,No,No,No,No,Yes,E-service,No,Low,2. High school degree
+584,Zone 1,45,30,Married,8,38,High school degree,5,No,Male,6,No,No,Yes,No,12.75,0,0,23.75,0,622.15,0,0,1015,0,Yes,No,No,No,No,Yes,Yes,Yes,No,Plus service,No,Medium,2. High school degree
+585,Zone 2,71,70,Unmarried,30,153,Some college,34,Yes,Female,1,Yes,No,Yes,Yes,30.55,46.25,0,26.25,46.7,2291.1,3114.95,0,1805,3292.65,Yes,No,No,No,Yes,Yes,Yes,Yes,No,Plus service,No,Very High,3. Some college
+586,Zone 1,35,40,Unmarried,5,49,Did not complete high school,20,No,Female,1,No,No,No,No,3.4,0,0,0,0,107.85,0,0,0,0,No,No,No,No,No,No,No,No,No,Basic service,No,Medium,1. Did not complete high school
+587,Zone 3,44,41,Unmarried,21,51,Some college,7,No,Male,1,No,Yes,Yes,No,4.95,0,31.55,10.75,0,203.65,0,1301.9,460,0,No,No,No,Yes,No,No,No,No,Yes,Basic service,No,High,3. Some college
+588,Zone 3,44,45,Married,19,88,Did not complete high school,21,No,Male,2,Yes,No,Yes,No,11.9,25.25,0,8.25,0,524.25,1108.4,0,305,0,Yes,No,No,No,Yes,Yes,Yes,Yes,No,Plus service,No,High,1. Did not complete high school
+589,Zone 1,26,41,Married,20,19,Did not complete high school,0,No,Female,6,No,No,No,No,5.45,0,0,0,0,165.4,0,0,0,0,No,No,No,No,No,No,No,No,No,Basic service,No,Low,1. Did not complete high school
+590,Zone 2,42,46,Married,9,31,Did not complete high school,12,No,Female,3,No,No,Yes,No,5.9,0,0,23,0,277.65,0,0,945,0,No,No,No,No,No,No,No,Yes,No,Basic service,No,Medium,1. Did not complete high school
+591,Zone 2,41,47,Married,6,90,High school degree,19,No,Male,3,No,Yes,Yes,No,6.7,0,20.2,31.25,0,251.35,0,825.15,1240,0,No,No,No,Yes,No,No,No,No,No,Basic service,Yes,High,2. High school degree
+592,Zone 1,31,24,Married,3,14,Did not complete high school,0,No,Male,4,No,No,No,No,7.2,0,0,0,0,231.75,0,0,0,0,No,No,No,No,No,No,No,No,No,Basic service,No,Low,1. Did not complete high school
+593,Zone 3,62,63,Unmarried,43,341,High school degree,30,No,Male,1,No,No,Yes,No,14.6,0,0,14.25,0,912.4,0,0,845,0,No,Yes,No,Yes,Yes,Yes,No,Yes,No,Plus service,Yes,Very High,2. High school degree
+594,Zone 1,12,23,Married,2,24,College degree,0,No,Female,8,Yes,No,Yes,Yes,3.2,41,0,15.75,35.4,35.5,502,0,210,373,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Total service,No,Low,4. College degree
+595,Zone 2,45,49,Married,27,81,High school degree,7,No,Female,4,Yes,No,Yes,No,13.85,50.5,0,21,0,583.1,2284.25,0,935,0,No,No,No,No,Yes,Yes,Yes,Yes,No,Plus service,No,High,2. High school degree
+596,Zone 1,47,34,Married,4,63,High school degree,13,No,Female,4,No,No,Yes,No,18.95,0,0,30.5,0,880.75,0,0,1395,0,No,No,No,No,No,No,No,No,No,Basic service,No,High,2. High school degree
+597,Zone 2,23,22,Married,1,27,Did not complete high school,4,No,Male,5,Yes,No,Yes,No,7.9,23,0,15.75,0,210.85,515.8,0,345,0,Yes,No,No,No,Yes,Yes,Yes,No,No,Plus service,No,Low,1. Did not complete high school
+598,Zone 3,39,34,Unmarried,4,20,Post-undergraduate degree,3,No,Female,1,Yes,Yes,Yes,Yes,9.55,21.25,59.2,10,79.2,375.4,872.5,2361.9,385,2973,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Total service,No,Low,5. Post-undergraduate degree
+599,Zone 2,19,26,Unmarried,2,48,Some college,0,No,Male,2,No,No,Yes,No,7.55,0,0,6.5,0,156.15,0,0,105,0,No,Yes,No,No,Yes,Yes,Yes,No,No,Plus service,No,Medium,3. Some college
+600,Zone 1,13,54,Unmarried,12,121,College degree,23,No,Male,1,No,No,No,No,7.3,0,0,0,0,102.4,0,0,0,0,No,No,No,No,Yes,No,Yes,Yes,No,Plus service,No,High,4. College degree
+601,Zone 2,5,33,Unmarried,6,39,Some college,4,No,Male,3,Yes,Yes,No,No,2.1,19.5,27.45,0,0,5.2,81.15,103.45,0,0,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Total service,Yes,Medium,3. Some college
+602,Zone 2,11,19,Unmarried,0,21,High school degree,0,No,Male,1,No,No,No,No,3.6,0,0,0,0,35.4,0,0,0,0,No,No,No,No,No,No,No,No,Yes,Basic service,Yes,Low,2. High school degree
+603,Zone 3,4,32,Unmarried,2,53,College degree,5,No,Male,1,Yes,Yes,No,No,7,11,26.25,0,0,29.2,56.45,90.75,0,0,No,No,Yes,No,No,No,No,No,Yes,Basic service,Yes,High,4. College degree
+604,Zone 3,17,42,Unmarried,8,58,Did not complete high school,23,No,Male,1,No,Yes,No,No,5.05,0,28.65,0,0,85.05,0,523.05,0,0,Yes,Yes,No,Yes,No,Yes,No,No,No,E-service,Yes,High,1. Did not complete high school
+605,Zone 2,7,27,Unmarried,3,39,Some college,2,No,Male,1,No,No,No,No,3.55,0,0,0,0,19.7,0,0,0,0,No,No,No,No,No,No,Yes,No,No,Basic service,Yes,Medium,3. Some college
+606,Zone 1,19,65,Unmarried,3,108,Did not complete high school,33,No,Male,3,Yes,No,Yes,No,5.95,21.5,0,11.25,0,117.55,423.6,0,190,0,No,No,No,No,Yes,Yes,Yes,Yes,No,Plus service,No,High,1. Did not complete high school
+607,Zone 2,32,34,Married,0,38,Did not complete high school,10,No,Male,4,No,No,Yes,No,7.35,0,0,19.25,0,217.45,0,0,600,0,Yes,No,No,No,No,No,No,No,Yes,E-service,No,Medium,1. Did not complete high school
+608,Zone 2,53,51,Unmarried,31,245,College degree,0,No,Male,1,Yes,No,Yes,No,18.45,28.25,0,11,0,961.75,1535.25,0,570,0,Yes,No,No,No,No,No,No,Yes,No,E-service,No,Very High,4. College degree
+609,Zone 1,51,38,Unmarried,19,51,Did not complete high school,18,No,Female,1,Yes,No,Yes,No,11.7,26,0,23.25,0,577.1,1267.2,0,1195,0,No,Yes,No,No,Yes,Yes,Yes,Yes,No,Plus service,No,High,1. Did not complete high school
+610,Zone 1,35,34,Unmarried,7,78,College degree,10,No,Female,1,No,No,Yes,No,13.9,0,0,4.5,0,556.2,0,0,135,0,No,No,No,No,No,No,No,No,No,Basic service,No,High,4. College degree
+611,Zone 1,3,31,Married,4,23,College degree,4,No,Male,5,Yes,Yes,Yes,Yes,2.8,16.5,36,37.75,21.7,8.2,74.45,44.4,70,47.9,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Total service,Yes,Low,4. College degree
+612,Zone 1,22,48,Unmarried,7,88,College degree,12,No,Male,1,No,Yes,No,No,4.5,0,31.85,0,0,92.65,0,646.05,0,0,No,No,No,Yes,No,No,No,No,No,Basic service,Yes,High,4. College degree
+613,Zone 3,17,21,Married,0,25,High school degree,1,No,Female,3,No,No,No,No,6.1,0,0,0,0,89.6,0,0,0,0,Yes,No,No,No,Yes,No,Yes,Yes,Yes,Plus service,No,Low,2. High school degree
+614,Zone 2,68,39,Unmarried,20,73,High school degree,16,No,Female,1,Yes,No,Yes,No,44.95,15.75,0,20,0,3002.2,1089.05,0,1295,0,Yes,No,No,No,No,No,No,No,No,E-service,No,High,2. High school degree
+615,Zone 2,27,41,Married,7,62,College degree,15,No,Female,2,Yes,No,Yes,No,13.7,16.25,0,6.75,0,371.35,450,0,165,0,No,No,No,No,Yes,No,No,Yes,No,Plus service,No,High,4. College degree
+616,Zone 3,68,52,Married,8,456,Some college,30,No,Female,4,Yes,No,Yes,Yes,22.25,27.5,0,26.75,29.75,1549.95,1782.1,0,1885,2096.55,Yes,No,No,No,Yes,Yes,Yes,Yes,No,Plus service,No,Very High,3. Some college
+617,Zone 3,56,42,Married,10,24,High school degree,5,No,Male,2,No,No,No,No,33.65,0,0,0,0,1871.2,0,0,0,0,No,No,No,No,Yes,Yes,Yes,Yes,No,Plus service,No,Low,2. High school degree
+618,Zone 3,11,32,Unmarried,8,23,High school degree,0,No,Female,1,No,Yes,Yes,No,6.2,0,28.4,7.25,0,82.6,0,242.9,95,0,No,No,No,Yes,No,No,No,No,Yes,Basic service,No,Low,2. High school degree
+619,Zone 3,5,47,Unmarried,7,46,Did not complete high school,6,No,Female,1,No,No,Yes,No,2.95,0,0,7.25,0,21.55,0,0,35,0,No,No,No,No,Yes,No,Yes,No,No,Basic service,Yes,Medium,1. Did not complete high school
+620,Zone 3,16,50,Unmarried,5,263,High school degree,29,No,Female,3,Yes,Yes,No,Yes,3.75,17,31.95,0,21.9,59.75,253.35,463.25,0,309.05,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Plus service,No,Very High,2. High school degree
+621,Zone 2,59,30,Unmarried,2,34,College degree,2,No,Female,1,No,Yes,Yes,No,16.7,0,32.25,11.75,0,1020.35,0,1939.2,680,0,Yes,Yes,No,No,No,No,No,No,No,E-service,No,Medium,4. College degree
+622,Zone 1,60,64,Unmarried,14,33,High school degree,13,Yes,Male,1,Yes,No,Yes,Yes,30.75,22.25,0,12.25,47.4,1829.4,1391,0,670,2962.1,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Total service,No,Medium,2. High school degree
+623,Zone 3,55,47,Unmarried,11,37,Did not complete high school,11,No,Male,1,Yes,No,Yes,No,14.75,20.25,0,10.75,0,786.2,1170.75,0,570,0,No,No,No,No,Yes,No,No,Yes,No,Plus service,No,Medium,1. Did not complete high school
+624,Zone 1,18,56,Unmarried,22,296,High school degree,25,No,Male,1,No,No,Yes,No,3.4,0,0,8.25,0,49.7,0,0,160,0,No,No,No,No,Yes,No,No,No,No,Basic service,No,Very High,2. High school degree
+625,Zone 2,16,22,Unmarried,0,26,Some college,0,No,Female,3,No,Yes,No,No,4.1,0,29.35,0,0,64.95,0,514.15,0,0,Yes,No,No,No,No,No,No,No,Yes,E-service,Yes,Low,3. Some college
+626,Zone 1,35,57,Married,32,47,College degree,12,No,Male,2,No,Yes,Yes,No,7.25,0,33.7,18.75,0,263.55,0,1153.4,630,0,Yes,No,No,Yes,No,No,No,No,No,E-service,No,Medium,4. College degree
+627,Zone 3,31,23,Married,1,31,Some college,1,No,Female,2,Yes,Yes,Yes,Yes,16.6,19,58.7,16.5,51.35,520.4,537.4,1712.5,450,1533.9,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Total service,Yes,Medium,3. Some college
+628,Zone 2,20,49,Married,5,264,High school degree,29,No,Female,2,No,No,No,No,9.6,0,0,0,0,159.2,0,0,0,0,No,No,No,No,No,Yes,No,No,No,Basic service,No,Very High,2. High school degree
+629,Zone 2,16,27,Unmarried,5,41,College degree,2,No,Female,1,Yes,Yes,Yes,Yes,6.9,15.75,42.75,17.25,30.95,100.9,278.5,615.4,255,450.45,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Total service,Yes,Medium,4. College degree
+630,Zone 2,69,48,Married,27,55,High school degree,4,No,Male,2,Yes,Yes,Yes,No,19.6,35.75,34.25,62,0,1411.7,2396.7,2440.6,4125,0,Yes,No,No,No,No,Yes,Yes,No,No,Plus service,No,High,2. High school degree
+631,Zone 3,69,66,Married,31,49,High school degree,15,No,Male,2,Yes,No,Yes,No,23.1,29.25,0,25.5,0,1566.8,2063.45,0,1750,0,No,No,No,No,No,No,No,No,No,Basic service,No,Medium,2. High school degree
+632,Zone 2,27,24,Married,3,26,Did not complete high school,7,No,Female,4,No,No,No,No,6.05,0,0,0,0,137.7,0,0,0,0,No,No,Yes,No,No,No,No,No,No,Basic service,Yes,Low,1. Did not complete high school
+633,Zone 3,48,39,Unmarried,20,110,College degree,9,No,Male,1,Yes,No,Yes,Yes,18.05,30.25,0,8.75,30.4,812.65,1472.7,0,475,1503.95,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,Plus service,No,High,4. College degree
+634,Zone 1,18,52,Married,20,66,Did not complete high school,19,No,Female,2,Yes,No,Yes,No,12.8,27.75,0,10.5,0,204.95,520.6,0,170,0,No,No,No,Yes,No,No,Yes,No,No,Basic service,No,High,1. Did not complete high school
+635,Zone 2,24,40,Married,4,39,Some college,5,No,Female,2,Yes,No,Yes,Yes,4.05,25.75,0,27.5,22.5,117.05,628.05,0,570,529.1,No,No,Yes,No,Yes,Yes,Yes,Yes,No,Plus service,No,Medium,3. Some college
+636,Zone 2,17,42,Unmarried,6,31,High school degree,2,No,Male,1,Yes,No,No,Yes,8.25,24.5,0,0,26.4,140.85,404.8,0,0,447.95,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Total service,Yes,Medium,2. High school degree
+637,Zone 2,9,24,Married,3,26,College degree,1,No,Female,3,No,Yes,No,No,7.65,0,23.25,0,0,75.25,0,169.75,0,0,No,No,No,No,No,No,Yes,No,No,Basic service,No,Low,4. College degree
+638,Zone 2,15,46,Unmarried,5,232,College degree,15,No,Female,2,Yes,Yes,Yes,Yes,4.3,23,45.15,22.75,31.3,41.35,357.5,582,305,474.5,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Total service,Yes,Very High,4. College degree
+639,Zone 1,62,37,Married,10,43,College degree,1,No,Female,3,No,Yes,Yes,No,9.2,0,37.2,18.75,0,539.65,0,2302.4,1160,0,Yes,No,No,No,Yes,No,No,No,No,E-service,No,Medium,4. College degree
+640,Zone 1,9,41,Unmarried,12,39,College degree,3,No,Male,1,No,Yes,No,Yes,4.7,0,39.65,0,20.8,26.3,0,318.25,0,135.95,No,Yes,Yes,Yes,No,No,No,No,Yes,Basic service,Yes,Medium,4. College degree
+641,Zone 2,71,41,Married,10,73,High school degree,23,No,Female,2,No,No,Yes,No,32.65,0,0,41.75,0,2412.6,0,0,3085,0,Yes,No,No,No,Yes,Yes,Yes,No,No,Plus service,No,High,2. High school degree
+642,Zone 2,62,59,Married,37,74,Did not complete high school,20,No,Male,2,Yes,No,Yes,No,16.1,36,0,11,0,972,2245.35,0,645,0,No,No,No,No,Yes,Yes,Yes,Yes,No,Plus service,No,High,1. Did not complete high school
+643,Zone 2,20,38,Unmarried,19,237,College degree,13,No,Male,1,Yes,Yes,Yes,Yes,6,21.25,34.4,9.75,26.9,164.2,473.4,711.4,215,491.1,No,No,Yes,Yes,Yes,Yes,Yes,No,No,Total service,No,Very High,4. College degree
+644,Zone 1,19,33,Married,11,22,Did not complete high school,3,No,Male,5,No,No,Yes,No,3.95,0,0,36.25,0,79.6,0,0,685,0,Yes,No,No,No,Yes,Yes,No,Yes,No,Plus service,No,Low,1. Did not complete high school
+645,Zone 2,49,61,Married,28,21,Did not complete high school,8,No,Male,2,Yes,No,Yes,No,15.85,24.75,0,8.75,0,757.4,1228.85,0,395,0,No,No,No,No,Yes,Yes,Yes,Yes,No,Plus service,No,Low,1. Did not complete high school
+646,Zone 3,3,64,Unmarried,3,9,High school degree,6,Yes,Male,1,No,No,No,No,4.95,0,0,0,0,14.8,0,0,0,0,No,No,No,No,No,No,No,No,No,Basic service,Yes,Low,2. High school degree
+647,Zone 1,33,36,Unmarried,2,41,Post-undergraduate degree,10,No,Male,1,No,Yes,No,Yes,4.15,0,39.1,0,27.05,93.25,0,1225.4,0,841.95,No,Yes,No,Yes,No,No,No,No,Yes,Basic service,Yes,Medium,5. Post-undergraduate degree
+648,Zone 2,38,44,Unmarried,1,50,College degree,7,No,Female,1,No,Yes,Yes,No,7.15,0,24.6,10,0,277.5,0,891.8,355,0,Yes,No,No,Yes,No,No,No,No,Yes,E-service,Yes,Medium,4. College degree
+649,Zone 3,42,48,Married,14,27,Some college,5,No,Female,3,Yes,Yes,Yes,Yes,16.5,36,54.2,22.75,28.4,692.2,1540.15,2100.3,910,1199.95,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Total service,No,Low,3. Some college
+650,Zone 1,11,26,Unmarried,2,53,Some college,3,No,Male,1,Yes,Yes,Yes,Yes,4.15,21.5,43.7,11.75,38.8,34.7,188.35,431.3,110,415.8,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Total service,Yes,High,3. Some college
+651,Zone 3,27,28,Married,0,58,Some college,0,No,Male,2,Yes,No,No,No,5.8,22.5,0,0,0,163.65,566.15,0,0,0,No,No,No,No,Yes,Yes,No,Yes,No,Plus service,No,High,3. Some college
+652,Zone 3,23,50,Unmarried,1,151,College degree,8,No,Female,1,Yes,No,No,No,8.25,21.75,0,0,0,186.5,438.4,0,0,0,No,No,No,No,Yes,No,No,No,No,Basic service,No,Very High,4. College degree
+653,Zone 2,4,38,Married,13,54,High school degree,4,No,Male,2,Yes,No,Yes,Yes,4.75,26.25,0,48.5,24.45,21.75,115,0,140,50.45,No,Yes,No,No,Yes,Yes,Yes,Yes,No,Plus service,No,High,2. High school degree
+654,Zone 3,36,42,Unmarried,5,31,Did not complete high school,4,No,Female,1,No,No,No,No,10.05,0,0,0,0,373.75,0,0,0,0,No,No,No,No,No,No,No,No,No,Basic service,Yes,Medium,1. Did not complete high school
+655,Zone 2,37,42,Unmarried,10,115,Did not complete high school,22,No,Female,1,No,No,Yes,No,15.1,0,0,18.5,0,494.45,0,0,665,0,No,No,No,No,Yes,Yes,Yes,Yes,No,Plus service,No,High,1. Did not complete high school
+656,Zone 3,24,58,Married,30,24,Did not complete high school,5,No,Male,2,Yes,No,No,No,7.65,16,0,0,0,177.4,420.65,0,0,0,No,No,No,No,No,No,No,No,No,Basic service,No,Low,1. Did not complete high school
+657,Zone 3,4,24,Unmarried,1,17,High school degree,2,No,Male,3,No,No,No,No,3.2,0,0,0,0,9.9,0,0,0,0,No,No,No,No,No,No,No,No,No,Basic service,Yes,Low,2. High school degree
+658,Zone 3,54,33,Unmarried,5,47,High school degree,13,No,Female,2,Yes,No,Yes,No,13.9,32,0,20.25,0,732.2,1671.9,0,1125,0,No,No,No,No,Yes,Yes,No,Yes,No,Plus service,No,Medium,2. High school degree
+659,Zone 3,7,49,Unmarried,8,36,Did not complete high school,0,No,Female,1,Yes,No,Yes,No,8.85,19.5,0,53.25,0,77,123.3,0,325,0,No,No,No,No,Yes,Yes,Yes,Yes,No,Plus service,Yes,Medium,1. Did not complete high school
+660,Zone 1,10,28,Unmarried,9,75,College degree,1,No,Male,1,Yes,Yes,Yes,Yes,6.2,27.5,42.4,40,36.3,45.95,225.85,373.15,340,290.65,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Total service,Yes,High,4. College degree
+661,Zone 3,24,35,Married,10,41,Post-undergraduate degree,6,No,Female,2,No,Yes,No,No,3.3,0,30.3,0,0,88.65,0,711.2,0,0,Yes,No,No,Yes,No,No,No,No,Yes,E-service,No,Medium,5. Post-undergraduate degree
+662,Zone 3,12,31,Unmarried,8,18,College degree,4,No,Male,1,No,Yes,No,No,3.7,0,24.3,0,0,48.55,0,243.4,0,0,No,No,No,Yes,No,No,No,No,Yes,Basic service,Yes,Low,4. College degree
+663,Zone 2,45,54,Unmarried,25,171,Some college,33,No,Female,1,Yes,No,Yes,No,9.05,18.5,0,8.75,0,385.2,845.65,0,365,0,No,No,No,No,Yes,Yes,Yes,Yes,No,Plus service,No,Very High,3. Some college
+664,Zone 3,59,55,Married,29,42,Some college,21,No,Female,2,No,No,Yes,No,8.95,0,0,15.25,0,492.35,0,0,855,0,Yes,No,No,No,No,No,No,No,No,E-service,No,Medium,3. Some college
+665,Zone 1,3,21,Married,1,36,Some college,0,No,Female,4,No,No,No,No,3.2,0,0,0,0,13.55,0,0,0,0,No,No,No,No,No,No,No,No,No,Basic service,No,Medium,3. Some college
+666,Zone 3,8,35,Unmarried,6,31,Post-undergraduate degree,7,No,Male,1,Yes,Yes,No,Yes,4.4,17.25,35.65,0,42.05,34.65,155.15,237.8,0,288.25,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Total service,Yes,Medium,5. Post-undergraduate degree
+667,Zone 1,16,59,Unmarried,5,207,High school degree,37,No,Female,2,Yes,No,Yes,No,7.45,15.5,0,11.75,0,112.8,280.85,0,150,0,No,No,Yes,No,No,Yes,Yes,Yes,Yes,Total service,No,Very High,2. High school degree
+668,Zone 3,32,33,Unmarried,1,38,Did not complete high school,12,No,Female,1,No,No,Yes,No,7.3,0,0,33.75,0,231.45,0,0,1050,0,No,No,No,No,No,No,No,No,No,Basic service,No,Medium,1. Did not complete high school
+669,Zone 1,8,49,Unmarried,14,134,College degree,9,No,Female,1,Yes,Yes,Yes,Yes,3,30.5,59.3,23.5,60.3,36.2,226.3,459.15,155,444.65,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Total service,Yes,High,4. College degree
+670,Zone 1,9,28,Married,8,28,Some college,4,No,Male,3,No,Yes,No,No,4.5,0,28.5,0,0,36.45,0,230.3,0,0,Yes,No,No,Yes,No,No,No,Yes,Yes,E-service,Yes,Low,3. Some college
+671,Zone 2,12,19,Married,0,15,High school degree,0,No,Female,4,No,Yes,No,No,5.85,0,22.15,0,0,102.45,0,274.7,0,0,Yes,No,No,No,No,No,No,No,No,E-service,No,Low,2. High school degree
+672,Zone 2,24,43,Married,15,48,College degree,4,No,Male,6,Yes,Yes,Yes,Yes,14.4,25.75,37.2,57.75,36.95,339.55,591.2,870.05,1415,901.6,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Total service,No,Medium,4. College degree
+673,Zone 3,72,75,Unmarried,48,14,High school degree,6,Yes,Female,1,No,No,Yes,No,37.3,0,0,109.25,0,2686.25,0,0,7515,0,Yes,No,No,No,No,No,No,No,No,E-service,No,Low,2. High school degree
+674,Zone 3,58,61,Unmarried,42,101,College degree,18,No,Female,1,No,No,Yes,No,16.35,0,0,17,0,956.85,0,0,925,0,Yes,No,No,Yes,No,No,No,No,No,E-service,No,High,4. College degree
+675,Zone 1,70,44,Married,24,87,High school degree,18,No,Male,3,Yes,No,Yes,No,18.9,47.5,0,25,0,1399.3,3310.4,0,1735,0,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,Plus service,No,High,2. High school degree
+676,Zone 3,9,25,Unmarried,3,27,Did not complete high school,4,No,Female,1,No,No,No,No,12.2,0,0,0,0,121.75,0,0,0,0,No,No,No,No,No,No,No,No,No,Basic service,Yes,Low,1. Did not complete high school
+677,Zone 1,49,25,Unmarried,1,27,Post-undergraduate degree,0,No,Female,1,No,Yes,Yes,Yes,9.9,0,43.15,5.5,26.9,496.95,0,2055,270,1252.85,Yes,Yes,Yes,Yes,No,No,No,No,Yes,E-service,No,Low,5. Post-undergraduate degree
+678,Zone 3,52,54,Unmarried,7,59,Some college,22,No,Male,1,Yes,No,Yes,Yes,15.25,32.5,0,21.75,39.3,800.25,1644.05,0,1055,1991.75,Yes,No,No,No,Yes,Yes,No,Yes,No,Plus service,No,High,3. Some college
+679,Zone 1,10,42,Married,10,294,College degree,9,No,Female,6,Yes,Yes,Yes,Yes,4.85,27.5,44.35,23.5,36.85,32.75,285.35,427.75,185,330.55,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Total service,Yes,Very High,4. College degree
+680,Zone 1,14,52,Married,2,44,Some college,5,No,Male,2,No,No,Yes,Yes,4.85,0,0,14.25,14.9,68.95,0,0,185,212.25,No,Yes,No,No,Yes,Yes,No,No,No,Plus service,No,Medium,3. Some college
+681,Zone 1,19,27,Married,3,35,High school degree,4,No,Male,6,Yes,No,Yes,No,5.4,20.5,0,23,0,116.2,398.15,0,415,0,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Total service,No,Medium,2. High school degree
+682,Zone 3,12,36,Married,4,205,College degree,10,No,Female,4,No,Yes,No,Yes,5.95,0,38.3,0,32,53.75,0,433.05,0,397.3,Yes,Yes,Yes,Yes,No,No,No,No,Yes,E-service,Yes,Very High,4. College degree
+683,Zone 1,65,59,Unmarried,27,732,Some college,31,No,Female,1,No,No,Yes,No,10.15,0,0,13.25,0,600.5,0,0,820,0,Yes,Yes,No,No,No,No,Yes,Yes,Yes,E-service,No,Very High,3. Some college
+684,Zone 1,67,40,Married,14,59,Some college,11,No,Male,2,Yes,No,Yes,No,27,30,0,19.75,0,1722.5,1959.95,0,1245,0,No,No,No,No,Yes,Yes,Yes,Yes,No,Plus service,No,High,3. Some college
+685,Zone 2,29,24,Married,3,23,Did not complete high school,7,No,Male,2,Yes,No,Yes,No,10.2,32.25,0,17.5,0,319.65,885.15,0,500,0,No,No,No,No,Yes,Yes,Yes,Yes,No,Plus service,No,Low,1. Did not complete high school
+686,Zone 3,55,46,Unmarried,8,87,High school degree,19,No,Female,1,No,Yes,Yes,No,17.9,0,28,15.25,0,982.9,0,1449.6,785,0,No,No,No,Yes,No,No,Yes,Yes,Yes,Basic service,No,High,2. High school degree
+687,Zone 3,71,67,Married,25,110,Did not complete high school,23,No,Female,2,Yes,No,Yes,No,33.85,21.75,0,18.25,0,2255.65,1487.7,0,1175,0,No,No,No,No,No,Yes,Yes,Yes,No,Plus service,No,High,1. Did not complete high school
+688,Zone 3,5,44,Married,2,83,Some college,14,No,Female,3,Yes,No,Yes,Yes,4,26.25,0,20.25,21.95,32,131.95,0,50,80.35,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Plus service,Yes,High,3. Some college
+689,Zone 3,60,58,Unmarried,0,63,College degree,21,No,Female,3,Yes,Yes,Yes,No,16.35,28,23.85,13.25,0,1012.55,1581.7,1395.1,805,0,Yes,No,No,No,No,No,No,No,Yes,E-service,No,High,4. College degree
+690,Zone 2,10,40,Unmarried,6,22,Some college,6,No,Female,1,No,No,No,No,5.05,0,0,0,0,59.95,0,0,0,0,No,No,No,Yes,No,No,No,No,No,Basic service,Yes,Low,3. Some college
+691,Zone 3,52,64,Unmarried,44,43,Some college,7,No,Male,1,Yes,Yes,Yes,Yes,12.85,28.5,48.75,24,37.15,647.95,1542.25,2570.7,1210,1846.5,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Total service,No,Medium,3. Some college
+692,Zone 2,61,43,Married,22,35,High school degree,11,No,Male,3,Yes,No,Yes,No,21.05,15.5,0,17.25,0,1264,933.8,0,1065,0,Yes,No,No,Yes,No,No,No,No,Yes,E-service,No,Medium,2. High school degree
+693,Zone 1,61,29,Married,5,48,High school degree,11,No,Male,4,No,No,Yes,No,17.55,0,0,37,0,1035.95,0,0,2165,0,Yes,No,No,No,No,No,No,Yes,No,E-service,No,Medium,2. High school degree
+694,Zone 2,67,47,Married,19,69,Some college,12,No,Male,3,Yes,No,Yes,No,49.35,27,0,10.25,0,3235.55,1838.2,0,690,0,Yes,No,No,No,Yes,Yes,Yes,Yes,No,Plus service,No,High,3. Some college
+695,Zone 3,41,42,Married,12,26,College degree,5,No,Male,4,No,No,No,No,10.95,0,0,0,0,482.4,0,0,0,0,Yes,No,No,Yes,No,No,Yes,No,No,E-service,No,Low,4. College degree
+696,Zone 1,30,28,Unmarried,1,20,Did not complete high school,8,No,Female,1,No,No,No,No,12.4,0,0,0,0,369.45,0,0,0,0,No,No,No,No,No,No,No,No,No,Basic service,Yes,Low,1. Did not complete high school
+697,Zone 1,24,46,Unmarried,12,43,High school degree,6,No,Male,1,Yes,No,Yes,Yes,12.05,48.25,0,33,28.15,307.75,1079.05,0,820,662.2,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Total service,No,Medium,2. High school degree
+698,Zone 1,72,75,Unmarried,37,33,Did not complete high school,44,Yes,Female,1,Yes,No,Yes,No,49.3,31.75,0,26,0,3417.4,2254.15,0,1835,0,Yes,No,No,No,No,No,No,Yes,No,E-service,No,Medium,1. Did not complete high school
+699,Zone 2,17,35,Unmarried,7,66,High school degree,11,No,Male,1,No,Yes,Yes,Yes,5.15,0,29.15,11.25,28.05,79.05,0,501.05,155,484.2,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Total service,Yes,High,2. High school degree
+700,Zone 2,65,72,Unmarried,46,12,High school degree,0,Yes,Male,1,No,No,Yes,No,29.6,0,0,18,0,1872.8,0,0,1160,0,Yes,No,No,No,No,Yes,Yes,Yes,No,Plus service,No,Low,2. High school degree
+701,Zone 1,15,30,Married,8,90,High school degree,11,No,Male,5,Yes,No,Yes,Yes,7.35,18.5,0,9.75,23,125.8,265.55,0,150,375.9,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Total service,No,High,2. High school degree
+702,Zone 1,34,33,Unmarried,8,35,Some college,2,No,Female,1,No,No,No,No,7.5,0,0,0,0,258.4,0,0,0,0,Yes,No,No,No,No,No,No,No,No,E-service,Yes,Medium,3. Some college
+703,Zone 1,26,43,Unmarried,23,51,Post-undergraduate degree,4,No,Female,1,No,Yes,No,No,7.9,0,21.95,0,0,267.6,0,597.65,0,0,Yes,No,No,Yes,No,No,No,No,No,E-service,Yes,High,5. Post-undergraduate degree
+704,Zone 2,36,45,Unmarried,22,117,Some college,15,No,Female,1,No,No,No,No,10.5,0,0,0,0,429.1,0,0,0,0,Yes,No,No,No,No,No,No,No,Yes,E-service,No,High,3. Some college
+705,Zone 1,60,48,Unmarried,29,100,High school degree,26,No,Female,1,Yes,No,Yes,No,24.4,42.25,0,13.5,0,1567.6,2481.25,0,745,0,No,No,No,No,Yes,Yes,Yes,Yes,No,Plus service,No,High,2. High school degree
+706,Zone 1,16,54,Unmarried,20,147,Did not complete high school,29,No,Male,4,Yes,No,Yes,No,6.95,23.25,0,6.5,0,98.5,357.95,0,90,0,No,No,No,No,Yes,Yes,Yes,Yes,No,Plus service,No,High,1. Did not complete high school
+707,Zone 2,1,33,Unmarried,5,53,College degree,6,No,Female,1,No,No,No,No,1.95,0,0,0,0,1.95,0,0,0,0,No,No,No,No,No,No,No,No,No,Basic service,Yes,High,4. College degree
+708,Zone 3,56,30,Married,9,57,Post-undergraduate degree,2,No,Male,4,No,Yes,Yes,No,16.85,0,36.7,6.5,0,948.3,0,1984.2,365,0,Yes,Yes,No,Yes,No,No,No,No,Yes,E-service,No,High,5. Post-undergraduate degree
+709,Zone 2,6,50,Unmarried,5,37,High school degree,0,No,Male,1,No,Yes,No,No,5.35,0,23.55,0,0,38.4,0,131.2,0,0,Yes,No,No,No,No,No,No,No,Yes,E-service,No,Medium,2. High school degree
+710,Zone 2,48,34,Unmarried,7,42,Some college,2,No,Female,1,No,No,Yes,No,14.15,0,0,8,0,678.3,0,0,355,0,Yes,No,No,No,No,Yes,No,No,No,E-service,No,Medium,3. Some college
+711,Zone 2,34,36,Married,17,50,Did not complete high school,4,No,Male,2,Yes,No,Yes,No,10.2,24.5,0,13.75,0,326.8,824.25,0,405,0,No,No,No,No,Yes,Yes,Yes,Yes,No,Plus service,No,Medium,1. Did not complete high school
+712,Zone 2,54,42,Married,0,55,College degree,2,No,Male,5,Yes,Yes,Yes,Yes,14.3,55.5,62.15,19.25,83.7,695.2,3086.35,3277.9,1050,4138.55,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Total service,Yes,High,4. College degree
+713,Zone 3,38,31,Married,2,42,High school degree,7,No,Female,4,Yes,No,Yes,No,10.8,22.25,0,9.25,0,407.55,772.5,0,335,0,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Total service,No,Medium,2. High school degree
+714,Zone 2,25,55,Unmarried,15,37,Did not complete high school,7,No,Female,1,No,No,No,No,10.95,0,0,0,0,302.8,0,0,0,0,No,No,No,No,No,No,No,No,No,Basic service,Yes,Medium,1. Did not complete high school
+715,Zone 1,47,69,Married,17,228,Some college,39,No,Female,4,Yes,Yes,Yes,Yes,10.8,35.5,37.5,21,50.9,464.35,1670.95,1766.9,1025,2404.8,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Total service,Yes,Very High,3. Some college
+716,Zone 1,72,62,Married,35,163,Post-undergraduate degree,31,No,Male,2,Yes,Yes,Yes,Yes,28.35,32.75,45.15,39.75,56.55,2017.6,2276.3,3225.5,2845,4109.9,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Total service,No,Very High,5. Post-undergraduate degree
+717,Zone 2,6,35,Married,6,28,College degree,3,No,Female,3,Yes,Yes,Yes,Yes,3.25,23,39.35,18.5,30.3,9.35,103.3,190.3,95,154.55,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Total service,No,Low,4. College degree
+718,Zone 1,30,51,Married,9,118,Post-undergraduate degree,21,No,Female,2,No,No,No,No,6.4,0,0,0,0,201.4,0,0,0,0,No,No,No,No,No,No,No,No,No,Basic service,No,High,5. Post-undergraduate degree
+719,Zone 1,65,70,Married,9,115,High school degree,39,Yes,Female,2,Yes,No,Yes,Yes,26.85,26,0,43,33.75,1749.6,1629.65,0,2865,2213.65,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Total service,No,High,2. High school degree
+720,Zone 1,22,44,Married,19,37,College degree,1,No,Male,2,Yes,No,Yes,No,14.3,35.25,0,18.5,0,332.9,702.05,0,370,0,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,Plus service,No,Medium,4. College degree
+721,Zone 1,60,53,Unmarried,32,93,Did not complete high school,28,No,Male,1,Yes,No,Yes,No,13.35,39.5,0,21,0,806.35,2493.9,0,1260,0,No,No,No,No,Yes,Yes,Yes,Yes,No,Plus service,No,High,1. Did not complete high school
+722,Zone 2,19,32,Unmarried,12,71,College degree,5,No,Female,1,Yes,Yes,Yes,Yes,5.25,21.5,62.4,17,47.8,97.4,419.25,1142.6,275,928.45,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Total service,Yes,High,4. College degree
+723,Zone 3,18,25,Unmarried,4,26,High school degree,7,No,Female,3,Yes,No,Yes,No,3.3,27.5,0,31,0,50.35,531.1,0,540,0,No,No,No,No,No,No,No,Yes,No,Basic service,No,Low,2. High school degree
+724,Zone 1,9,37,Married,10,14,College degree,5,No,Female,6,No,Yes,No,No,2.4,0,25.25,0,0,22.6,0,183.25,0,0,No,No,No,No,Yes,No,No,No,No,Basic service,Yes,Low,4. College degree
+725,Zone 1,1,34,Married,6,18,Did not complete high school,0,No,Female,2,No,No,No,No,1.6,0,0,0,0,1.6,0,0,0,0,No,No,No,Yes,No,No,No,No,No,Basic service,Yes,Low,1. Did not complete high school
+726,Zone 3,10,28,Married,2,36,College degree,0,No,Female,3,Yes,Yes,No,Yes,6.3,19.75,27.35,0,22.65,67.5,175.15,239.4,0,205.15,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Total service,No,Medium,4. College degree
+727,Zone 3,45,34,Married,14,43,College degree,0,No,Male,4,No,Yes,No,No,6.55,0,32.35,0,0,315.2,0,1446.5,0,0,Yes,No,No,Yes,No,No,No,No,Yes,E-service,Yes,Medium,4. College degree
+728,Zone 1,25,28,Married,6,41,College degree,4,No,Female,4,Yes,Yes,Yes,Yes,5.8,14.25,33.85,31.5,26.6,138.85,363.75,849.85,775,616.55,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Plus service,Yes,Medium,4. College degree
+729,Zone 3,66,39,Unmarried,1,66,High school degree,15,No,Female,1,No,No,Yes,No,11.6,0,0,11.5,0,785.7,0,0,785,0,Yes,No,No,No,No,No,No,No,No,E-service,No,High,2. High school degree
+730,Zone 1,27,67,Unmarried,1,33,College degree,19,Yes,Female,1,Yes,Yes,Yes,No,3.6,17.75,32.35,12,0,136.9,481.7,807.75,320,0,Yes,Yes,No,No,No,Yes,Yes,Yes,No,Plus service,Yes,Medium,4. College degree
+731,Zone 1,19,41,Unmarried,5,53,College degree,6,No,Male,1,No,No,No,No,6.45,0,0,0,0,157.3,0,0,0,0,No,No,No,No,Yes,No,No,No,No,Basic service,No,High,4. College degree
+732,Zone 2,17,41,Married,9,28,College degree,3,No,Male,6,No,No,Yes,No,1.8,0,0,10,0,27.1,0,0,140,0,No,No,No,No,Yes,Yes,No,No,No,Basic service,No,Low,4. College degree
+733,Zone 2,16,36,Unmarried,13,58,College degree,4,No,Male,1,Yes,Yes,No,No,4.85,18,31.75,0,0,89.95,286.4,477.8,0,0,No,No,No,No,No,Yes,Yes,No,Yes,Basic service,No,High,4. College degree
+734,Zone 1,8,42,Married,2,129,College degree,17,No,Female,3,No,No,No,No,6.1,0,0,0,0,63.8,0,0,0,0,No,No,No,Yes,No,No,No,Yes,Yes,Basic service,No,High,4. College degree
+735,Zone 1,3,25,Unmarried,0,65,College degree,0,No,Female,1,No,Yes,Yes,No,3.3,0,34.25,11.25,0,5.9,0,47.65,5,0,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Total service,Yes,High,4. College degree
+736,Zone 3,59,57,Unmarried,26,311,Some college,36,No,Female,1,No,No,Yes,No,28.75,0,0,7.5,0,1719.2,0,0,415,0,No,No,No,No,No,No,No,No,No,Basic service,No,Very High,3. Some college
+737,Zone 2,45,37,Unmarried,2,57,Some college,14,No,Female,1,No,Yes,No,No,10.8,0,25,0,0,508.8,0,1064.8,0,0,Yes,No,No,No,No,No,No,No,Yes,E-service,No,High,3. Some college
+738,Zone 1,66,62,Unmarried,31,47,High school degree,4,No,Female,1,Yes,No,Yes,No,34.25,21,0,20,0,2298.25,1425.35,0,1355,0,Yes,No,No,No,No,No,No,No,No,E-service,No,Medium,2. High school degree
+739,Zone 3,28,50,Married,7,25,Did not complete high school,3,No,Male,2,No,No,Yes,No,14.85,0,0,13,0,378.85,0,0,345,0,No,No,No,No,No,No,Yes,No,No,Basic service,No,Low,1. Did not complete high school
+740,Zone 1,15,38,Married,11,46,Post-undergraduate degree,11,No,Male,3,No,No,No,No,3.85,0,0,0,0,56.3,0,0,0,0,No,No,No,No,Yes,No,No,No,No,Basic service,Yes,Medium,5. Post-undergraduate degree
+741,Zone 3,39,34,Married,10,51,Some college,13,No,Female,4,Yes,No,Yes,Yes,7.9,78.75,0,35,38.8,304.45,3104.5,0,1390,1407.85,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Total service,No,High,3. Some college
+742,Zone 3,38,33,Unmarried,4,19,High school degree,5,No,Female,2,Yes,No,No,No,8.5,14.25,0,0,0,323.85,590.45,0,0,0,No,No,No,No,Yes,Yes,No,No,No,Plus service,No,Low,2. High school degree
+743,Zone 3,34,29,Unmarried,5,26,Some college,4,No,Female,2,No,Yes,No,No,6.75,0,25.8,0,0,195.2,0,780.85,0,0,Yes,No,No,Yes,No,No,No,No,Yes,E-service,No,Low,3. Some college
+744,Zone 3,60,57,Married,18,72,Post-undergraduate degree,30,Yes,Male,2,Yes,Yes,Yes,Yes,20.35,29,50.25,20.5,55.9,1263.9,1806.85,3005.2,1140,3353.5,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Total service,No,High,5. Post-undergraduate degree
+745,Zone 3,72,65,Married,33,71,Did not complete high school,41,Yes,Female,4,Yes,No,Yes,No,53.65,22.5,0,66.25,0,4036.9,1717.45,0,4585,0,Yes,No,No,No,Yes,Yes,Yes,No,No,Plus service,No,High,1. Did not complete high school
+746,Zone 1,42,42,Married,9,41,High school degree,13,No,Male,8,Yes,No,No,No,15,29.25,0,0,0,597.2,1250.1,0,0,0,No,Yes,No,No,No,Yes,Yes,No,No,Plus service,No,Medium,2. High school degree
+747,Zone 3,32,37,Unmarried,9,44,High school degree,7,No,Male,1,No,No,No,No,11.25,0,0,0,0,359.35,0,0,0,0,No,No,No,No,No,No,No,Yes,Yes,Basic service,No,Medium,2. High school degree
+748,Zone 3,48,50,Married,4,208,College degree,19,No,Female,2,Yes,Yes,Yes,Yes,12.9,22.75,43.2,12,41.25,652.9,1108.9,1913.6,570,1905.85,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Total service,Yes,Very High,4. College degree
+749,Zone 3,63,37,Married,1,45,College degree,9,No,Female,6,No,Yes,Yes,No,14.95,0,39.25,13.5,0,974.15,0,2383.1,820,0,Yes,Yes,No,Yes,No,No,No,No,Yes,E-service,No,Medium,4. College degree
+750,Zone 3,45,27,Married,3,39,Some college,2,No,Male,4,No,No,No,No,13.45,0,0,0,0,583.9,0,0,0,0,Yes,No,No,No,No,No,Yes,No,No,E-service,No,Medium,3. Some college
+751,Zone 2,68,42,Unmarried,16,89,College degree,12,No,Male,1,No,Yes,Yes,No,25.6,0,33,16,0,1759.6,0,2200.2,1020,0,Yes,No,No,Yes,No,No,No,No,Yes,E-service,No,High,4. College degree
+752,Zone 1,6,29,Married,4,19,High school degree,5,No,Female,2,No,No,No,No,4.2,0,0,0,0,25.25,0,0,0,0,No,No,No,No,No,No,No,No,No,Basic service,No,Low,2. High school degree
+753,Zone 1,68,57,Married,33,15,High school degree,0,No,Female,2,Yes,No,Yes,Yes,16.1,49,0,18.75,50.6,1120.35,3330.85,0,1320,3229.2,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Total service,Yes,Low,2. High school degree
+754,Zone 3,72,68,Married,26,59,High school degree,36,Yes,Female,2,Yes,Yes,Yes,Yes,58.65,24,38.2,20.25,48.85,4219.1,1818,2706.6,1335,3401.6,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Total service,No,High,2. High school degree
+755,Zone 3,53,38,Married,15,20,Some college,6,No,Female,4,No,No,Yes,Yes,12.05,0,0,10.75,20.25,547.05,0,0,545,1048.4,Yes,No,No,Yes,No,Yes,Yes,No,Yes,E-service,No,Low,3. Some college
+756,Zone 3,20,51,Married,11,27,College degree,6,No,Male,3,Yes,No,Yes,No,9.05,24.75,0,11.5,0,182.95,490.25,0,215,0,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Plus service,No,Low,4. College degree
+757,Zone 2,70,35,Married,4,48,High school degree,9,No,Male,3,No,No,Yes,No,43.6,0,0,30,0,3040.8,0,0,2020,0,Yes,No,No,No,No,No,No,Yes,No,E-service,No,Medium,2. High school degree
+758,Zone 3,32,47,Unmarried,25,135,High school degree,6,No,Female,1,No,No,No,No,10.5,0,0,0,0,353,0,0,0,0,No,No,No,Yes,No,No,No,No,No,Basic service,No,High,2. High school degree
+759,Zone 2,61,52,Married,23,19,Did not complete high school,0,No,Male,2,Yes,Yes,Yes,No,18.2,24.75,29.95,9.25,0,1037.65,1568.4,1758.4,570,0,Yes,No,No,No,Yes,Yes,Yes,Yes,No,Plus service,Yes,Low,1. Did not complete high school
+760,Zone 1,24,25,Married,3,28,College degree,0,No,Male,3,No,Yes,Yes,Yes,10.6,0,40.4,25.25,23.4,267.3,0,920.15,530,533.85,Yes,No,Yes,Yes,No,No,No,No,Yes,E-service,No,Low,4. College degree
+761,Zone 2,56,61,Married,14,12,Did not complete high school,16,Yes,Female,2,No,No,Yes,No,16.85,0,0,11.25,0,881.65,0,0,595,0,No,No,No,No,No,No,No,No,No,Basic service,No,Low,1. Did not complete high school
+762,Zone 3,54,59,Unmarried,28,28,High school degree,15,No,Male,1,No,Yes,Yes,Yes,10.7,0,31.65,5.25,19.05,638.55,0,1717.7,290,894.1,Yes,No,No,Yes,Yes,No,No,Yes,No,E-service,No,Low,2. High school degree
+763,Zone 3,43,38,Married,7,18,Some college,8,No,Female,3,No,Yes,No,Yes,9.4,0,39.55,0,29.4,411.15,0,1758.7,0,1159.3,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Total service,No,Low,3. Some college
+764,Zone 1,19,35,Unmarried,7,58,Some college,5,No,Female,1,Yes,Yes,Yes,Yes,3.65,37,40.3,21.25,43.05,65.15,690.85,742.95,385,741.65,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Total service,Yes,High,3. Some college
+765,Zone 3,5,43,Unmarried,16,72,Some college,17,No,Female,1,Yes,No,Yes,No,5.55,15.75,0,6.5,0,23.9,62.25,0,25,0,No,No,No,No,Yes,Yes,Yes,Yes,No,Plus service,No,High,3. Some college
+766,Zone 1,24,61,Married,6,112,College degree,3,No,Female,4,No,No,Yes,No,8.2,0,0,11,0,210.25,0,0,265,0,No,No,No,Yes,No,No,No,No,Yes,Basic service,Yes,High,4. College degree
+767,Zone 3,62,35,Married,2,28,High school degree,8,No,Female,2,No,No,Yes,No,18.45,0,0,19,0,1152.7,0,0,1150,0,Yes,No,No,No,No,No,No,No,No,E-service,No,Low,2. High school degree
+768,Zone 2,14,40,Unmarried,13,398,Post-undergraduate degree,11,No,Female,1,Yes,Yes,Yes,Yes,6.4,18,43.1,23.75,47.7,71,259,597.8,295,644.35,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Total service,Yes,Very High,5. Post-undergraduate degree
+769,Zone 3,60,48,Married,22,106,Some college,21,No,Female,3,Yes,No,Yes,Yes,13.05,44.25,0,17,69.55,760.95,2601.85,0,1050,4154.55,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Total service,No,High,3. Some college
+770,Zone 2,30,74,Married,12,10,Did not complete high school,3,Yes,Female,2,Yes,No,Yes,No,7.25,30.25,0,17.25,0,225.3,906,0,585,0,No,No,No,No,Yes,Yes,Yes,Yes,No,Plus service,No,Low,1. Did not complete high school
+771,Zone 1,40,42,Married,16,108,Some college,17,No,Male,4,No,Yes,No,No,4.95,0,29.7,0,0,205.65,0,1151.4,0,0,Yes,No,No,Yes,No,No,No,No,Yes,E-service,Yes,High,3. Some college
+772,Zone 2,42,50,Married,17,85,High school degree,15,No,Female,4,No,No,Yes,No,14.3,0,0,11.5,0,567.95,0,0,485,0,No,No,No,No,No,No,No,No,No,Basic service,No,High,2. High school degree
+773,Zone 1,20,34,Unmarried,14,51,Some college,9,No,Female,1,No,No,No,No,5.65,0,0,0,0,126.4,0,0,0,0,Yes,No,No,Yes,No,No,No,No,No,E-service,Yes,High,3. Some college
+774,Zone 1,4,22,Married,1,22,High school degree,2,No,Female,3,No,No,Yes,No,2.25,0,0,23.5,0,8,0,0,85,0,No,No,No,No,Yes,No,Yes,Yes,No,Plus service,No,Low,2. High school degree
+775,Zone 2,44,49,Married,2,66,High school degree,8,No,Female,4,Yes,No,Yes,Yes,4.25,43.25,0,38.75,39.55,184.9,1980.05,0,1655,1655.9,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Total service,No,High,2. High school degree
+776,Zone 3,49,63,Unmarried,18,10,High school degree,2,Yes,Male,1,Yes,No,Yes,No,13.9,33.25,0,12.75,0,668.95,1624.6,0,615,0,No,No,No,No,Yes,Yes,Yes,Yes,No,Plus service,No,Low,2. High school degree
+777,Zone 3,5,36,Married,2,34,Did not complete high school,4,No,Female,2,Yes,No,No,No,3.5,19.5,0,0,0,14.2,105.9,0,0,0,No,No,No,No,Yes,No,Yes,Yes,No,Plus service,Yes,Medium,1. Did not complete high school
+778,Zone 3,70,50,Married,29,67,Did not complete high school,22,No,Male,4,No,No,Yes,No,51.9,0,0,15.75,0,3438.4,0,0,1075,0,Yes,No,No,No,No,No,No,No,No,E-service,No,High,1. Did not complete high school
+779,Zone 1,30,57,Married,16,19,Did not complete high school,1,No,Male,4,No,No,Yes,No,7.25,0,0,8.5,0,200.1,0,0,285,0,No,No,No,No,No,No,No,No,No,Basic service,Yes,Low,1. Did not complete high school
+780,Zone 2,28,48,Unmarried,20,128,College degree,4,No,Female,1,Yes,Yes,Yes,Yes,10,20.75,53.6,26.5,55.3,313.05,590.9,1481.4,710,1424.2,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Total service,Yes,High,4. College degree
+781,Zone 1,5,28,Married,3,39,Post-undergraduate degree,1,No,Male,6,Yes,Yes,Yes,Yes,4.7,24.25,44.65,16.5,32.5,30.75,131.9,184.25,60,106.2,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Total service,No,Medium,5. Post-undergraduate degree
+782,Zone 2,27,35,Unmarried,12,56,Did not complete high school,3,No,Female,1,Yes,Yes,Yes,Yes,8.25,32.5,35.65,11,33.85,202.55,897.95,903.25,205,805.95,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Total service,No,High,1. Did not complete high school
+783,Zone 2,17,39,Unmarried,12,45,College degree,10,No,Female,1,No,Yes,No,No,8.65,0,28.95,0,0,133.1,0,450.2,0,0,No,No,No,No,No,No,No,No,Yes,Basic service,Yes,Medium,4. College degree
+784,Zone 1,4,37,Married,8,25,Did not complete high school,1,No,Female,5,No,No,No,No,2.5,0,0,0,0,9.15,0,0,0,0,No,No,No,No,No,No,No,No,No,Basic service,No,Low,1. Did not complete high school
+785,Zone 1,30,23,Married,0,24,High school degree,1,No,Female,4,Yes,No,No,No,13.35,22.5,0,0,0,397.4,636.35,0,0,0,No,No,No,Yes,Yes,Yes,No,Yes,No,Plus service,No,Low,2. High school degree
+786,Zone 3,71,40,Married,19,53,College degree,14,No,Female,2,Yes,No,Yes,Yes,10.15,40,0,27.75,38.35,781.7,2912.3,0,2030,2590.65,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Total service,No,High,4. College degree
+787,Zone 3,67,77,Unmarried,55,49,Did not complete high school,45,Yes,Female,1,No,No,Yes,No,25.35,0,0,26.75,0,1692,0,0,1755,0,No,No,No,No,No,Yes,No,No,No,Basic service,No,Medium,1. Did not complete high school
+788,Zone 3,24,48,Married,3,38,Did not complete high school,16,No,Female,2,No,No,Yes,No,5.55,0,0,11.25,0,133.4,0,0,265,0,No,No,No,No,No,No,No,No,No,Basic service,No,Medium,1. Did not complete high school
+789,Zone 1,24,54,Married,7,84,Some college,10,No,Female,2,No,Yes,Yes,No,11.45,0,28.7,10.5,0,288.05,0,675.4,220,0,No,No,No,Yes,No,No,No,No,Yes,Basic service,Yes,High,3. Some college
+790,Zone 2,59,54,Unmarried,32,126,Did not complete high school,22,No,Female,1,Yes,No,Yes,No,13.6,28.75,0,11.75,0,796.4,1625.1,0,660,0,No,No,No,No,Yes,Yes,Yes,Yes,No,Plus service,No,High,1. Did not complete high school
+791,Zone 3,59,32,Unmarried,9,73,College degree,5,No,Male,1,Yes,No,Yes,No,29.2,21.5,0,12.75,0,1726.6,1231.9,0,655,0,Yes,No,No,No,Yes,Yes,No,No,Yes,E-service,Yes,High,4. College degree
+792,Zone 3,44,37,Married,1,41,College degree,8,No,Female,6,No,No,No,No,9.15,0,0,0,0,387.95,0,0,0,0,Yes,Yes,No,Yes,No,No,No,No,Yes,E-service,No,Medium,4. College degree
+793,Zone 1,19,31,Married,0,22,College degree,2,No,Male,3,No,No,No,No,4.85,0,0,0,0,88.9,0,0,0,0,Yes,No,No,No,No,No,No,No,No,E-service,Yes,Low,4. College degree
+794,Zone 2,58,46,Married,23,23,Did not complete high school,2,No,Female,2,No,Yes,Yes,No,11.1,0,25.6,10.5,0,620.75,0,1471.4,625,0,No,No,No,Yes,No,No,No,No,No,Basic service,No,Low,1. Did not complete high school
+795,Zone 1,41,53,Married,22,94,High school degree,25,No,Male,2,No,No,Yes,No,12.65,0,0,11.75,0,488.15,0,0,500,0,Yes,No,No,No,No,No,No,Yes,No,E-service,No,High,2. High school degree
+796,Zone 2,16,33,Unmarried,1,30,Some college,7,No,Male,4,Yes,Yes,Yes,Yes,9.25,21,41.4,17.75,41,138.5,282.3,634.1,265,595.3,No,Yes,No,No,Yes,Yes,Yes,Yes,No,Plus service,Yes,Medium,3. Some college
+797,Zone 3,13,36,Unmarried,11,31,High school degree,0,No,Male,1,No,No,No,No,2.3,0,0,0,0,30.5,0,0,0,0,No,No,No,No,No,No,No,Yes,No,Basic service,Yes,Medium,2. High school degree
+798,Zone 1,60,53,Unmarried,22,171,Did not complete high school,37,No,Female,1,Yes,No,Yes,No,9.9,31.75,0,18,0,608.65,1972.1,0,1070,0,No,No,No,No,Yes,Yes,Yes,Yes,No,Plus service,No,Very High,1. Did not complete high school
+799,Zone 2,72,49,Married,23,102,Did not complete high school,27,No,Female,6,No,No,Yes,No,41.15,0,0,33.25,0,3098.55,0,0,2345,0,Yes,No,No,No,No,No,No,No,No,E-service,No,High,1. Did not complete high school
+800,Zone 2,33,39,Unmarried,17,27,College degree,3,No,Female,1,Yes,Yes,Yes,Yes,9.7,21.75,41.75,8.5,61.6,294.8,680.3,1342.1,255,2019.75,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,Total service,No,Low,4. College degree
+801,Zone 2,72,45,Married,25,98,College degree,20,No,Female,2,No,No,Yes,Yes,30.25,0,0,13.25,42.85,2182.65,0,0,900,2940.35,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Total service,No,High,4. College degree
+802,Zone 1,66,54,Married,8,591,College degree,25,No,Female,2,Yes,Yes,Yes,Yes,25,34.25,45,16,53,1636.25,2242.55,2816.3,1005,3538.5,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Total service,No,Very High,4. College degree
+803,Zone 3,53,37,Married,7,25,Did not complete high school,2,No,Female,6,Yes,No,Yes,No,5.4,52,0,34,0,291.5,2794.95,0,1660,0,No,No,No,No,Yes,Yes,Yes,Yes,No,Plus service,No,Low,1. Did not complete high school
+804,Zone 2,22,28,Married,0,36,College degree,0,No,Male,4,Yes,Yes,Yes,Yes,9.7,21.5,39.9,9.5,42.9,220.75,480.1,857.2,175,883.2,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Total service,No,Medium,4. College degree
+805,Zone 2,14,26,Married,1,25,High school degree,0,No,Female,3,No,No,No,No,4.4,0,0,0,0,71.2,0,0,0,0,No,No,No,No,Yes,No,Yes,No,No,Plus service,No,Low,2. High school degree
+806,Zone 1,52,49,Unmarried,18,69,High school degree,13,No,Female,2,No,No,Yes,Yes,18.35,0,0,19,34.5,893.25,0,0,935,1711.7,No,No,No,No,Yes,Yes,Yes,Yes,No,Plus service,No,High,2. High school degree
+807,Zone 3,33,30,Married,5,22,Did not complete high school,0,No,Male,2,Yes,No,Yes,Yes,5.55,33.75,0,37.25,30,211.05,1129.25,0,1215,946.8,No,No,Yes,No,Yes,Yes,Yes,Yes,No,Plus service,No,Low,1. Did not complete high school
+808,Zone 3,72,66,Unmarried,26,67,High school degree,37,Yes,Female,1,Yes,No,Yes,No,39.1,65,0,39.75,0,2743.65,4748.45,0,2830,0,Yes,No,No,No,Yes,Yes,Yes,Yes,No,Plus service,No,High,2. High school degree
+809,Zone 1,40,40,Married,3,73,College degree,12,No,Female,4,No,No,Yes,Yes,10,0,0,14,27.15,376.6,0,0,555,1035.5,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,Plus service,Yes,High,4. College degree
+810,Zone 2,29,26,Unmarried,1,22,College degree,2,No,Female,1,No,Yes,Yes,Yes,6.1,0,47,24.25,35.55,175.3,0,1265.7,710,965.9,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Total service,Yes,Low,4. College degree
+811,Zone 3,63,67,Unmarried,22,9,High school degree,12,Yes,Male,1,No,No,Yes,No,18.05,0,0,19,0,1140.2,0,0,1135,0,No,No,No,No,Yes,Yes,Yes,Yes,No,Plus service,No,Low,2. High school degree
+812,Zone 2,56,54,Unmarried,25,147,Some college,31,No,Female,1,Yes,Yes,Yes,Yes,12.7,24.5,39.05,24.25,34.2,763.1,1348.15,2108.1,1310,1848.85,Yes,No,Yes,Yes,Yes,No,No,No,Yes,E-service,No,High,3. Some college
+813,Zone 3,60,50,Married,26,239,High school degree,19,No,Female,2,Yes,No,Yes,Yes,21.5,77.75,0,10.25,64.2,1377,4628.5,0,570,3756.15,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Total service,No,Very High,2. High school degree
+814,Zone 3,28,22,Married,3,23,Some college,1,No,Male,5,No,No,No,No,10.95,0,0,0,0,263.95,0,0,0,0,No,No,No,No,Yes,No,No,No,Yes,Basic service,No,Low,3. Some college
+815,Zone 2,39,39,Unmarried,19,29,College degree,6,No,Male,1,No,No,Yes,No,5.95,0,0,21.25,0,227.85,0,0,835,0,Yes,No,No,Yes,No,No,No,Yes,No,E-service,No,Low,4. College degree
+816,Zone 3,65,39,Married,18,32,High school degree,15,No,Male,4,No,No,Yes,No,21.1,0,0,9.75,0,1432.8,0,0,585,0,No,No,No,No,Yes,No,Yes,No,No,Plus service,No,Medium,2. High school degree
+817,Zone 3,29,31,Unmarried,7,30,Some college,7,No,Female,1,Yes,No,Yes,No,7.6,33.75,0,14.5,0,240.85,937.85,0,395,0,No,No,Yes,No,Yes,Yes,Yes,Yes,No,Plus service,No,Medium,3. Some college
+818,Zone 3,28,36,Unmarried,8,57,High school degree,13,No,Female,2,Yes,No,Yes,No,9.6,21.75,0,17.25,0,272.85,607.95,0,435,0,No,No,No,No,Yes,Yes,Yes,Yes,No,Plus service,No,High,2. High school degree
+819,Zone 1,2,18,Unmarried,0,20,High school degree,0,No,Male,1,Yes,No,Yes,Yes,3.75,22.25,0,23.5,27.1,4.45,44.65,0,15,25.65,No,No,Yes,No,Yes,Yes,Yes,Yes,No,Plus service,Yes,Low,2. High school degree
+820,Zone 3,67,52,Unmarried,13,248,High school degree,20,No,Female,3,Yes,Yes,Yes,No,35.85,39.75,34.3,22.25,0,2368.9,2522.75,2170.9,1435,0,Yes,No,No,No,Yes,No,Yes,Yes,No,Plus service,No,Very High,2. High school degree
+821,Zone 3,5,35,Married,9,59,Some college,8,No,Female,5,Yes,Yes,Yes,Yes,3.1,18.5,37.9,22.75,26.4,21.45,114.8,140.35,120,109.6,No,No,Yes,Yes,Yes,Yes,No,No,Yes,Total service,No,High,3. Some college
+822,Zone 3,48,35,Unmarried,10,24,High school degree,6,No,Male,1,Yes,No,Yes,No,16.95,43,0,28.5,0,874.45,2007.4,0,1270,0,No,No,No,No,Yes,No,Yes,Yes,No,Plus service,No,Low,2. High school degree
+823,Zone 2,10,26,Married,4,25,Did not complete high school,4,No,Female,3,No,No,No,No,3.7,0,0,0,0,38.2,0,0,0,0,No,No,No,No,No,No,No,No,No,Basic service,No,Low,1. Did not complete high school
+824,Zone 2,17,28,Unmarried,3,37,Some college,2,No,Female,1,No,No,No,No,5.5,0,0,0,0,84.25,0,0,0,0,Yes,No,No,No,No,No,Yes,Yes,No,Plus service,Yes,Medium,3. Some college
+825,Zone 1,21,24,Married,0,30,College degree,0,No,Female,5,Yes,Yes,Yes,Yes,17.8,23.75,36.3,10.5,31.75,374.05,513.65,738.9,205,642.2,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,Total service,No,Medium,4. College degree
+826,Zone 2,25,51,Unmarried,9,66,College degree,13,No,Male,2,Yes,Yes,Yes,Yes,6.45,16.25,48.15,31,34.55,140.85,415.55,1202.7,790,828.25,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Total service,No,High,4. College degree
+827,Zone 3,44,31,Unmarried,8,16,Did not complete high school,3,No,Male,1,No,No,Yes,No,14.4,0,0,12,0,632.95,0,0,490,0,No,No,No,No,No,No,No,No,No,Basic service,Yes,Low,1. Did not complete high school
+828,Zone 2,59,49,Unmarried,28,429,College degree,23,No,Female,2,Yes,Yes,Yes,Yes,10.2,24.25,42.85,16,43.35,592.2,1524.8,2444.7,885,2450.9,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,Total service,Yes,Very High,4. College degree
+829,Zone 2,11,26,Unmarried,7,20,High school degree,4,No,Male,1,No,No,No,No,6.95,0,0,0,0,84.05,0,0,0,0,No,No,No,No,No,No,No,No,No,Basic service,No,Low,2. High school degree
+830,Zone 2,50,68,Married,32,262,Some college,28,No,Male,2,Yes,Yes,Yes,Yes,12.4,20.5,40.8,18.25,25.15,601.1,993.65,2025.3,870,1217.35,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Plus service,No,Very High,3. Some college
+831,Zone 3,23,25,Married,2,28,Some college,1,No,Female,5,No,No,No,No,4.15,0,0,0,0,94.25,0,0,0,0,Yes,No,No,No,No,No,No,No,No,E-service,No,Low,3. Some college
+832,Zone 1,17,19,Unmarried,0,18,High school degree,0,No,Female,2,No,Yes,No,No,7.1,0,24.95,0,0,120.35,0,401.8,0,0,Yes,No,No,Yes,No,No,No,No,Yes,E-service,Yes,Low,2. High school degree
+833,Zone 1,15,62,Married,3,144,Some college,21,No,Male,2,Yes,No,Yes,Yes,5.25,15.5,0,31.75,33.95,81.05,237.9,0,490,446.1,No,Yes,No,No,Yes,Yes,Yes,Yes,No,Plus service,No,High,3. Some college
+834,Zone 2,68,57,Married,38,33,Did not complete high school,9,No,Female,2,No,No,Yes,No,13.5,0,0,19,0,901,0,0,1240,0,Yes,No,No,No,No,No,No,No,No,E-service,No,Medium,1. Did not complete high school
+835,Zone 1,69,42,Married,23,19,Some college,0,No,Female,2,No,Yes,Yes,No,25.95,0,36.9,18.75,0,1812.15,0,2630.5,1270,0,No,No,No,Yes,No,No,No,No,Yes,Basic service,No,Low,3. Some college
+836,Zone 1,30,24,Married,3,30,Did not complete high school,7,No,Female,5,No,No,No,No,6.75,0,0,0,0,171.75,0,0,0,0,No,No,No,No,No,No,No,No,No,Basic service,Yes,Medium,1. Did not complete high school
+837,Zone 3,22,30,Unmarried,8,41,High school degree,8,No,Male,1,Yes,No,Yes,Yes,6.1,22.75,0,13.25,21.35,119.95,441.25,0,290,467.05,No,Yes,No,No,Yes,Yes,No,Yes,No,Plus service,No,Medium,2. High school degree
+838,Zone 2,10,20,Married,1,20,High school degree,0,No,Female,4,No,No,No,No,5.9,0,0,0,0,48.95,0,0,0,0,No,No,No,No,No,No,No,No,No,Basic service,Yes,Low,2. High school degree
+839,Zone 1,72,59,Married,12,65,Some college,21,No,Female,6,No,Yes,Yes,No,34.65,0,36.45,40.75,0,2519.3,0,2583.9,2910,0,Yes,No,No,No,Yes,No,No,No,No,E-service,No,High,3. Some college
+840,Zone 2,34,24,Married,5,17,College degree,0,No,Female,2,No,No,Yes,No,15.25,0,0,4.75,0,522.45,0,0,150,0,No,No,No,No,Yes,No,No,Yes,No,Plus service,No,Low,4. College degree
+841,Zone 2,43,49,Married,18,66,Did not complete high school,22,No,Male,4,No,No,Yes,No,8.6,0,0,20.75,0,376.7,0,0,875,0,Yes,No,No,No,No,Yes,No,Yes,No,Plus service,No,High,1. Did not complete high school
+842,Zone 3,31,37,Married,15,18,College degree,5,No,Male,3,Yes,Yes,Yes,Yes,5.2,19.5,47.25,15.75,39.8,151.7,611.1,1458,460,1170.3,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Total service,No,Low,4. College degree
+843,Zone 2,6,27,Married,5,26,College degree,2,No,Male,5,Yes,No,No,No,5.6,12,0,0,0,30.35,72.5,0,0,0,No,No,No,No,No,No,No,No,No,Basic service,Yes,Low,4. College degree
+844,Zone 2,48,42,Unmarried,21,46,College degree,4,No,Male,1,No,No,Yes,No,14.45,0,0,41.5,0,618.1,0,0,1935,0,No,No,No,No,No,Yes,Yes,No,No,Plus service,No,Medium,4. College degree
+845,Zone 2,50,25,Unmarried,6,19,Did not complete high school,5,No,Male,3,No,No,Yes,No,7.25,0,0,7.5,0,356.15,0,0,375,0,No,No,No,No,No,No,No,No,No,Basic service,No,Low,1. Did not complete high school
+846,Zone 3,20,41,Married,19,58,High school degree,6,No,Female,2,No,No,No,No,5.25,0,0,0,0,98.2,0,0,0,0,Yes,No,No,No,No,No,No,No,No,E-service,No,High,2. High school degree
+847,Zone 3,61,73,Unmarried,10,25,Did not complete high school,21,Yes,Male,1,No,No,Yes,No,16.65,0,0,71,0,965.6,0,0,4350,0,No,No,No,No,No,No,No,No,No,Basic service,No,Low,1. Did not complete high school
+848,Zone 2,6,21,Unmarried,0,15,High school degree,1,No,Female,1,No,No,No,No,3.65,0,0,0,0,19.4,0,0,0,0,No,No,No,No,No,No,No,No,No,Basic service,No,Low,2. High school degree
+849,Zone 2,1,22,Unmarried,2,35,High school degree,2,No,Male,1,No,No,No,No,1.65,0,0,0,0,1.65,0,0,0,0,No,No,No,Yes,No,No,No,No,Yes,Basic service,Yes,Medium,2. High school degree
+850,Zone 1,21,43,Unmarried,13,41,High school degree,1,No,Female,1,Yes,Yes,Yes,Yes,6.15,23.75,45.4,12.25,37.25,118.15,497.15,878.6,195,763.5,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Total service,Yes,Medium,2. High school degree
+851,Zone 3,7,32,Unmarried,1,71,College degree,3,No,Male,2,Yes,Yes,No,Yes,3.6,15.25,41,0,28.05,19.1,122.1,245.65,0,157.15,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Total service,No,High,4. College degree
+852,Zone 3,65,56,Married,19,608,Some college,34,No,Female,2,Yes,No,Yes,Yes,14.55,69.5,0,20.25,68.3,964.85,4584.8,0,1300,4325.6,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Total service,No,Very High,3. Some college
+853,Zone 1,64,37,Unmarried,10,44,College degree,9,No,Female,1,No,Yes,Yes,No,16.15,0,35.05,22,0,965.3,0,2337.3,1350,0,Yes,Yes,No,No,No,No,Yes,No,Yes,E-service,No,Medium,4. College degree
+854,Zone 3,4,30,Unmarried,0,41,High school degree,0,No,Male,2,No,No,No,No,2,0,0,0,0,9.9,0,0,0,0,No,No,No,No,Yes,Yes,Yes,No,No,Plus service,Yes,Medium,2. High school degree
+855,Zone 1,67,45,Married,22,83,Some college,11,No,Female,2,No,No,Yes,No,27,0,0,10.75,0,1724.8,0,0,640,0,Yes,No,No,No,No,No,Yes,No,Yes,E-service,No,High,3. Some college
+856,Zone 2,22,35,Unmarried,12,28,High school degree,3,No,Male,2,No,No,No,No,6.6,0,0,0,0,180.55,0,0,0,0,Yes,No,Yes,Yes,No,No,No,No,No,E-service,Yes,Low,2. High school degree
+857,Zone 3,51,37,Married,17,101,High school degree,10,No,Female,2,No,No,Yes,No,14.95,0,0,9.5,0,736.85,0,0,480,0,Yes,No,No,No,No,Yes,Yes,No,No,Plus service,No,High,2. High school degree
+858,Zone 1,50,28,Unmarried,6,28,Did not complete high school,10,No,Female,1,Yes,Yes,Yes,Yes,6.4,17.25,36.85,12.75,22,330.95,851.7,1869.4,600,997,Yes,No,No,No,No,Yes,Yes,Yes,No,Plus service,No,Low,1. Did not complete high school
+859,Zone 1,31,47,Married,18,35,High school degree,0,No,Male,2,No,No,No,No,11.95,0,0,0,0,390.6,0,0,0,0,No,No,No,No,No,No,No,No,No,Basic service,No,Medium,2. High school degree
+860,Zone 3,4,28,Unmarried,0,39,High school degree,3,No,Female,1,Yes,No,Yes,No,7.1,15,0,12.75,0,23.8,70.45,0,25,0,No,No,No,No,Yes,Yes,Yes,No,No,Plus service,Yes,Medium,2. High school degree
+861,Zone 3,60,56,Unmarried,19,51,College degree,11,No,Male,1,No,Yes,Yes,Yes,15.25,0,57.45,28.5,67,873.7,0,3404.1,1630,4046.25,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Total service,No,High,4. College degree
+862,Zone 3,7,31,Married,12,31,High school degree,7,No,Female,6,No,No,No,No,5.05,0,0,0,0,38.05,0,0,0,0,No,No,No,No,No,No,No,No,Yes,Basic service,Yes,Medium,2. High school degree
+863,Zone 3,20,40,Unmarried,2,209,College degree,15,No,Female,1,No,No,Yes,No,7.2,0,0,4.75,0,172.1,0,0,80,0,Yes,No,No,No,No,No,No,No,Yes,E-service,No,Very High,4. College degree
+864,Zone 2,19,23,Married,4,37,Some college,1,No,Female,4,Yes,Yes,No,No,8.4,17.5,24.8,0,0,136.05,302.5,446,0,0,No,No,No,No,Yes,Yes,No,Yes,No,Plus service,Yes,Medium,3. Some college
+865,Zone 3,58,37,Married,5,64,College degree,8,No,Female,2,Yes,Yes,Yes,Yes,10.8,58.75,63.25,37.75,109.7,634.75,3525.55,3521.5,2305,6444.95,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Total service,Yes,High,4. College degree
+866,Zone 3,65,64,Unmarried,20,88,Some college,26,No,Female,1,Yes,Yes,Yes,Yes,15.1,36.25,39.9,24,48.8,1017.9,2202.45,2534.3,1620,3242.75,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Total service,Yes,High,3. Some college
+867,Zone 3,72,61,Married,34,61,Did not complete high school,8,No,Male,3,No,No,Yes,No,27.35,0,0,13.25,0,1980.15,0,0,895,0,Yes,No,No,No,No,No,No,No,No,E-service,No,High,1. Did not complete high school
+868,Zone 3,8,42,Unmarried,3,66,Some college,10,No,Male,1,No,No,Yes,Yes,1.95,0,0,27.5,21.5,16.85,0,0,185,157.55,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Total service,No,High,3. Some college
+869,Zone 2,33,40,Married,14,19,Some college,5,No,Male,2,No,No,Yes,No,5.05,0,0,8.5,0,178.9,0,0,315,0,No,No,No,No,No,No,No,No,No,Basic service,No,Low,3. Some college
+870,Zone 3,18,34,Married,4,42,High school degree,14,No,Female,5,Yes,No,Yes,No,6.45,19,0,17,0,104.05,318.75,0,240,0,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Total service,No,Medium,2. High school degree
+871,Zone 2,24,31,Married,6,41,High school degree,13,No,Male,5,Yes,No,Yes,No,8.5,20,0,13,0,196.8,480.7,0,275,0,No,No,No,No,Yes,Yes,Yes,No,No,Plus service,No,Medium,2. High school degree
+872,Zone 3,70,36,Unmarried,8,50,Did not complete high school,15,No,Female,1,No,No,Yes,No,20.55,0,0,20.75,0,1407.15,0,0,1370,0,Yes,No,No,No,No,No,No,No,No,E-service,No,Medium,1. Did not complete high school
+873,Zone 1,7,38,Unmarried,4,70,College degree,4,No,Male,1,Yes,Yes,Yes,Yes,3.85,19.25,38.35,7,17.7,26.65,127.5,250.3,40,129.55,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,Total service,Yes,High,4. College degree
+874,Zone 3,70,59,Unmarried,27,85,Did not complete high school,19,No,Female,1,Yes,No,Yes,No,38.9,62.5,0,62,0,2711,4387.3,0,4220,0,No,No,No,No,Yes,Yes,Yes,Yes,No,Plus service,No,High,1. Did not complete high school
+875,Zone 2,20,48,Married,21,45,Some college,2,No,Female,2,Yes,No,Yes,Yes,10.7,33,0,27.5,29.4,192.15,645.65,0,480,528.3,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,Plus service,Yes,Medium,3. Some college
+876,Zone 3,54,32,Married,12,27,Did not complete high school,9,No,Male,2,No,No,Yes,No,33.95,0,0,24.25,0,1801.3,0,0,1300,0,Yes,No,No,No,No,No,No,No,No,E-service,No,Low,1. Did not complete high school
+877,Zone 3,36,48,Unmarried,28,29,Did not complete high school,2,No,Male,1,No,No,No,No,6,0,0,0,0,222.8,0,0,0,0,No,No,No,No,No,No,No,No,No,Basic service,No,Low,1. Did not complete high school
+878,Zone 3,71,53,Married,29,48,College degree,0,No,Female,2,Yes,No,Yes,No,34.95,28.75,0,36,0,2506.05,2074.75,0,2560,0,Yes,No,No,No,No,Yes,Yes,Yes,No,Plus service,No,Medium,4. College degree
+879,Zone 1,17,41,Unmarried,4,32,High school degree,3,No,Male,1,Yes,No,Yes,No,12.6,9.5,0,6.75,0,208,168,0,100,0,No,No,No,No,Yes,No,Yes,No,No,Plus service,No,Medium,2. High school degree
+880,Zone 1,18,45,Married,17,43,Did not complete high school,9,No,Male,3,Yes,No,Yes,No,4.45,17,0,13.75,0,78.65,287.3,0,245,0,No,No,No,No,Yes,Yes,Yes,No,No,Plus service,No,Medium,1. Did not complete high school
+881,Zone 1,16,27,Unmarried,8,16,Post-undergraduate degree,0,No,Female,1,Yes,Yes,Yes,Yes,5.45,17.75,44.85,13.5,33.9,102.75,282.2,675.65,235,524.2,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Total service,Yes,Low,5. Post-undergraduate degree
+882,Zone 3,38,30,Married,6,22,High school degree,3,No,Female,2,No,No,Yes,No,5.6,0,0,12.25,0,215.05,0,0,455,0,Yes,No,No,Yes,No,No,No,No,Yes,E-service,No,Low,2. High school degree
+883,Zone 1,52,45,Married,19,40,Some college,9,No,Female,3,No,Yes,Yes,Yes,8.45,0,34.35,14.5,34.1,512.65,0,1793.9,705,1740.7,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,Total service,No,Medium,3. Some college
+884,Zone 1,46,48,Married,12,256,Some college,25,No,Male,6,Yes,Yes,Yes,Yes,13.8,31.75,43.65,18.75,66,612.55,1449,1961.8,835,3064.75,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Total service,No,Very High,3. Some college
+885,Zone 2,31,46,Unmarried,23,144,College degree,13,No,Male,1,Yes,No,Yes,No,7.6,15.25,0,9.75,0,271.55,501.15,0,290,0,No,No,No,Yes,Yes,Yes,Yes,No,Yes,Plus service,No,High,4. College degree
+886,Zone 2,23,31,Unmarried,10,45,College degree,0,No,Male,2,Yes,No,No,No,5,11.75,0,0,0,119.5,275.05,0,0,0,Yes,No,No,Yes,No,No,No,No,Yes,E-service,No,Medium,4. College degree
+887,Zone 2,38,56,Married,34,34,High school degree,0,No,Female,3,No,No,No,Yes,7.8,0,0,0,24.65,272.75,0,0,0,888.45,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,Plus service,No,Medium,2. High school degree
+888,Zone 2,50,54,Unmarried,15,248,Some college,28,No,Female,1,Yes,No,Yes,Yes,11.05,17.25,0,5.5,29.15,497.9,833.85,0,270,1453.85,Yes,No,No,No,Yes,Yes,Yes,No,No,Plus service,No,Very High,3. Some college
+889,Zone 2,16,49,Unmarried,17,41,High school degree,5,No,Male,1,Yes,Yes,No,Yes,4.1,14,39.15,0,31.8,62.45,260.05,620,0,521.35,No,Yes,Yes,Yes,No,No,Yes,No,No,Total service,No,Medium,2. High school degree
+890,Zone 2,14,34,Married,4,27,College degree,1,No,Female,2,Yes,Yes,Yes,Yes,6.05,23.5,36.25,20.5,37.85,90.2,313.8,454.45,260,474,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Total service,No,Low,4. College degree
+891,Zone 2,30,52,Unmarried,23,17,Some college,3,No,Female,1,No,Yes,Yes,No,10.3,0,37.6,15.25,0,367.4,0,1106.4,420,0,Yes,No,No,Yes,No,No,No,No,No,E-service,Yes,Low,3. Some college
+892,Zone 3,22,47,Married,0,44,College degree,11,No,Female,3,Yes,Yes,Yes,Yes,9,21.25,50.75,57.25,57,194.55,466.9,1053.1,1220,1264.05,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Total service,Yes,Medium,4. College degree
+893,Zone 1,38,55,Married,12,135,High school degree,24,No,Male,4,Yes,No,Yes,No,12.15,31.75,0,16.25,0,467.75,1167.65,0,595,0,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Total service,No,High,2. High school degree
+894,Zone 3,59,26,Married,3,41,College degree,1,No,Female,3,No,Yes,Yes,Yes,12.65,0,35.1,46.75,29.15,804,0,2099.3,2710,1707.1,Yes,No,No,Yes,No,No,No,No,No,E-service,Yes,Medium,4. College degree
+895,Zone 2,54,55,Unmarried,1,587,Some college,33,No,Male,1,No,No,No,No,13,0,0,0,0,650.85,0,0,0,0,No,Yes,No,No,Yes,Yes,Yes,Yes,No,Plus service,No,Very High,3. Some college
+896,Zone 3,9,40,Unmarried,13,38,College degree,7,No,Female,1,Yes,Yes,Yes,Yes,3.35,21,42.4,17.5,59.55,37.7,179.8,329.05,125,482.1,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Total service,Yes,Medium,4. College degree
+897,Zone 1,67,67,Married,38,49,High school degree,10,No,Female,2,No,Yes,Yes,No,14.3,0,29.25,25.25,0,924.55,0,1963.3,1675,0,Yes,No,No,Yes,No,No,No,No,Yes,E-service,No,Medium,2. High school degree
+898,Zone 2,24,44,Unmarried,19,33,Some college,0,No,Female,2,No,Yes,No,No,4.65,0,26.65,0,0,100.95,0,568.2,0,0,No,No,No,No,No,No,No,Yes,Yes,Basic service,No,Medium,3. Some college
+899,Zone 2,12,55,Married,13,36,Did not complete high school,5,No,Female,2,No,Yes,No,No,5.95,0,26.55,0,0,73.35,0,300.75,0,0,Yes,No,No,Yes,No,No,No,No,No,E-service,Yes,Medium,1. Did not complete high school
+900,Zone 1,26,47,Unmarried,13,54,Some college,0,No,Male,1,Yes,Yes,Yes,Yes,7.1,16,38.5,18,23.5,205.4,484.9,946.85,435,547.75,Yes,Yes,No,Yes,No,No,No,Yes,Yes,E-service,No,High,3. Some college
+901,Zone 2,3,32,Unmarried,4,58,High school degree,11,No,Male,4,Yes,Yes,Yes,Yes,2.75,15.75,29.5,9.25,28.55,5.7,49.65,50.5,15,67.7,Yes,Yes,Yes,No,No,No,Yes,No,Yes,Total service,Yes,High,2. High school degree
+902,Zone 2,20,46,Unmarried,2,23,Post-undergraduate degree,4,No,Female,2,No,No,No,No,4.75,0,0,0,0,82.3,0,0,0,0,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Total service,No,Low,5. Post-undergraduate degree
+903,Zone 3,5,52,Married,0,97,Post-undergraduate degree,9,No,Male,2,Yes,Yes,Yes,Yes,3.1,16.5,35.25,25.5,40.3,12.9,83,127.35,115,162.75,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Total service,Yes,High,5. Post-undergraduate degree
+904,Zone 3,58,53,Unmarried,19,207,Some college,12,No,Female,1,Yes,Yes,Yes,Yes,7.3,29.5,51.2,22,62.8,447.15,1653.9,2986.7,1250,3613.3,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Total service,Yes,Very High,3. Some college
+905,Zone 1,54,28,Married,2,21,Some college,3,No,Male,4,No,No,Yes,No,10.4,0,0,25.75,0,567.55,0,0,1395,0,No,No,No,No,No,No,No,No,No,Basic service,No,Low,3. Some college
+906,Zone 2,52,39,Unmarried,6,119,Some college,18,No,Female,1,Yes,No,Yes,No,10.5,25,0,8.25,0,556.5,1280.9,0,450,0,No,No,Yes,No,No,No,No,No,Yes,Basic service,No,High,3. Some college
+907,Zone 2,38,30,Married,10,25,Did not complete high school,5,No,Female,4,No,No,Yes,No,3.95,0,0,12,0,179.75,0,0,430,0,No,No,No,No,No,No,No,No,No,Basic service,No,Low,1. Did not complete high school
+908,Zone 2,19,46,Unmarried,5,59,Some college,17,No,Male,1,Yes,No,No,No,5.6,9,0,0,0,97.25,191.25,0,0,0,No,No,No,No,Yes,No,No,Yes,No,Basic service,No,High,3. Some college
+909,Zone 2,22,33,Married,2,24,Did not complete high school,3,No,Male,4,No,No,No,No,7.1,0,0,0,0,153.4,0,0,0,0,No,No,No,No,No,No,No,No,Yes,Basic service,No,Low,1. Did not complete high school
+910,Zone 1,49,35,Married,15,113,College degree,4,No,Male,5,No,No,No,No,16.1,0,0,0,0,818.45,0,0,0,0,Yes,No,No,No,No,No,No,No,Yes,E-service,No,High,4. College degree
+911,Zone 3,5,39,Unmarried,0,22,Did not complete high school,0,No,Female,2,Yes,No,Yes,No,4.7,19,0,9.25,0,32.95,106.85,0,30,0,No,No,No,No,Yes,Yes,Yes,Yes,No,Plus service,No,Low,1. Did not complete high school
+912,Zone 2,18,69,Unmarried,28,11,Did not complete high school,17,Yes,Male,1,No,No,No,No,3.85,0,0,0,0,62.75,0,0,0,0,No,No,No,No,No,No,No,No,No,Basic service,No,Low,1. Did not complete high school
+913,Zone 3,43,29,Unmarried,4,33,Did not complete high school,13,No,Female,4,Yes,No,Yes,Yes,22.05,18.75,0,7.5,24.95,1042.95,830.75,0,345,1124.25,Yes,No,No,No,Yes,Yes,Yes,Yes,No,Plus service,No,Medium,1. Did not complete high school
+914,Zone 3,17,50,Unmarried,2,205,Post-undergraduate degree,19,No,Male,1,Yes,Yes,No,Yes,6.95,21.25,37.95,0,36.65,121.45,371.2,523.75,0,620.3,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Total service,Yes,Very High,5. Post-undergraduate degree
+915,Zone 2,37,33,Unmarried,4,41,Some college,8,No,Female,3,No,Yes,No,No,9.2,0,30.45,0,0,347.1,0,1158.9,0,0,Yes,No,No,No,Yes,No,No,No,Yes,E-service,Yes,Medium,3. Some college
+916,Zone 2,8,39,Unmarried,0,39,Did not complete high school,7,No,Female,1,Yes,No,No,No,3.15,10.75,0,0,0,29.05,83.55,0,0,0,No,No,No,No,No,No,No,No,No,Basic service,No,Medium,1. Did not complete high school
+917,Zone 2,51,46,Married,8,107,High school degree,21,No,Female,6,Yes,No,Yes,Yes,17.3,25.75,0,23,37.4,840,1396.75,0,1155,1832.25,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,Plus service,No,High,2. High school degree
+918,Zone 1,71,55,Married,11,198,Did not complete high school,31,No,Female,3,Yes,No,Yes,No,17.8,44.25,0,32,0,1218,3058.5,0,2305,0,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,Plus service,No,Very High,1. Did not complete high school
+919,Zone 1,56,53,Married,23,100,Post-undergraduate degree,14,No,Female,2,No,Yes,Yes,No,14.15,0,34.2,9.5,0,752.9,0,1988.7,560,0,Yes,Yes,No,Yes,No,No,No,No,Yes,E-service,No,High,5. Post-undergraduate degree
+920,Zone 3,70,68,Unmarried,21,1131,High school degree,45,No,Male,1,Yes,No,Yes,Yes,14.85,57.5,0,15,39.5,1104.4,3926.65,0,990,2798.25,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,Plus service,No,Very High,2. High school degree
+921,Zone 1,62,53,Unmarried,14,360,Some college,26,No,Female,2,Yes,No,Yes,No,31.9,53.25,0,16.5,0,1892.85,3232.05,0,890,0,Yes,No,No,No,Yes,Yes,Yes,Yes,No,Plus service,No,Very High,3. Some college
+922,Zone 1,50,52,Married,22,162,High school degree,27,No,Female,2,Yes,Yes,Yes,Yes,12.85,24.25,49.2,14.25,42.85,599.05,1238.2,2498.4,725,2032.3,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Total service,No,Very High,2. High school degree
+923,Zone 3,1,31,Unmarried,3,29,Post-undergraduate degree,2,No,Female,3,No,Yes,No,No,1.45,0,25.25,0,0,1.45,0,25.25,0,0,No,No,No,Yes,No,No,No,No,Yes,Basic service,Yes,Low,5. Post-undergraduate degree
+924,Zone 3,15,26,Unmarried,1,38,College degree,1,No,Male,2,No,Yes,No,No,7.4,0,35.4,0,0,91.7,0,483.5,0,0,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,Total service,Yes,Medium,4. College degree
+925,Zone 3,72,55,Married,24,82,Some college,25,No,Female,2,No,Yes,Yes,No,62.3,0,35.65,65.25,0,4333,0,2477.1,4915,0,Yes,No,No,No,Yes,Yes,No,No,Yes,E-service,No,High,3. Some college
+926,Zone 2,69,47,Married,10,159,High school degree,24,No,Male,4,No,No,Yes,No,25.2,0,0,36.25,0,1714.7,0,0,2470,0,No,No,No,No,Yes,No,Yes,No,No,Plus service,Yes,Very High,2. High school degree
+927,Zone 2,32,44,Unmarried,10,201,High school degree,24,No,Male,1,Yes,No,Yes,No,7.65,28,0,18.5,0,237.85,895.05,0,595,0,No,No,Yes,No,Yes,Yes,Yes,Yes,No,Plus service,No,Very High,2. High school degree
+928,Zone 1,19,25,Married,6,27,College degree,0,No,Female,2,Yes,No,Yes,No,9.55,20.5,0,34.75,0,172.55,398.95,0,620,0,No,Yes,No,No,Yes,Yes,Yes,Yes,No,Plus service,Yes,Low,4. College degree
+929,Zone 2,42,54,Unmarried,19,57,Some college,10,No,Female,1,No,Yes,Yes,Yes,8.7,0,47.15,11.75,47.5,356.45,0,1872.7,415,1932.35,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Total service,No,High,3. Some college
+930,Zone 3,51,49,Unmarried,29,45,Did not complete high school,16,No,Male,1,No,No,Yes,No,15.7,0,0,8.5,0,815.05,0,0,400,0,No,No,No,No,No,Yes,No,No,No,Basic service,No,Medium,1. Did not complete high school
+931,Zone 2,32,22,Married,2,17,High school degree,2,No,Female,4,Yes,No,Yes,No,4.8,28,0,19,0,157.25,952.9,0,600,0,No,Yes,No,No,Yes,Yes,Yes,Yes,No,Plus service,Yes,Low,2. High school degree
+932,Zone 3,26,55,Married,13,61,Did not complete high school,26,No,Male,2,Yes,No,Yes,No,4.25,29,0,12,0,102.45,729.15,0,300,0,No,No,No,No,Yes,Yes,Yes,Yes,No,Plus service,No,High,1. Did not complete high school
+933,Zone 2,39,44,Married,14,418,College degree,18,No,Male,2,Yes,No,Yes,No,7.05,27.5,0,17.5,0,269,1046.2,0,640,0,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Total service,No,Very High,4. College degree
+934,Zone 2,72,53,Unmarried,12,152,High school degree,32,No,Female,1,Yes,No,Yes,Yes,43.25,50.5,0,19.25,44.9,3115,3669,0,1315,3120.35,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,Total service,No,Very High,2. High school degree
+935,Zone 2,4,39,Unmarried,11,38,College degree,1,No,Male,2,Yes,No,Yes,Yes,2.8,22.75,0,13.75,30.2,9.35,103.45,0,40,76.9,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Total service,Yes,Medium,4. College degree
+936,Zone 2,54,50,Married,5,151,College degree,20,No,Male,3,Yes,No,Yes,Yes,21.95,40.25,0,25.75,21.8,1248.25,2030.2,0,1355,1121.05,Yes,No,No,No,Yes,Yes,Yes,Yes,No,Plus service,No,Very High,4. College degree
+937,Zone 1,34,40,Married,21,23,College degree,9,No,Female,3,Yes,Yes,Yes,Yes,5.95,25.75,45.4,16.75,37.7,207.7,805.85,1498.9,540,1257.7,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Total service,No,Low,4. College degree
+938,Zone 1,20,25,Married,4,33,College degree,0,No,Female,3,Yes,No,Yes,Yes,4.55,16,0,19.25,27.05,115.65,288.75,0,365,511.25,No,No,No,Yes,Yes,No,Yes,No,Yes,Basic service,No,Medium,4. College degree
+939,Zone 3,14,49,Unmarried,4,26,Did not complete high school,8,No,Male,1,No,No,Yes,No,6.5,0,0,14.5,0,86.7,0,0,180,0,No,No,No,No,No,No,No,No,No,Basic service,No,Low,1. Did not complete high school
+940,Zone 1,61,59,Unmarried,26,89,Did not complete high school,40,Yes,Female,1,Yes,No,Yes,No,17.35,35,0,29.25,0,988.8,2166.8,0,1805,0,No,No,No,No,Yes,Yes,No,Yes,No,Plus service,No,High,1. Did not complete high school
+941,Zone 2,4,24,Unmarried,2,25,College degree,0,No,Male,1,No,No,Yes,No,3.75,0,0,15.75,0,12.4,0,0,35,0,No,Yes,No,Yes,No,Yes,No,No,No,Basic service,Yes,Low,4. College degree
+942,Zone 3,16,48,Unmarried,25,59,High school degree,13,No,Male,2,Yes,No,Yes,No,7.85,20.25,0,14,0,104.9,349.4,0,180,0,No,No,No,No,Yes,Yes,Yes,Yes,No,Plus service,Yes,High,2. High school degree
+943,Zone 1,13,41,Unmarried,9,55,High school degree,12,No,Female,3,No,No,No,No,4.85,0,0,0,0,55.65,0,0,0,0,No,No,No,No,No,No,No,No,Yes,Basic service,No,High,2. High school degree
+944,Zone 2,53,37,Married,18,25,Some college,6,No,Female,2,No,Yes,Yes,No,9.95,0,28.65,23.5,0,558.15,0,1533.1,1170,0,Yes,No,No,Yes,No,No,No,No,Yes,E-service,Yes,Low,3. Some college
+945,Zone 2,58,36,Married,13,39,High school degree,8,No,Female,7,Yes,No,Yes,Yes,16.4,38.25,0,55.5,57.05,933.1,2355.4,0,3145,3247.95,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Total service,Yes,Medium,2. High school degree
+946,Zone 2,25,38,Married,19,56,Did not complete high school,19,No,Female,2,No,Yes,Yes,Yes,10.55,0,31.95,32.75,23.65,290.25,0,732.95,770,578.45,No,Yes,No,No,Yes,No,No,Yes,No,Plus service,No,High,1. Did not complete high school
+947,Zone 1,71,61,Married,19,155,Some college,30,No,Male,2,Yes,No,Yes,No,23.9,27.5,0,15,0,1684.05,1935.15,0,1030,0,Yes,No,No,No,Yes,Yes,Yes,Yes,No,Plus service,No,Very High,3. Some college
+948,Zone 1,22,33,Married,13,119,Post-undergraduate degree,0,No,Female,4,Yes,Yes,No,Yes,4.3,23.25,51.6,0,60.35,88.5,520.45,1013.3,0,1230.7,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Total service,Yes,High,5. Post-undergraduate degree
+949,Zone 1,46,48,Married,15,64,Some college,20,No,Male,2,Yes,Yes,Yes,Yes,10.2,26.5,40.2,11.5,23.2,393.55,1316.7,1832,510,948.75,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Plus service,No,High,3. Some college
+950,Zone 3,66,50,Married,2,333,Post-undergraduate degree,24,No,Male,2,No,No,Yes,No,10.3,0,0,14.25,0,659.55,0,0,975,0,Yes,No,Yes,Yes,No,No,No,No,No,E-service,No,Very High,5. Post-undergraduate degree
+951,Zone 1,69,58,Married,29,26,High school degree,7,No,Female,3,Yes,Yes,Yes,Yes,32.65,33,54,29.25,50.65,2321.8,2378.2,3649.6,2055,3475.45,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Total service,No,Low,2. High school degree
+952,Zone 2,38,49,Married,3,33,College degree,11,No,Male,4,No,Yes,No,Yes,6.85,0,42.1,0,25.15,285.55,0,1642.2,0,954,Yes,No,No,Yes,No,Yes,No,Yes,Yes,E-service,No,Medium,4. College degree
+953,Zone 3,16,35,Unmarried,7,46,Some college,3,No,Male,1,No,Yes,No,No,5.1,0,27.15,0,0,74.1,0,434.15,0,0,No,No,No,No,No,No,No,No,Yes,Basic service,No,Medium,3. Some college
+954,Zone 3,44,39,Married,8,41,High school degree,8,No,Male,4,Yes,No,Yes,No,7.55,16.25,0,10.25,0,353.3,638.25,0,490,0,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Total service,No,Medium,2. High school degree
+955,Zone 1,50,50,Unmarried,24,31,Did not complete high school,8,No,Male,1,No,No,Yes,No,11.95,0,0,28.25,0,540.5,0,0,1355,0,No,No,No,No,No,No,Yes,Yes,No,Plus service,No,Medium,1. Did not complete high school
+956,Zone 3,10,23,Unmarried,1,29,College degree,0,No,Female,1,Yes,Yes,Yes,Yes,4.95,32,53.25,35.75,50.45,62.1,323.8,420.55,285,416,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Total service,No,Low,4. College degree
+957,Zone 2,7,41,Unmarried,6,94,High school degree,16,No,Male,1,Yes,Yes,Yes,Yes,3.85,28,37.65,9,41.4,27.95,218.9,256.3,65,237.25,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Total service,No,High,2. High school degree
+958,Zone 3,71,48,Unmarried,25,288,Some college,19,No,Male,1,No,No,Yes,No,30.9,0,0,19.75,0,2123.6,0,0,1305,0,No,No,No,No,No,No,Yes,No,No,Basic service,No,Very High,3. Some college
+959,Zone 3,16,39,Married,5,31,Did not complete high school,4,No,Female,5,No,No,No,No,5,0,0,0,0,69.6,0,0,0,0,No,No,No,No,No,No,No,No,No,Basic service,No,Medium,1. Did not complete high school
+960,Zone 3,6,20,Unmarried,0,25,High school degree,0,No,Female,2,Yes,No,Yes,No,1.9,20.75,0,15.5,0,19.3,114.4,0,95,0,No,No,No,No,Yes,Yes,Yes,Yes,No,Plus service,No,Low,2. High school degree
+961,Zone 2,46,55,Unmarried,24,269,High school degree,35,No,Male,1,Yes,No,Yes,No,10.1,39,0,18,0,449.7,1829.75,0,775,0,No,No,Yes,No,Yes,Yes,Yes,Yes,No,Plus service,No,Very High,2. High school degree
+962,Zone 3,51,49,Married,13,203,Some college,27,No,Male,4,Yes,No,Yes,No,17.6,22,0,21.75,0,961.9,1125.25,0,1075,0,No,Yes,No,No,Yes,Yes,Yes,Yes,No,Plus service,No,Very High,3. Some college
+963,Zone 3,5,34,Unmarried,12,22,High school degree,2,No,Male,2,Yes,Yes,No,Yes,3.6,12.5,28.5,0,19.3,16.1,46.7,143.65,0,86.15,No,Yes,No,No,No,Yes,Yes,No,Yes,Basic service,Yes,Low,2. High school degree
+964,Zone 2,49,54,Married,23,25,High school degree,1,No,Female,4,No,No,Yes,No,14.65,0,0,41.25,0,719.5,0,0,1980,0,No,No,No,No,No,No,No,No,No,Basic service,No,Low,2. High school degree
+965,Zone 3,49,51,Married,14,222,Post-undergraduate degree,16,No,Male,2,No,No,No,No,12.25,0,0,0,0,575.6,0,0,0,0,Yes,No,No,Yes,No,Yes,No,No,Yes,E-service,No,Very High,5. Post-undergraduate degree
+966,Zone 1,26,30,Married,4,76,Some college,7,No,Male,2,No,Yes,No,No,9.45,0,29.2,0,0,214.7,0,697.05,0,0,No,No,Yes,No,No,No,No,No,Yes,Basic service,No,High,3. Some college
+967,Zone 3,22,39,Unmarried,4,55,High school degree,17,No,Female,1,Yes,No,Yes,Yes,5.4,38.75,0,17.75,50.2,81.55,908.35,0,290,1147.4,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Total service,Yes,High,2. High school degree
+968,Zone 3,51,45,Married,4,46,Some college,6,No,Male,2,Yes,Yes,Yes,Yes,20.7,34.75,48.65,32.25,48.65,1082.4,1711.75,2496.4,1600,2353.35,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Total service,No,Medium,3. Some college
+969,Zone 1,19,27,Married,7,56,College degree,1,No,Male,4,No,Yes,Yes,Yes,4.75,0,46.3,21.75,37.7,97.85,0,804.35,445,692.95,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Total service,Yes,High,4. College degree
+970,Zone 1,9,36,Unmarried,1,79,Some college,11,No,Female,5,Yes,Yes,Yes,Yes,5.8,27.75,33.75,30.75,25.9,44.55,246,246.85,230,186.8,No,Yes,No,No,Yes,Yes,Yes,Yes,No,Plus service,Yes,High,3. Some college
+971,Zone 3,15,25,Married,0,51,Some college,2,No,Female,2,No,No,No,No,3.15,0,0,0,0,45.35,0,0,0,0,No,No,No,No,No,No,No,No,No,Basic service,No,High,3. Some college
+972,Zone 2,57,63,Unmarried,19,61,Did not complete high school,27,No,Male,1,Yes,No,Yes,No,12.7,38.25,0,33.75,0,767.75,2239.7,0,1880,0,No,No,No,No,Yes,Yes,Yes,Yes,No,Plus service,No,High,1. Did not complete high school
+973,Zone 3,48,45,Unmarried,15,41,Did not complete high school,10,No,Female,2,No,No,No,No,10.2,0,0,0,0,445.7,0,0,0,0,No,No,No,No,No,No,No,No,No,Basic service,No,Medium,1. Did not complete high school
+974,Zone 2,9,53,Married,20,50,High school degree,13,No,Female,2,No,Yes,No,No,3.1,0,21.35,0,0,22,0,196.15,0,0,No,No,No,No,No,No,No,No,Yes,Basic service,Yes,Medium,2. High school degree
+975,Zone 1,61,52,Unmarried,21,82,Did not complete high school,18,No,Male,1,No,No,Yes,No,12.1,0,0,15.75,0,751.75,0,0,910,0,No,No,No,No,Yes,No,Yes,Yes,No,Plus service,No,High,1. Did not complete high school
+976,Zone 3,72,53,Unmarried,34,108,Did not complete high school,23,No,Male,1,Yes,No,Yes,Yes,32.55,35.5,0,14.75,40.75,2361.35,2535.4,0,1060,2886.05,Yes,No,No,No,Yes,Yes,Yes,Yes,No,Plus service,No,High,1. Did not complete high school
+977,Zone 3,57,60,Unmarried,20,14,High school degree,27,Yes,Female,1,Yes,No,Yes,No,16.1,14,0,11.75,0,938.65,822.35,0,630,0,No,No,No,No,No,Yes,Yes,Yes,No,Plus service,No,Low,2. High school degree
+978,Zone 2,57,51,Unmarried,10,46,Did not complete high school,13,No,Male,1,No,No,Yes,No,15.1,0,0,7.5,0,901.05,0,0,395,0,Yes,No,No,Yes,No,No,No,Yes,No,E-service,No,Medium,1. Did not complete high school
+979,Zone 1,37,60,Married,0,46,Did not complete high school,20,No,Male,3,Yes,No,Yes,No,8.8,37.75,0,22,0,293.65,1377.85,0,785,0,No,No,No,No,Yes,Yes,Yes,Yes,No,Plus service,No,Medium,1. Did not complete high school
+980,Zone 3,45,51,Unmarried,13,146,College degree,16,No,Male,2,No,No,Yes,No,20.25,0,0,37.75,0,869.75,0,0,1640,0,No,No,No,No,No,No,No,No,Yes,Basic service,No,High,4. College degree
+981,Zone 3,45,39,Married,15,36,Did not complete high school,11,No,Female,5,No,No,Yes,No,15.2,0,0,14.25,0,736.75,0,0,615,0,No,No,No,Yes,No,No,No,No,No,Basic service,No,Medium,1. Did not complete high school
+982,Zone 2,55,44,Unmarried,24,83,Did not complete high school,23,No,Female,1,Yes,No,Yes,No,17.35,24.5,0,14.25,0,973.1,1343.5,0,720,0,No,No,No,No,No,No,Yes,Yes,No,Plus service,No,High,1. Did not complete high school
+983,Zone 2,24,27,Unmarried,2,17,Some college,3,No,Male,5,Yes,No,No,No,5.2,18.5,0,0,0,89,462.25,0,0,0,Yes,Yes,No,No,No,Yes,No,No,No,E-service,Yes,Low,3. Some college
+984,Zone 3,1,20,Unmarried,1,18,Some college,0,No,Male,1,No,Yes,No,Yes,4.2,0,34.05,0,16.85,4.2,0,34.05,0,16.85,No,Yes,No,Yes,No,No,No,Yes,Yes,Basic service,Yes,Low,3. Some college
+985,Zone 2,34,23,Married,3,24,Did not complete high school,7,No,Female,4,Yes,No,Yes,No,6,28,0,12.75,0,203.25,959.4,0,435,0,No,No,No,No,No,Yes,Yes,Yes,No,Plus service,No,Low,1. Did not complete high school
+986,Zone 3,14,37,Married,5,48,Some college,1,No,Female,4,Yes,No,No,No,4.9,14.5,0,0,0,78.2,230.35,0,0,0,No,No,No,No,No,No,No,No,No,Basic service,No,Medium,3. Some college
+987,Zone 3,6,32,Unmarried,10,47,Did not complete high school,10,No,Male,1,Yes,No,Yes,No,3.85,23.75,0,12.5,0,29.9,128.45,0,80,0,No,No,No,No,Yes,Yes,Yes,Yes,No,Plus service,No,Medium,1. Did not complete high school
+988,Zone 3,24,30,Unmarried,0,25,College degree,5,No,Male,2,Yes,No,Yes,Yes,8.7,47.75,0,32.75,64,186.6,1152.9,0,780,1542.9,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Total service,Yes,Low,4. College degree
+989,Zone 2,3,26,Married,6,59,College degree,0,No,Female,3,Yes,Yes,Yes,Yes,2.55,23.5,29.6,10.75,19.2,2.7,80.5,66.55,10,29.7,No,Yes,Yes,No,Yes,No,Yes,Yes,No,Total service,Yes,High,4. College degree
+990,Zone 1,4,30,Unmarried,1,45,College degree,6,No,Male,3,No,Yes,Yes,No,3.65,0,34.2,29,0,8.85,0,116.2,80,0,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Total service,Yes,Medium,4. College degree
+991,Zone 1,72,40,Married,19,163,College degree,15,No,Male,2,Yes,No,Yes,No,39,31.25,0,14.75,0,2914,2176.85,0,1070,0,Yes,No,No,No,No,No,No,Yes,Yes,E-service,No,Very High,4. College degree
+992,Zone 1,44,56,Unmarried,4,63,High school degree,6,No,Female,1,Yes,No,No,No,7.5,20.25,0,0,0,342.2,861.95,0,0,0,Yes,No,No,No,Yes,Yes,No,No,No,Plus service,Yes,High,2. High school degree
+993,Zone 1,50,43,Unmarried,6,27,Some college,4,No,Male,1,Yes,No,Yes,No,15,45.25,0,52.75,0,817.85,2320.25,0,2645,0,No,No,No,No,Yes,Yes,Yes,Yes,No,Plus service,No,Low,3. Some college
+994,Zone 2,61,50,Married,16,190,High school degree,22,No,Female,2,No,Yes,Yes,Yes,16.85,0,42.55,26.5,44.1,1063.15,0,2544.4,1600,2540.2,Yes,No,No,Yes,No,No,Yes,No,Yes,E-service,No,Very High,2. High school degree
+995,Zone 1,34,52,Married,2,106,High school degree,19,No,Male,2,Yes,No,Yes,No,4.95,19,0,13.5,0,153.5,649.35,0,430,0,No,No,No,Yes,Yes,No,Yes,Yes,No,Plus service,No,High,2. High school degree
+996,Zone 3,26,54,Married,30,26,Some college,1,No,Female,2,Yes,No,Yes,Yes,5.2,23.5,0,23.75,39.25,149.2,670.1,0,610,1004.35,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Total service,Yes,Low,3. Some college
+997,Zone 1,15,46,Married,17,63,Post-undergraduate degree,1,No,Male,2,Yes,Yes,No,Yes,3.7,16.5,42.5,0,33.1,40.55,207.35,547.95,0,475.3,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Total service,Yes,High,5. Post-undergraduate degree
+998,Zone 3,10,39,Unmarried,0,27,Some college,0,No,Female,3,No,Yes,No,No,3,0,29.05,0,0,32.25,0,265.95,0,0,No,No,No,No,No,No,No,No,Yes,Basic service,No,Low,3. Some college
+999,Zone 1,7,34,Unmarried,2,22,Post-undergraduate degree,5,No,Female,1,No,Yes,No,No,4.65,0,25.6,0,0,29.35,0,179.1,0,0,No,No,No,No,No,No,No,No,No,Basic service,No,Low,5. Post-undergraduate degree
+1000,Zone 3,67,59,Unmarried,40,944,Post-undergraduate degree,33,No,Female,1,Yes,Yes,Yes,Yes,26.75,32,54.55,35.75,65.8,1837.55,2117.65,3636.6,2360,4392.85,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Total service,No,Very High,5. Post-undergraduate degree
+1001,Zone 3,70,49,Unmarried,18,87,High school degree,22,No,Female,1,Yes,No,Yes,No,25.6,33.5,0,25.25,0,1841.85,2368.2,0,1705,0,No,Yes,No,No,Yes,Yes,Yes,Yes,No,Plus service,No,High,2. High school degree
+1002,Zone 3,50,36,Married,7,39,Some college,3,No,Female,3,No,Yes,Yes,No,13.15,0,33.6,16.25,0,665.4,0,1651.9,745,0,Yes,No,No,Yes,No,No,No,No,Yes,E-service,Yes,Medium,3. Some college
